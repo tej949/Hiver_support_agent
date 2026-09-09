@@ -1,0 +1,12 @@
+candidate_intent,count,percentage
+other,87451,51.8
+refund_return,17746,10.51
+customer_service_escalation,11849,7.02
+account_access,9871,5.85
+shipping_speed,9360,5.54
+product_device_issue,7992,4.73
+delivery_delay,7366,4.36
+payment_billing,6771,4.01
+delivery_not_received,6148,3.64
+order_status,3502,2.07
+order_change_cancel,758,0.45
