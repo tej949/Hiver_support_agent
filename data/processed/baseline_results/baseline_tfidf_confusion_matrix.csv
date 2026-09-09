@@ -1,0 +1,11 @@
+,delivery,order_status_tracking,order_change_cancel,return_refund_replacement,payment_billing,account_access,product_device_issue,shipping_delivery_options,customer_service_complaint,information_general
+delivery,327,8,1,2,0,1,2,6,1,6
+order_status_tracking,7,758,3,7,7,0,8,17,4,19
+order_change_cancel,0,0,119,3,0,1,0,2,0,0
+return_refund_replacement,23,21,3,1773,53,4,23,23,40,24
+payment_billing,15,16,2,15,904,3,28,10,34,19
+account_access,0,1,0,0,0,164,4,0,3,5
+product_device_issue,4,14,1,4,7,0,844,4,12,20
+shipping_delivery_options,2,1,1,2,0,0,2,300,0,3
+customer_service_complaint,24,22,2,10,5,2,3,11,1168,21
+information_general,4,1,4,4,4,4,7,6,4,656

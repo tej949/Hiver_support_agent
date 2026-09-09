@@ -1,0 +1,103 @@
+{
+  "model": "TF-IDF + Logistic Regression",
+  "task": "intent_classification",
+  "input": "current_customer_message_only",
+  "training_data": {
+    "type": "silver_labels",
+    "path": "data\\processed\\splits\\train_silver.csv",
+    "rows": 43174
+  },
+  "validation_data": {
+    "type": "silver_labels",
+    "path": "data\\processed\\splits\\validation_silver.csv",
+    "rows": 7702
+  },
+  "golden_set_used": false,
+  "random_state": 42,
+  "metrics": {
+    "accuracy": 0.9105427161776162,
+    "macro_f1": 0.9031962166234212,
+    "weighted_f1": 0.9111183718914627
+  },
+  "confidence": {
+    "mean": 0.7325640049826713,
+    "median": 0.7710999114924414,
+    "min": 0.1534748201598713,
+    "max": 0.9999999960134303
+  },
+  "classification_report": {
+    "delivery": {
+      "precision": 0.8054187192118226,
+      "recall": 0.923728813559322,
+      "f1-score": 0.8605263157894737,
+      "support": 354.0
+    },
+    "order_status_tracking": {
+      "precision": 0.9002375296912114,
+      "recall": 0.9132530120481928,
+      "f1-score": 0.9066985645933014,
+      "support": 830.0
+    },
+    "order_change_cancel": {
+      "precision": 0.875,
+      "recall": 0.952,
+      "f1-score": 0.9118773946360154,
+      "support": 125.0
+    },
+    "return_refund_replacement": {
+      "precision": 0.9741758241758242,
+      "recall": 0.8922999496728736,
+      "f1-score": 0.9314420803782506,
+      "support": 1987.0
+    },
+    "payment_billing": {
+      "precision": 0.9224489795918367,
+      "recall": 0.864244741873805,
+      "f1-score": 0.8923988153998026,
+      "support": 1046.0
+    },
+    "account_access": {
+      "precision": 0.9162011173184358,
+      "recall": 0.9265536723163842,
+      "f1-score": 0.9213483146067416,
+      "support": 177.0
+    },
+    "product_device_issue": {
+      "precision": 0.9163952225841476,
+      "recall": 0.9274725274725275,
+      "f1-score": 0.9219006007646096,
+      "support": 910.0
+    },
+    "shipping_delivery_options": {
+      "precision": 0.7915567282321899,
+      "recall": 0.9646302250803859,
+      "f1-score": 0.8695652173913043,
+      "support": 311.0
+    },
+    "customer_service_complaint": {
+      "precision": 0.9225908372827805,
+      "recall": 0.9211356466876972,
+      "f1-score": 0.9218626677190213,
+      "support": 1268.0
+    },
+    "information_general": {
+      "precision": 0.8486416558861578,
+      "recall": 0.9452449567723343,
+      "f1-score": 0.8943421949556919,
+      "support": 694.0
+    },
+    "accuracy": 0.9105427161776162,
+    "macro avg": {
+      "precision": 0.8872666613974406,
+      "recall": 0.9230563545483523,
+      "f1-score": 0.9031962166234212,
+      "support": 7702.0
+    },
+    "weighted avg": {
+      "precision": 0.914479778653833,
+      "recall": 0.9105427161776162,
+      "f1-score": 0.9111183718914627,
+      "support": 7702.0
+    }
+  }
+}
