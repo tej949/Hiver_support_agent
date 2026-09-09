@@ -588,19 +588,200 @@ def candidate_action(row):
 
 
 def escalation_flags(row):
-    text = (
-        clean_text(row["current_customer_message"])
-        + " "
-        + clean_text(row["conversation_context"])
+    """
+    Escalation sampling should primarily reflect what the
+    CURRENT customer is asking for.
+
+    Historical brand responses are not treated as evidence
+    that the customer wants escalation.
+    """
+
+    current = clean_text(
+        row["current_customer_message"]
+    )
+
+    context = clean_text(
+        row["conversation_context"]
     )
 
     flags = []
 
-    for flag, patterns in ESCALATION_PATTERNS.items():
-        score, _ = count_matches(text, patterns)
+    # --------------------------------------------------------
+    # 1. Explicit human/support request
+    # --------------------------------------------------------
 
-        if score > 0:
-            flags.append(flag)
+    explicit_patterns = [
+        "speak to a human",
+        "speak to someone",
+        "talk to someone",
+        "real person",
+        "human agent",
+        "customer service agent",
+        "representative",
+        "call me",
+        "please call",
+        "i need a human",
+        "i want a human",
+        "let me speak",
+    ]
+
+    score, _ = count_matches(
+        current,
+        explicit_patterns
+    )
+
+    if score > 0:
+        flags.append("explicit_human_request")
+
+    # --------------------------------------------------------
+    # 2. Failed troubleshooting/support
+    # --------------------------------------------------------
+
+    failed_patterns = [
+        "already tried",
+        "tried everything",
+        "nothing works",
+        "still not working",
+        "still doesn't work",
+        "still doesnt work",
+        "didn't work",
+        "didnt work",
+        "tried that",
+        "no luck",
+    ]
+
+    score, _ = count_matches(
+        current,
+        failed_patterns
+    )
+
+    if score > 0:
+        flags.append("failed_support")
+
+    # --------------------------------------------------------
+    # 3. Account actions
+    # --------------------------------------------------------
+
+    account_patterns = [
+        "close my account",
+        "delete my account",
+        "account locked",
+        "can't login",
+        "cant login",
+        "can't log in",
+        "cant log in",
+        "reset my password",
+        "change my account",
+    ]
+
+    score, _ = count_matches(
+        current,
+        account_patterns
+    )
+
+    if score > 0:
+        flags.append("account_action")
+
+    # --------------------------------------------------------
+    # 4. Missing delivery
+    #
+    # Only flag strong missing-delivery language.
+    # Generic "where is my order" belongs to delivery/status,
+    # not automatic escalation.
+    # --------------------------------------------------------
+
+    missing_delivery_patterns = [
+        "marked delivered",
+        "says delivered",
+        "delivered but",
+        "never arrived",
+        "missing package",
+        "missing order",
+        "package missing",
+        "not received",
+        "didn't receive",
+        "didnt receive",
+        "haven't received",
+        "havent received",
+    ]
+
+    score, _ = count_matches(
+        current,
+        missing_delivery_patterns
+    )
+
+    if score > 0:
+        flags.append("missing_delivery")
+
+    # --------------------------------------------------------
+    # 5. Strong frustration
+    # --------------------------------------------------------
+
+    frustration_patterns = [
+        "ridiculous",
+        "unacceptable",
+        "worst service",
+        "terrible service",
+        "awful service",
+        "furious",
+        "extremely angry",
+        "very angry",
+        "extremely frustrated",
+        "very frustrated",
+        "pathetic service",
+    ]
+
+    score, _ = count_matches(
+        current,
+        frustration_patterns
+    )
+
+    if score > 0:
+        flags.append("high_frustration")
+
+    # --------------------------------------------------------
+    # 6. Context-dependent unresolved case
+    #
+    # Context can strengthen an escalation candidate only
+    # when the CURRENT message itself signals continuation
+    # after a failed attempt.
+    # --------------------------------------------------------
+
+    unresolved_current = [
+        "still",
+        "again",
+        "yet",
+        "no luck",
+        "didn't work",
+        "didnt work",
+        "still doesn't work",
+        "still doesnt work",
+    ]
+
+    context_support_patterns = [
+        "contact",
+        "support",
+        "help",
+        "tried",
+        "unable",
+        "cannot",
+        "can't",
+        "issue",
+        "problem",
+    ]
+
+    current_score, _ = count_matches(
+        current,
+        unresolved_current
+    )
+
+    context_score, _ = count_matches(
+        context,
+        context_support_patterns
+    )
+
+    if current_score > 0 and context_score > 0:
+        flags.append("contextual_failed_support")
 
     return flags
 
@@ -784,7 +965,7 @@ def main():
     df = pd.concat([df, ambiguity], axis=1)
 
     df["ambiguity_candidate"] = (
-        df["ambiguity_score"] >= 2
+        df["ambiguity_score"] >= 4
     )
 
     # --------------------------------------------------------
@@ -928,6 +1109,8 @@ def main():
         pool = df[
             (df["candidate_intent"] == intent)
             & (~df["customer_tweet_id"].isin(selected_ids))
+            & (~df["ambiguity_candidate"])
+            & (~df["escalation_candidate"])
         ].copy()
 
         if len(pool) == 0:
@@ -1010,15 +1193,15 @@ def main():
         df["ambiguity_candidate"]
         & (~df["customer_tweet_id"].isin(selected_ids))
     ].copy()
-
     ambiguous_pool = ambiguous_pool.sort_values(
-        by="ambiguity_score",
-        ascending=False,
-    )
-
+    by=[
+        "ambiguity_score",
+        "context_turn_count",
+    ],
+    ascending=[False, False],)
     ambiguous_sample = ambiguous_pool.head(
-        AMBIGUOUS_QUOTA
-    )
+    AMBIGUOUS_QUOTA)
+    
 
     selected_parts.append(
         ambiguous_sample
@@ -1034,6 +1217,7 @@ def main():
 
     escalation_pool = df[
         df["escalation_candidate"]
+        & (~df["ambiguity_candidate"])
         & (~df["customer_tweet_id"].isin(selected_ids))
     ].copy()
 
