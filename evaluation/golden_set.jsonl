@@ -1,0 +1,16 @@
+{"text":"My parcel is late again, where is it?","intent":"delivery_issue"}
+{"text":"I need a refund for this purchase","intent":"refund_request"}
+{"text":"Payment failed but money disappeared from my account","intent":"payment_issue"}
+{"text":"I got the wrong product","intent":"order_issue"}
+{"text":"Can you cancel my order?","intent":"cancellation"}
+{"text":"I cannot sign in","intent":"account_issue"}
+{"text":"Any discount available?","intent":"promotion_query"}
+{"text":"I need help with my order","intent":"other"}
+{"text":"Still waiting for the refund you said you'd process","intent":"refund_request"}
+{"text":"Checkout keeps rejecting my card","intent":"payment_issue"}
+{"text":"My package was meant to arrive yesterday","intent":"delivery_issue"}
+{"text":"I want to cancel before shipping","intent":"cancellation"}
+{"text":"Password reset doesn't work","intent":"account_issue"}
+{"text":"Do you have a new customer promo?","intent":"promotion_query"}
+{"text":"Someone sent me the wrong item","intent":"order_issue"}
+{"text":"Nobody has helped me and I'm going to sue","intent":"other"}

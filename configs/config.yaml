@@ -1,0 +1,22 @@
+classifier:
+  min_confidence: 0.58
+retrieval:
+  top_k: 3
+  min_similarity: 0.20
+escalation:
+  unresolved_followup_terms:
+    - still waiting
+    - still not
+    - again
+    - already contacted
+    - nobody helped
+  risk_terms:
+    - lawyer
+    - legal action
+    - sue
+    - court
+    - hacked
+    - stolen
+    - fraud
+    - dangerous
+    - injury
