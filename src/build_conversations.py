@@ -3,12 +3,26 @@ from pathlib import Path
 import argparse
 
 
+def normalize_id(value):
+    """Convert tweet IDs such as 272.0 into '272'."""
+    if pd.isna(value):
+        return None
+
+    value = str(value).strip()
+
+    if value.endswith(".0"):
+        value = value[:-2]
+
+    return value
+
+
 def build_conversations(csv_path, brand, output_path, chunksize=100_000):
+
     print(f"Loading dataset: {csv_path}")
     print(f"Target brand: {brand}\n")
 
     # ---------------------------------------------------------
-    # 1. Load the complete tweet dataset
+    # 1. Load dataset
     # ---------------------------------------------------------
 
     parts = []
@@ -24,7 +38,10 @@ def build_conversations(csv_path, brand, output_path, chunksize=100_000):
 
     print(f"Total tweets loaded: {len(df):,}")
 
-    # Normalize inbound
+    # ---------------------------------------------------------
+    # 2. Normalize columns
+    # ---------------------------------------------------------
+
     df["inbound"] = (
         df["inbound"]
         .astype(str)
@@ -32,16 +49,26 @@ def build_conversations(csv_path, brand, output_path, chunksize=100_000):
         .eq("true")
     )
 
-    # ---------------------------------------------------------
-    # 2. Create lookup by tweet ID
-    # ---------------------------------------------------------
+    df["tweet_id"] = df["tweet_id"].apply(normalize_id)
 
-    df["tweet_id"] = df["tweet_id"].astype(str)
+    df["in_response_to_tweet_id"] = (
+        df["in_response_to_tweet_id"]
+        .apply(normalize_id)
+    )
+
+    df["response_tweet_id"] = (
+        df["response_tweet_id"]
+        .apply(normalize_id)
+    )
+
+    # ---------------------------------------------------------
+    # 3. Build tweet lookup
+    # ---------------------------------------------------------
 
     tweet_lookup = df.set_index("tweet_id")
 
     # ---------------------------------------------------------
-    # 3. Find all brand responses
+    # 4. Get AmazonHelp replies
     # ---------------------------------------------------------
 
     brand_replies = df[
@@ -52,32 +79,38 @@ def build_conversations(csv_path, brand, output_path, chunksize=100_000):
     print(f"Brand replies found: {len(brand_replies):,}")
 
     # ---------------------------------------------------------
-    # 4. Connect every brand reply to the tweet it answers
+    # 5. Connect replies to customer tweets
     # ---------------------------------------------------------
 
     conversations = []
+
+    matched = 0
+    missing_parent = 0
+    brand_parent = 0
 
     for _, reply in brand_replies.iterrows():
 
         parent_id = reply["in_response_to_tweet_id"]
 
-        if pd.isna(parent_id):
+        if parent_id is None:
             continue
 
-        parent_id = str(parent_id)
-
         if parent_id not in tweet_lookup.index:
+            missing_parent += 1
             continue
 
         customer = tweet_lookup.loc[parent_id]
 
-        # We only want replies to customer tweets
+        # Don't treat AmazonHelp → AmazonHelp as a customer case
         if customer["author_id"] == brand:
+            brand_parent += 1
             continue
+
+        matched += 1
 
         conversations.append({
             "customer_tweet_id": parent_id,
-            "brand_tweet_id": str(reply["tweet_id"]),
+            "brand_tweet_id": reply["tweet_id"],
 
             "customer_author_id": customer["author_id"],
 
@@ -94,18 +127,33 @@ def build_conversations(csv_path, brand, output_path, chunksize=100_000):
                 reply["in_response_to_tweet_id"]
         })
 
-    conversations_df = pd.DataFrame(conversations)
+    # ---------------------------------------------------------
+    # 6. Create dataframe safely
+    # ---------------------------------------------------------
 
-    # ---------------------------------------------------------
-    # 5. Remove duplicates
-    # ---------------------------------------------------------
+    columns = [
+        "customer_tweet_id",
+        "brand_tweet_id",
+        "customer_author_id",
+        "customer_text",
+        "brand_response",
+        "customer_created_at",
+        "brand_created_at",
+        "customer_response_tweet_id",
+        "brand_in_response_to"
+    ]
+
+    conversations_df = pd.DataFrame(
+        conversations,
+        columns=columns
+    )
 
     conversations_df = conversations_df.drop_duplicates(
         subset=["brand_tweet_id"]
     )
 
     # ---------------------------------------------------------
-    # 6. Save
+    # 7. Save
     # ---------------------------------------------------------
 
     Path(output_path).parent.mkdir(
@@ -118,40 +166,46 @@ def build_conversations(csv_path, brand, output_path, chunksize=100_000):
         index=False
     )
 
+    # ---------------------------------------------------------
+    # 8. Statistics
+    # ---------------------------------------------------------
+
     print("\n" + "=" * 80)
     print("CONVERSATION DATASET")
     print("=" * 80)
 
-    print(
-        f"Customer → Brand pairs: "
-        f"{len(conversations_df):,}"
-    )
+    print(f"Customer → Brand pairs: {len(conversations_df):,}")
 
-    print(
-        f"Unique customers: "
-        f"{conversations_df['customer_author_id'].nunique():,}"
-    )
+    if len(conversations_df) > 0:
+        print(
+            f"Unique customers: "
+            f"{conversations_df['customer_author_id'].nunique():,}"
+        )
 
-    print(
-        f"Saved to: {output_path}"
-    )
+    print(f"Matched replies:       {matched:,}")
+    print(f"Missing parent tweet:  {missing_parent:,}")
+    print(f"Brand-parent tweets:   {brand_parent:,}")
+
+    print(f"\nSaved to: {output_path}")
 
     # ---------------------------------------------------------
-    # 7. Show examples
+    # 9. Show examples
     # ---------------------------------------------------------
 
-    print("\nSAMPLE CONVERSATIONS")
-    print("-" * 80)
+    if len(conversations_df) > 0:
 
-    for _, row in conversations_df.head(20).iterrows():
-
-        print("\nCUSTOMER:")
-        print(row["customer_text"])
-
-        print("\nAMAZONHELP:")
-        print(row["brand_response"])
-
+        print("\nSAMPLE CONVERSATIONS")
         print("-" * 80)
+
+        for _, row in conversations_df.head(20).iterrows():
+
+            print("\nCUSTOMER:")
+            print(row["customer_text"])
+
+            print("\nAMAZONHELP:")
+            print(row["brand_response"])
+
+            print("-" * 80)
 
 
 if __name__ == "__main__":
@@ -171,8 +225,7 @@ if __name__ == "__main__":
 
     parser.add_argument(
         "--out",
-        default="data/processed/amazonhelp_conversations.csv",
-        help="Output CSV path"
+        default="data/processed/amazonhelp_conversations.csv"
     )
 
     args = parser.parse_args()
