@@ -4,9 +4,20 @@ import argparse
 
 
 def analyze_brands(csv_path, chunksize=100_000):
-    counts = {}
-    inbound_counts = {}
+    """
+    Identify likely brand/support accounts from the Customer Support on Twitter dataset.
+
+    In this dataset:
+    - inbound=True  -> customer tweet
+    - inbound=False -> support/brand reply
+
+    A brand account is therefore better identified by having many outbound
+    replies rather than requiring both inbound and outbound tweets.
+    """
+
     outbound_counts = {}
+    inbound_counts = {}
+    total_counts = {}
 
     print(f"Reading: {csv_path}")
     print("This may take a few minutes for the full dataset...\n")
@@ -16,64 +27,67 @@ def analyze_brands(csv_path, chunksize=100_000):
         chunksize=chunksize,
         low_memory=False
     ):
-        # Count all tweets by author
-        author_counts = chunk["author_id"].value_counts()
+        # Normalize inbound column because CSV parsing can vary
+        chunk["inbound"] = chunk["inbound"].astype(str).str.lower().eq("true")
 
-        for author, count in author_counts.items():
-            counts[author] = counts.get(author, 0) + int(count)
+        # Total tweets by author
+        total = chunk["author_id"].value_counts()
+        for author, count in total.items():
+            total_counts[author] = total_counts.get(author, 0) + int(count)
 
-        # Incoming customer tweets
-        inbound = chunk[chunk["inbound"] == True]
-        inbound_author_counts = inbound["author_id"].value_counts()
+        # Customer tweets
+        inbound = chunk[chunk["inbound"]]
+        counts = inbound["author_id"].value_counts()
 
-        for author, count in inbound_author_counts.items():
+        for author, count in counts.items():
             inbound_counts[author] = inbound_counts.get(author, 0) + int(count)
 
-        # Outgoing brand replies
-        outbound = chunk[chunk["inbound"] == False]
-        outbound_author_counts = outbound["author_id"].value_counts()
+        # Brand/support tweets
+        outbound = chunk[~chunk["inbound"]]
+        counts = outbound["author_id"].value_counts()
 
-        for author, count in outbound_author_counts.items():
+        for author, count in counts.items():
             outbound_counts[author] = outbound_counts.get(author, 0) + int(count)
 
+    # Build candidate list
     rows = []
 
-    for author, total in counts.items():
+    for author, outbound in outbound_counts.items():
         inbound = inbound_counts.get(author, 0)
-        outbound = outbound_counts.get(author, 0)
+        total = total_counts.get(author, 0)
 
-        # A support brand should have substantial inbound AND outbound activity.
-        if inbound >= 100 and outbound >= 100:
+        # Brand accounts should have substantial outbound activity.
+        # We intentionally don't require inbound tweets.
+        if outbound >= 500:
             rows.append({
-                "brand": author,
+                "brand_author_id": author,
                 "total_tweets": total,
                 "inbound_tweets": inbound,
                 "outbound_tweets": outbound,
-                "response_ratio": round(
-                    outbound / inbound, 3
-                ) if inbound else 0
+                "outbound_ratio": round(
+                    outbound / total, 3
+                ) if total else 0
             })
 
     result = pd.DataFrame(rows)
 
     if result.empty:
-        print("No suitable brands found.")
+        print("No candidate support accounts found.")
         return
 
+    # Strongest likely support accounts first
     result = result.sort_values(
-        ["inbound_tweets", "outbound_tweets"],
+        ["outbound_tweets", "total_tweets"],
         ascending=False
     )
 
-    print("\nTOP SUPPORT BRANDS")
-    print("=" * 80)
-
-    print(
-        result.head(30).to_string(index=False)
-    )
+    print("\nTOP CANDIDATE SUPPORT ACCOUNTS")
+    print("=" * 100)
+    print(result.head(50).to_string(index=False))
 
     output = Path("data/brand_analysis.csv")
     output.parent.mkdir(parents=True, exist_ok=True)
+
     result.to_csv(output, index=False)
 
     print(f"\nSaved full analysis to: {output}")
@@ -81,7 +95,7 @@ def analyze_brands(csv_path, chunksize=100_000):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
-        description="Find candidate customer-support brands."
+        description="Find candidate customer-support accounts."
     )
 
     parser.add_argument(
