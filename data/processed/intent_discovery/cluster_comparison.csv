@@ -1,0 +1,4 @@
+k,silhouette_score,smallest_cluster,largest_cluster
+8,0.006,5554,66185
+10,0.0068,3590,64210
+12,0.007,2278,65316
