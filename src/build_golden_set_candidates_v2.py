@@ -1129,7 +1129,6 @@ def main():
         # Hard pool: ambiguity, context, escalation.
         pool["hard_score"] = (
             pool["ambiguity_score"]
-            + pool["escalation_candidate"].astype(int) * 2
             + (pool["context_turn_count"] >= 2).astype(int)
         )
 
