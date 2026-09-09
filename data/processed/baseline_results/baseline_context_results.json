@@ -1,7 +1,8 @@
 {
   "model": "Context-aware TF-IDF + Logistic Regression",
   "task": "intent_classification",
-  "input": "conversation_context_plus_current_customer_message",
+  "input": "previous_customer_and_brand_turns+current_customer_message",
+  "context_turns": 3,
   "training_data": {
     "type": "silver_labels",
     "path": "data\\processed\\splits\\train_silver.csv",
@@ -12,91 +13,97 @@
     "path": "data\\processed\\splits\\validation_silver.csv",
     "rows": 7702
   },
+  "context_coverage": {
+    "train_with_context": 26602,
+    "train_total": 43174,
+    "validation_with_context": 4756,
+    "validation_total": 7702
+  },
   "golden_set_used": false,
   "random_state": 42,
   "metrics": {
-    "accuracy": 0.9105427161776162,
-    "macro_f1": 0.9031962166234212,
-    "weighted_f1": 0.9111183718914627
+    "accuracy": 0.8034276811217865,
+    "macro_f1": 0.7905689780562641,
+    "weighted_f1": 0.804907402160779
   },
   "confidence": {
-    "mean": 0.7325640049826713,
-    "median": 0.7710999114924414,
-    "min": 0.1534748201598713,
-    "max": 0.9999999960134303
+    "mean": 0.6406402018452755,
+    "median": 0.645210181539728,
+    "min": 0.15555705699717198,
+    "max": 0.9999971477845534
   },
   "classification_report": {
     "delivery": {
-      "precision": 0.8054187192118226,
-      "recall": 0.923728813559322,
-      "f1-score": 0.8605263157894737,
+      "precision": 0.6736596736596736,
+      "recall": 0.8163841807909604,
+      "f1-score": 0.7381864623243933,
       "support": 354.0
     },
     "order_status_tracking": {
-      "precision": 0.9002375296912114,
-      "recall": 0.9132530120481928,
-      "f1-score": 0.9066985645933014,
+      "precision": 0.7036625971143174,
+      "recall": 0.763855421686747,
+      "f1-score": 0.7325245522819179,
       "support": 830.0
     },
     "order_change_cancel": {
-      "precision": 0.875,
-      "recall": 0.952,
-      "f1-score": 0.9118773946360154,
+      "precision": 0.6858974358974359,
+      "recall": 0.856,
+      "f1-score": 0.7615658362989324,
       "support": 125.0
     },
     "return_refund_replacement": {
-      "precision": 0.9741758241758242,
-      "recall": 0.8922999496728736,
-      "f1-score": 0.9314420803782506,
+      "precision": 0.9036697247706422,
+      "recall": 0.7931555108203322,
+      "f1-score": 0.8448137228625033,
       "support": 1987.0
     },
     "payment_billing": {
-      "precision": 0.9224489795918367,
-      "recall": 0.864244741873805,
-      "f1-score": 0.8923988153998026,
+      "precision": 0.8424304840370752,
+      "recall": 0.7820267686424475,
+      "f1-score": 0.8111056023797719,
       "support": 1046.0
     },
     "account_access": {
-      "precision": 0.9162011173184358,
-      "recall": 0.9265536723163842,
-      "f1-score": 0.9213483146067416,
+      "precision": 0.7788944723618091,
+      "recall": 0.8757062146892656,
+      "f1-score": 0.824468085106383,
       "support": 177.0
     },
     "product_device_issue": {
-      "precision": 0.9163952225841476,
-      "recall": 0.9274725274725275,
-      "f1-score": 0.9219006007646096,
+      "precision": 0.8646055437100213,
+      "recall": 0.8912087912087913,
+      "f1-score": 0.8777056277056277,
       "support": 910.0
     },
     "shipping_delivery_options": {
-      "precision": 0.7915567282321899,
-      "recall": 0.9646302250803859,
-      "f1-score": 0.8695652173913043,
+      "precision": 0.6934673366834171,
+      "recall": 0.887459807073955,
+      "f1-score": 0.7785613540197461,
       "support": 311.0
     },
     "customer_service_complaint": {
-      "precision": 0.9225908372827805,
-      "recall": 0.9211356466876972,
-      "f1-score": 0.9218626677190213,
+      "precision": 0.7991967871485943,
+      "recall": 0.7847003154574133,
+      "f1-score": 0.7918822124950259,
       "support": 1268.0
     },
     "information_general": {
-      "precision": 0.8486416558861578,
-      "recall": 0.9452449567723343,
-      "f1-score": 0.8943421949556919,
+      "precision": 0.7309292649098474,
+      "recall": 0.7593659942363112,
+      "f1-score": 0.7448763250883392,
       "support": 694.0
     },
-    "accuracy": 0.9105427161776162,
+    "accuracy": 0.8034276811217865,
     "macro avg": {
-      "precision": 0.8872666613974406,
-      "recall": 0.9230563545483523,
-      "f1-score": 0.9031962166234212,
+      "precision": 0.7676413320292834,
+      "recall": 0.8209863004606224,
+      "f1-score": 0.7905689780562641,
       "support": 7702.0
     },
     "weighted avg": {
-      "precision": 0.914479778653833,
-      "recall": 0.9105427161776162,
-      "f1-score": 0.9111183718914627,
+      "precision": 0.8109577814897674,
+      "recall": 0.8034276811217865,
+      "f1-score": 0.8049074021607792,
       "support": 7702.0
     }
   }
