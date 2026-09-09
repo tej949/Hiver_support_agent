@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+2883426,799931,2883422,@AmazonHelp No,"Customer: @115830 - the worst the telephone customer service I have EVER experienced! 50 minutes to arrange a simple return...and still not confident they are collecting from the correct address.
+AmazonHelp: @799931 I'm sorry to hear about the poor experience. Have you received an email follow up to your call confirming the details of your collection? ^MI
+Customer: @AmazonHelp No","@799931 If a collection has been arranged, you will be emailed with the details. Please be sure to also check your spam folders, in case the email has gone there. Maybe leave it a little while and if there is no sign of the email, let us know.^BZ",complaint,other,explicit_human_request|high_frustration,3,5
+1498514,467928,1498516,@AmazonHelp Yes :(,"Customer: When you place an order through @115850 and things go missing. Oh, @61395 ..I hope the customer service steps up
+AmazonHelp: @467928 I'm sorry about the unpleasant experience. Have you reported this to our support team here: https://t.co/vlvfJr4nN9? ^GD
+Customer: @AmazonHelp Yes :(",@467928 Please let us know if your query is resolved? ^BS,complaint,acknowledgement,,3,5
+2523763,414921,2523764,@AmazonHelp Yes,"Customer: @AmazonHelp Do.me a favour plz send pick up boy fir take it back as earlier as possible
+AmazonHelp: @414921 Could you please confirm if you had tried reaching our support team through the link provided earlier. ^AH
+Customer: @AmazonHelp Yes",@414921 We'd like to look into it. Kindly share your details here: https://t.co/beaaDm0muc we'll get back to you. ^AP,complaint,investigation,,3,5
+2290857,665414,2290858,@AmazonHelp Sent AGAIN !,"Customer: @AmazonHelp forced me to escalate this matter. @115851 - hi Jeff ! Am a customer of your esteemed company and find few gaps in your Indian subsidiary SOP. My order details &amp; contact details are as follows - Nilesh Garg,+919326103122. Order no 403-7264416-5820316. Need your intervention .
+AmazonHelp: @665414 Hello, please accept my sincere apologies for your recent experience. Kindly fill in your details here: https://t.co/GIJyeYqKE0, and I'll look into it. Please don't provide your order details, we consider it personal info. Our Twitter page is visible to public. ^NR
+Customer: @AmazonHelp Sent AGAIN !",@665414 Thank you. We'll work on it and get back to you with an update soon. ^NR,complaint,acknowledgement,,3,5
+990229,270216,990231,@AmazonHelp Mobile no 9835128475 https://t.co/knLnI7xpGU,"Customer: @AmazonHelp No, it's complicated. So many blanks is to be filled. I leave that
+AmazonHelp: @270216 Please share the details on the link as follows: Your preferred phone number: ""Contact number"", Your Twitter handle: ""Amar_Kundan"", URL to Twitter message: ""https://t.co/r4LLgdDLx2"", 1/2 ^AP
+Customer: @AmazonHelp Mobile no 9835128475 https://t.co/knLnI7xpGU","@270216 My apologies, Amar. However, Twitter being a social media platform, we will not be able to access your account details. Please fill in your details via the link provided earlier and we will have this checked. ^KS 1/2",complaint,privacy_restriction,explicit_human_request,3,5
+2927682,130737,2927683,@AmazonHelp Ok I try,"Customer: @AmazonHelp Customer service is not reachable any time.. Contact me from your side.
+AmazonHelp: @130737 You can either chat or request a call back from us through this link: https://t.co/vlvfJr4nN9. ^SI
+Customer: @AmazonHelp Ok I try",@130737 Sorry for the trouble while connecting with our support team. Please tell us about the error that you're getting while trying to connect. We are here to help. ^KK,complaint,other,explicit_human_request,3,5
+1477265,463006,1477267,@AmazonHelp Wasn't on the list of recommended it was a notification from the app on my phone. I've never bought beauty items or even looked.,"Customer: #Amazon really really dont want push notifications saying I've not bought beauty products.... wtf I've not bought cleaning either :p
+AmazonHelp: @463006 Oh No Rachelle! Let's get those recommendations fixed here: https://t.co/txG9s2Wex4 Let us know if that doesn't help. ^QJ
+Customer: @AmazonHelp Wasn't on the list of recommended it was a notification from the app on my phone. I've never bought beauty items or even looked.",@463006 Is this something that is only occurring with your app notifications ? ^CR,complaint,other,explicit_human_request|failed_support|high_frustration,3,3
+182930,158356,182931,@AmazonHelp No emails yet!,"Customer: @AmazonHelp Is this the correspondence you were talking about? Worst service by @115850
+AmazonHelp: @158356 Please check and respond to the email that was sent to you from the social media team. ^JC
+Customer: @AmazonHelp No emails yet!",@158356 That's odd! Please check your inbox/ spam folders for a correspondence sent. Do keep us posted. ^SV,complaint,information,high_frustration,3,5
+1704058,516549,1704060,@AmazonHelp If refund is the only option how long will it take? I really wanted this product but cant wait long,"Customer: @516550 @AmazonHelp bro yall lost my package fml! Actually so mad! Yall dont even answer phones. Too pissed to talk!
+AmazonHelp: @516549 I'm very sorry about the missing package! Please reach out us in real-time for available options: https://t.co/hApLpMlfHN ^HM
+Customer: @AmazonHelp If refund is the only option how long will it take? I really wanted this product but cant wait long",@516549 The time frame depends on the payment method type. You can learn more about the refund times here: https://t.co/SP5KwZvZpw ^BH,complaint,self_service,explicit_human_request|missing_delivery|high_frustration,3,3
+1711428,126009,1711426,@AmazonHelp Still speechless I see. Yeah. @115821 talks a big game til they fail. Then they hope you ignore it! #badbusiness,"AmazonHelp: @126009 I'm sorry you haven't received your order yet. What does your current tracking status show? https://t.co/q4LAMZ3tbE ^AM
+Customer: @AmazonHelp It shows bullshit! I am more pissed about the “guarantee” with no consequences and idiot I chatted with yesterday! https://t.co/mFkUYFJn6e
+Customer: @AmazonHelp Still speechless I see. Yeah. @115821 talks a big game til they fail. Then they hope you ignore it! #badbusiness","@126009 When speaking w/ us, what options did we give you? If you have not reached us, you can do so here: https://t.co/hApLpMlfHN ^DD",complaint,information,explicit_human_request|missing_delivery|high_frustration,3,3
+191597,161034,191716,@AmazonHelp Same issue,"Customer: @AmazonHelp Its showing issue w/ connection
+AmazonHelp: @161034 Please try removing the app, restarting your phone, and then redownloading the app. Let us know if this works. ^VS
+Customer: @AmazonHelp Same issue",@161034 We'd like to take a look at this a bit closer with you. Please call or chat with us here: https://t.co/hApLpMlfHN ^MH,complaint,other,explicit_human_request,3,5
+930366,340711,930365,@AmazonHelp No HELP STILL,"Customer: @AmazonHelp i was told we will get back to you. The most annoying is i have raised this more than 5 times and customer service asked me to re-explain it every time. that shows they dont have the info . Said they will pass it on to Account Compromise department , who will call me. never did
+AmazonHelp: @340711 I'm very sorry to hear this. Have you checked your e-mail for a correspondence from them? The spam and junk folders? ^TH
+Customer: @AmazonHelp No HELP STILL","@340711 Hi Saul. We sent you an email over the weekend, if you would like an update please reply directly to this email you received. Thank you. ^BD",complaint,acknowledgement,explicit_human_request,3,5
+2373363,684694,2373364,@AmazonHelp Filled it out.,"Customer: @AmazonHelp AMZL US
+AmazonHelp: @684694 Thanks for confirming. We'd like to escalate this further. Please send us the order details here: https://t.co/oKqqdopxzB ^BH
+Customer: @AmazonHelp Filled it out.",@684694 Thanks! We appreciate you. ^CH,complaint,acknowledgement,,3,5
+224226,169577,224224,@AmazonHelp no calls ?,"Customer: @AmazonHelp I dropped the number at 3 places...also in your provided link...call me.
+AmazonHelp: @169577 If you've shared your details, we'll get in touch with you soon. ^AK
+Customer: @AmazonHelp no calls ?",@169577 We've sent you a correspondence to your registered email address. Kindly check and revert for any further concerns. ^EM,complaint,other,explicit_human_request,3,5
+1728601,522626,1728599,@AmazonHelp No,"Customer: @115821 almost two hours waiting for a reply from @AmazonHelp Great customer service indeed
+AmazonHelp: @522626 Without personal info, was the issue resolved? ^MC
+Customer: @AmazonHelp No",@522626 What has occurred? ^MC,complaint,other,,3,5
+1428269,451778,1428270,@AmazonHelp Yes but nothing,"Customer: @AmazonHelp Ive been doing this
+AmazonHelp: @451778 Have you tried reaching out to us here via phone or chat: https://t.co/hApLpMlfHN so we can look into this together? ^ZW
+Customer: @AmazonHelp Yes but nothing",@451778 Have you been able to reach out to your bank to find out why the transaction is being declined? ^ZW,complaint,other,explicit_human_request,3,5
+2877034,798639,2877035,@AmazonHelp I did and thankfully a nice young lady named Tenell C. FINALLY understood my situation quickly and took care of it quickly for me. Your other customer service representatives that attempted to assist me are ridiculous. Thank you Tenell!!!!!,"Customer: @AmazonHelp That does not help me. This is the most aggravating thing. Getting a third party involved now.
+AmazonHelp: @798639 So sorry to hear that didn't help! Can you reach out to us here via phone so that we can look into the account with you? https://t.co/hApLpMlfHN ^GS
+Customer: @AmazonHelp I did and thankfully a nice young lady named Tenell C. FINALLY understood my situation quickly and took care of it quickly for me. Your other customer service representatives that attempted to assist me are ridiculous. Thank you Tenell!!!!!","@798639 I'm glad Tenell was able to take care of this for you! If you haven't had a chance yet, you can use the survey at the end of the email we sent you to forward your feedback directly to Tanell's manager, I'm sure they'd really appreciate it! ^GR",complaint,information,explicit_human_request|failed_support|high_frustration,3,3
+232423,171325,232424,@AmazonHelp Still waiting😡,"Customer: @AmazonHelp @AmazonHelp I am waiting for my product since yesterday. Really pathetic service. I hope I get back a human response and not a bot's
+AmazonHelp: @171325 I understand you're upset with this. We have received your details and we'll get back to you. Request you to wait till then. ^SK
+Customer: @AmazonHelp Still waiting😡",@171325 We've sent the correspondence to your registered email ID. Kindly check it here: https://t.co/8DAc10S7ww ^GK,complaint,other,explicit_human_request,3,5
+128705,144960,128707,@AmazonHelp Yes I am....,"Customer: @115821 your customer service SUCKS!!! Every time I try 2 make an order I have an issue, Then when I call in 2 Customer service they have no idea how 2 help!! 😡😡😡
+AmazonHelp: @144960 I'm so sorry for the frustrating experience! Are you having trouble with a current order? ^DG
+Customer: @AmazonHelp Yes I am....","@144960 Without giving any personal account info, can you tell us more about the issue?^MA",complaint,other,,3,5
+2529270,484670,2529271,@AmazonHelp No it doesn't help. My phone isn't open to International calling!,"Customer: @AmazonHelp I'm just getting terrible service. Finally managed to get onto live chat, only to be told that it would be better to get assistance over the phone. However, Amazon won't phone South Africa. So basically, no help is being offered!
+AmazonHelp: @484670 For security reasons we would need to discuss this with you over the phone, to resolve this issue please ring us on +44 203 356 6212. Hope this helps Waheed! ^SA
+Customer: @AmazonHelp No it doesn't help. My phone isn't open to International calling!","@484670 Hello, please fill in the link provided and we will reach out to you as soon as possible:https://t.co/mk7tow11c4 ^CR",complaint,other,explicit_human_request|failed_support|high_frustration,3,3
+2529267,484670,2529269,"@AmazonHelp I'm just getting terrible service. Finally managed to get onto live chat, only to be told that it would be better to get assistance over the phone. However, Amazon won't phone South Africa. So basically, no help is being offered!","Customer: @AmazonHelp I'm based in South Africa. Phoning isn't an option as yours is an international number. Chat won't work because I can't access my account!
+AmazonHelp: @484670 I can definitely understand your frustration in a situation like this! Since you can't access your account and phoning isn't an option, this will allow you to bypass sign-in and try chat that way so that we can assist you in real-time: https://t.co/jzvkhdlrK5 ^RM
+Customer: @AmazonHelp I'm just getting terrible service. Finally managed to get onto live chat, only to be told that it would be better to get assistance over the phone. However, Amazon won't phone South Africa. So basically, no help is being offered!","@484670 For security reasons we would need to discuss this with you over the phone, to resolve this issue please ring us on +44 203 356 6212. Hope this helps Waheed! ^SA",complaint,privacy_restriction,explicit_human_request|account_action|high_frustration,3,3
+1410329,447818,1410330,@AmazonHelp No,"Customer: @AmazonHelp Does Amazon really have customer service in India or is it a bunch of irresponsible people not knowing the meaning of service's @115851 @115850 @AmazonHelp
+AmazonHelp: @447818 Apologies for the trail. Just to clarify, did you happen to receive a correspondence from our social media team. 1/2 ^OS
+Customer: @AmazonHelp No",@447818 Did you share your details in the link from the account from which the order was placed? ^NR,complaint,other,,3,5
+1387068,442762,1387069,@AmazonHelp yes,"Customer: @AmazonHelp how more days you need? worst service ever in my life time...
+AmazonHelp: @442762 Could you please confirm if you have shared your details through the secured link provided earlier to you? ^HS
+Customer: @AmazonHelp yes","@442762 In that case, you must have received an email correspondence from us. Kindly check and reply to it for further insight. ^HS",complaint,other,high_frustration,3,5
+120258,142698,120257,@AmazonHelp no live chat?,"Customer: @AmazonHelp 私はログインすることはできません、それは何度もそれをリセットするにもかかわらず、間違ったパスワードを言っ続ける
+AmazonHelp: @142698 かしこまりました。以下の電話番号に直接おかけいただき、お問い合わせください。 フリーダイヤル：0120-999-373 フリーダイヤルをご利用いただけない場合：011-330-3000 営業時間：年中無休
+Customer: @AmazonHelp no live chat?",@142698 申し訳ございませんが、サインインできない場合、チャットでお問合せいただくことはできません。お手数ですが、お電話でお問い合わせください。 SM,complaint,other,explicit_human_request,3,5
+2931983,593088,2931984,@AmazonHelp Yes,"Customer: @AmazonHelp I had an issue with how Amazon treats courtesy credit. I was switched thru 3 agents to eventually get same answer that promotional credit is non refundable as credit on account. It fails common sense. However.. I sent the whole chat to Amazon &amp; someone resolved it over email.
+AmazonHelp: @593088 I'm glad that one of our representatives were able to solve this for you! Were you able to receive the promotional credit back? ^GP
+Customer: @AmazonHelp Yes",@593088 Awesome! Was there anything else that we could assist you with? ^GP,complaint,other,explicit_human_request,3,5
+2821568,786357,2821570,@AmazonHelp I still love @115821,"Customer: @AmazonHelp And they promised to call me, before 12 midnight lol. This is absurd.
+AmazonHelp: @786357 Very sorry to hear this. We would require some time for this to get looked into Thanks for your patience thus far. ^CR
+Customer: @AmazonHelp I still love @115821",@786357 We love you too! Were you able to get your issue resolved? Did you receive a supervisor call? ^AN,complaint,other,explicit_human_request,3,5
+299613,187417,299615,@AmazonHelp Already tried so many times but no one is there to help me in this. Worst service.,"Customer: @AmazonHelp Order placed for the same day delivery but now it shows for the Monday. I always prefer Amazon to purchase but this time i feel cheated.
+AmazonHelp: @187417 We'd like to get this looked into! Please get in touch with us by phone or chat here: https://t.co/hApLpMlfHN ^KJ
+Customer: @AmazonHelp Already tried so many times but no one is there to help me in this. Worst service.","@187417 I'm apologize for the trouble, I'd like to look into this for you. Kindly drop in your details here: 1/2^EM",complaint,investigation,explicit_human_request|failed_support|high_frustration,3,3
+299613,187417,299614,@AmazonHelp Already tried so many times but no one is there to help me in this. Worst service.,"Customer: @AmazonHelp Order placed for the same day delivery but now it shows for the Monday. I always prefer Amazon to purchase but this time i feel cheated.
+AmazonHelp: @187417 We'd like to get this looked into! Please get in touch with us by phone or chat here: https://t.co/hApLpMlfHN ^KJ
+Customer: @AmazonHelp Already tried so many times but no one is there to help me in this. Worst service.",@187417 https://t.co/beaaDm0muc and I'll reach out to you with an update at the earliest. 2/2^EM,complaint,other,explicit_human_request|failed_support|high_frustration,3,3
+1352848,281816,1352849,@AmazonHelp Yes,"Customer: @AmazonHelp The one I spoke to over the phone gave me the option to pick it up wc is not even a convenient option because what are online deliveries for
+AmazonHelp: @281816 I'm so sorry for the ongoing frustration. Is this happening with the same carrier: https://t.co/Y5jpI9gRhE? ^BG
+Customer: @AmazonHelp Yes","@281816 Thank you for the information, Kristelle! Just to clarify, who is showing as the carrier for these orders? ^AL",complaint,information,explicit_human_request,3,5
+2797146,488422,2797148,@AmazonHelp I have emailed them but feeling am going round in circles with it all thanks,"Customer: Pay for @115830 prime to have it delivered on the day it supposed to says would be delivered by 8pm 2nite and still not received it this is unacceptable in my opinion paying for a service that's not delivering, customer service are useless and it's the 2nd order I not received
+AmazonHelp: @488422 I'm sorry for the frustration! We'd like to take a look into this with you. When you have a moment, please contact us by phone or chat here: https://t.co/qy3J24VGxb ^AC
+Customer: @AmazonHelp I have emailed them but feeling am going round in circles with it all thanks","@488422 Please try reaching out via phone or live chat, so it can be looked into and discussed in real-time. ^WJ",complaint,other,explicit_human_request|missing_delivery|high_frustration,3,3
+1545732,478710,1545733,@AmazonHelp yes,"Customer: @AmazonHelp Forget the country code, there's not even enough room for the phone number.
+AmazonHelp: @478710 That's odd. Have you tried clearing your cache and cookies or attempting the link in another browser? ^TH
+Customer: @AmazonHelp yes",@478710 Have you tried another browser? ^MC,complaint,other,explicit_human_request,3,5
+1798405,540372,1798404,@AmazonHelp No,"Customer: @AmazonHelp another day of this!!!! https://t.co/rKxphcgOUP
+AmazonHelp: @540372 I'm sorry for the frustration! Have you had a chance to reach out to us regarding the trouble you're experiencing? ^AC
+Customer: @AmazonHelp No",@540372 Please contact us for live support at your earliest convenience: https://t.co/hApLpMlfHN ^ST,complaint,phone_chat,,3,5
+1343549,426152,1343553,@AmazonHelp No,"Customer: @1584 @115850 After sharing the no# no call receive yet ..#worstcustomerservice @115850 can u help me.. ext warr for fire stick . @1584
+AmazonHelp: @426152 Did you share your details on the link provided earlier? If yes, you must've received an update. Do check your mailbox. ^PJ
+Customer: @AmazonHelp No",@426152 Kindly request you to share the details using the link provided earlier and I'll contact you soon. ^SS,complaint,other,high_frustration,3,5
+319367,192163,319368,@AmazonHelp Still no progress,"AmazonHelp: @192163 That's odd. We'd like to look into it. Kindly report this to our support team (1/2)^AP
+Customer: @AmazonHelp Reply received from Ur call center it matter b/w seller &amp;u we can't do anything u still wait for seller reply from last week
+Customer: @AmazonHelp Still no progress",@192163 May I please know if you have filled your details through the link provided above? ^SH,complaint,other,,3,5
+2783203,777177,2783204,@AmazonHelp No,"Customer: @AmazonHelp Not usps or ups. ""Guy in an unmarked van who shows up whenever delivery service""
+AmazonHelp: @777177 Thank you for the information! Have you spoken with us via phone or chat regarding these deliveries? https://t.co/Q7Ftz6nj80. ^AL
+Customer: @AmazonHelp No",@777177 We'd like to take a closer look at this with you Nickolaus. Please reach out to us using the link ^AL provided and we'll be happy to help work to resolve your concerns! ^AZ,complaint,investigation,explicit_human_request,3,5
+327046,193940,327049,@AmazonHelp I have called amazon thrice in the last 12 hours and there has been no resolution . This is ridiculous .,"Customer: @115850 i have tried to call you 10 times . My order hasnt reached me but it says delivered. ? cn u pls call me
+AmazonHelp: @193940 Sorry for the hassle. Please report this to our support team here: https://t.co/vlvfJr4nN9 and we'll check this. ^HN
+Customer: @AmazonHelp I have called amazon thrice in the last 12 hours and there has been no resolution . This is ridiculous .","@193940 I'm sorry for the inconvenience in delivering this order, write to us 1/2 ^MJ",complaint,other,explicit_human_request|missing_delivery|high_frustration,3,3
+327046,193940,327048,@AmazonHelp I have called amazon thrice in the last 12 hours and there has been no resolution . This is ridiculous .,"Customer: @115850 i have tried to call you 10 times . My order hasnt reached me but it says delivered. ? cn u pls call me
+AmazonHelp: @193940 Sorry for the hassle. Please report this to our support team here: https://t.co/vlvfJr4nN9 and we'll check this. ^HN
+Customer: @AmazonHelp I have called amazon thrice in the last 12 hours and there has been no resolution . This is ridiculous .",@193940 here: https://t.co/GIJyeYqKE0 &amp; we'll take necessary actions to make things right. 2/2 ^MJ,complaint,other,explicit_human_request|missing_delivery|high_frustration,3,3
+1311325,426423,1311324,@AmazonHelp Yes I did.,"Customer: @115850 @AmazonHelp I was getting 3000 off on my Redmi Phone. Suddenly only Motorola in exchange. When can I expect it to get resolved? https://t.co/bsteLUW3hl
+AmazonHelp: @426423 That's odd, did you report this to our support team here : https://t.co/vlvfJr4nN9 ? ^AS
+Customer: @AmazonHelp Yes I did.",@426423 The exchange facility is available only on selected models of mobile handsets. (1/2),complaint,other,explicit_human_request,3,5
+2777367,775971,2777369,@AmazonHelp yes it is,"Customer: @AmazonHelp it says selection unavailable when i clicked on the go to your album in my email and i am trying to download it to my laptop and my andriod phone
+AmazonHelp: @775971 Just to clarify, is the AutoRip logo on the detail page of the CD you purchased? Please learn more here: https://t.co/jpecbJbPgG. ^WJ
+Customer: @AmazonHelp yes it is","@775971 When you go here: https://t.co/KRGRFPqOuy are you able to under the ""My Music"" section play the music? From here is this where you're getting an error when trying to download? ^TM",complaint,other,explicit_human_request,3,5
+2773027,775057,2773028,@AmazonHelp Please admit your mobile app customer service is down. It is pretty useless. I am not planning to mail the details . I don't have access to web but jus the app. Is it not possible to do anything with your app in mobile?,"Customer: @AmazonHelp Which means your mobile call back support is not working as expected is it ? Ok here is my query , I have renewed my prime mem on 13 and I have not received the Amazon pay balance as mentioned in the renewal conditions.
+AmazonHelp: @775057 I understand your concern regarding the Amazon pay balance. However, this being a social media platform we can't access your account/order details. Request you to get in touch with our support team for further assistance. ^KH
+Customer: @AmazonHelp Please admit your mobile app customer service is down. It is pretty useless. I am not planning to mail the details . I don't have access to web but jus the app. Is it not possible to do anything with your app in mobile?",@775057 Apologies for the miscommunication. Upon checking the application its working fine. You may try selecting any option to get in touch with our customer service for telephonic conversation. ^MN,complaint,phone_chat,explicit_human_request|missing_delivery|high_frustration,3,3
+1291962,422133,1291964,@AmazonHelp No phone number?,"Customer: @AmazonHelp Having difficulty setting up Web access for kids settings on Fire 8. Is there a helpline?
+AmazonHelp: @422133 We're happy to help! When you have a moment, please contact us here: https://t.co/JzP7hlA23B ^RA
+Customer: @AmazonHelp No phone number?","@422133 The link provided will give you the options to call, chat or email us. Our phone number is 1-866-216-1072 ^AG",complaint,other,explicit_human_request,3,5
+352383,199801,352384,@AmazonHelp no call back,"Customer: @AmazonHelp sent email..called but of no help
+AmazonHelp: @199801 Request you to share the order details using this link: https://t.co/cQVomR1pWz and we'll get back to you soon. ^SK
+Customer: @AmazonHelp no call back","@199801 Sorry for the trouble Asif. Could you please confirm, if you've shared your details in the link above? ^HN",complaint,other,explicit_human_request,3,5
+356715,200702,356717,@AmazonHelp It was yes,"Customer: Last time I buy phone accessories from Torras on @115821 . Case/Screen protector not as described, screen protector didn’t fit. 😔
+AmazonHelp: @200702 Oh no! I'm sorry for the trouble with the item. Was the item sold and fulfilled by Amazon or a third-party seller? ^TG
+Customer: @AmazonHelp It was yes","@200702 Have you checked the available return/replacement options here: https://t.co/aaDyEz1VgE? If so, what was offered? ^ME",complaint,refund_replacement,explicit_human_request,3,5
+814319,313945,814321,@AmazonHelp Nothing happened,"Customer: @AmazonHelp Signed in.. what to do next?
+AmazonHelp: @313945 Kindly click on 'an order I placed' &gt; select an issue and connect with our support team via email/chat. ^SQ
+Customer: @AmazonHelp Nothing happened",@313945 Sorry for the trouble with the refund of the order. I'd like to take a closer look at this. ^AK (1/2),complaint,investigation,explicit_human_request,3,5
+814319,313945,814320,@AmazonHelp Nothing happened,"Customer: @AmazonHelp Signed in.. what to do next?
+AmazonHelp: @313945 Kindly click on 'an order I placed' &gt; select an issue and connect with our support team via email/chat. ^SQ
+Customer: @AmazonHelp Nothing happened",@313945 Please fill in your details using the link: https://t.co/JzRdscmdH9 and I'll get in touch with you soon. ^AK (2/2),complaint,other,explicit_human_request,3,5
+381401,206450,381402,@AmazonHelp Please read through this tweet.,"Customer: @AmazonHelp Absolutely useless spend 30 mins on the phone to be told they are to busy and they will call me back. 48 hours later nothing @115851
+AmazonHelp: @206450 Hello Dave! Sorry for the frustration! When you called in, what type of issue was it for, exactly? We'd love to help! ^JD
+Customer: @AmazonHelp Please read through this tweet.",@206450 So sorry about that! I'd like a member of my team to look into this! Please provide more info here: https://t.co/yBEbGtonyI ^AD,complaint,investigation,explicit_human_request|high_frustration,3,4
+1956137,580543,1956140,@AmazonHelp Have done that,"Customer: .@115850 this is what you deliver in the name of brand #new #sunglasses? WOW! #fail https://t.co/OI6ENZZT1z
+AmazonHelp: @580543 This is very unusual, have you reported this to our support team here:https://t.co/rS49hgaADF for assistance? ^VR
+Customer: @AmazonHelp Have done that",@580543 I'm sorry you've received a defective product. We'd like to look into it. Please fill in the related details 1/2 ^AP,complaint,investigation,,3,5
+1956137,580543,1956139,@AmazonHelp Have done that,"Customer: .@115850 this is what you deliver in the name of brand #new #sunglasses? WOW! #fail https://t.co/OI6ENZZT1z
+AmazonHelp: @580543 This is very unusual, have you reported this to our support team here:https://t.co/rS49hgaADF for assistance? ^VR
+Customer: @AmazonHelp Have done that","@580543 here: https://t.co/beaaDm0muc, we'll get back to you soon. 2/2 ^AP",complaint,other,,3,5
+1968348,583218,1968349,@AmazonHelp yup. nothing there.,"Customer: @AmazonHelp This chat was about 4hrs ago. I've chatted with customer service 3 times prior to this for the same order and have never received e-mails after any of them.
+AmazonHelp: @583218 Have you checked your junk/spam folder? ^AS
+Customer: @AmazonHelp yup. nothing there.",@583218 Apologies for the poor experience. Was there a chance to leave feedback after the chat? What reason was advised for the delay? ^TP,complaint,information,explicit_human_request,3,5
+390041,208333,390043,@AmazonHelp No,"Customer: @115850 when am I going to get the hair spray of L'oreal It was scheduled for 6th oct..till now not reached yet https://t.co/r71Zk0uvBi
+AmazonHelp: @208333 Have you reported it to the support team here: https://t.co/TxK11znixD (2/2)^HR
+Customer: @AmazonHelp No",@208333 Please reach out to our support team from the link shared above. ^HN,complaint,other,,3,5
+1072167,373007,1072170,@AmazonHelp No mail received @115850 @AmazonHelp,"Customer: @AmazonHelp Escalated the problem 100 of times via mail, chat, call. Still no resolution. Product was supposed to be delivered on 9 October.
+AmazonHelp: @373007 I apologize for the delay, Manipal. Please respond to the email you received from us for further assistance. ^JC
+Customer: @AmazonHelp No mail received @115850 @AmazonHelp",@373007 Please check for our correspondence here: https://t.co/NTkrxpaAj9 and revert. ^PS,complaint,information,explicit_human_request,3,5
+619238,266941,619240,@AmazonHelp I ordered oneplus5t yesterday for that reason I purchased prime membership. But I haven't received that phone till now.,"Customer: @115850 Don't buy prime membership form @115850 that is useless. That only do fake promise.
+AmazonHelp: @266941 Looks like you've had an unpleasant experience with us. Could you please elaborate what went wrong? We would like to help. ^RB
+Customer: @AmazonHelp I ordered oneplus5t yesterday for that reason I purchased prime membership. But I haven't received that phone till now.","@266941 I'm sorry to learn about this, did we happen to miss the delivery estimates? ^VN",complaint,other,explicit_human_request|missing_delivery|high_frustration,3,3
+1066676,371726,1066677,@AmazonHelp No joy,"Customer: @AmazonHelp Nope still comes up without any permissions
+AmazonHelp: @371726 Can you try clearing the browser's cache and cookies, and then resetting the phone? Let us know if that clears up the issue. ^JS
+Customer: @AmazonHelp No joy",@371726 I'm sorry you're still having issues. Could you please fill out this form https://t.co/6my0IWzHHt so we can help you with this? ^AY,complaint,other,explicit_human_request,3,5
+2680296,754102,2680298,@AmazonHelp No I haven't,"Customer: @AmazonHelp No,nothing changed I was originally told it would arrive late but it would be either yesterday or today, but now it's changed to Thursday
+AmazonHelp: @754102 Thank you for the information! Have you spoken with us via phone or chat? https://t.co/JzP7hlA23B. ^AL
+Customer: @AmazonHelp No I haven't",@754102 Please reach out to us via phone or chat so we can best assist: https://t.co/JzP7hlA23B. ^AX,complaint,phone_chat,explicit_human_request,3,5
+89091,135275,89090,@AmazonHelp This is what I’m doing now,"Customer: @AmazonHelp was told you would call me back within four hours, been over 24 and still no call...
+AmazonHelp: @135275 Oh no! I'm sorry you haven't received a callback! Have you had a chance to reach back out to us for an update? ^JO
+Customer: @AmazonHelp This is what I’m doing now",@135275 We do not have access to your account information for security reasons. Please contact us directly using the following link: https://t.co/oGDklGgbCZ.^SM,complaint,information,explicit_human_request|missing_delivery,3,4
+1562908,363768,1562909,"@AmazonHelp Ofcourse, yes","Customer: @115850 @118702 What's the status of my complaint ? I think ur answer will be ""bade bade deshon mein aisi chhoti chhoti batein hoti rehti hai . "" 😡
+AmazonHelp: @363768 Did you happen to share your details through the link provided earlier? ^JS
+Customer: @AmazonHelp Ofcourse, yes",@363768 https://t.co/beaaDm0muc and I'll get in touch with you. 2/2^SC,complaint,other,,3,5
+413031,213573,413033,"@AmazonHelp @213583 I have been locked out of my account since Nov 4 without any explanation. I have faxed in my id and verification. No follow up, I have called, never recieved a call back. This is the worst service I have ever experienced. Still no idea why my account is closed.","Customer: @AmazonHelp Your customer service is really embarrassing itself right now on the phone. Language barriers present comprehension problems. 1.5hrs on the phone
+AmazonHelp: @213583 I'm sorry for the trouble! Can you tell us what's going on without sharing any personal or account specific information? We'd like to assist if possible. ^EZ
+Customer: @AmazonHelp @213583 I have been locked out of my account since Nov 4 without any explanation. I have faxed in my id and verification. No follow up, I have called, never recieved a call back. This is the worst service I have ever experienced. Still no idea why my account is closed.",@213573 I'm so sorry to hear about ongoing trouble you're having with your account. Please provide additional details here: https://t.co/orah11zn17 and please use the Skip Login option. I'd like to make sure this is escalated so we can look into it further. ^CC,complaint,investigation,explicit_human_request|account_action|high_frustration,3,3
+2410513,330641,2410514,@AmazonHelp Still nothing.,"Customer: @AmazonHelp What is the phone number
+AmazonHelp: @330641 Hi, Jason! The number is provided in the Contact Us link above. It will ask you to fill in some general information about your issue, so that when you call, the details will populate for the agent and you won't need to repeat yourself. I hope this helps! ^SP
+Customer: @AmazonHelp Still nothing.","@330641 Have you had a chance to contact us at the link ^JF provided? If so, what information or options have we offered? ^RA",complaint,information,explicit_human_request,3,5
+418179,214772,418181,@AmazonHelp No updates yet.,"Customer: @AmazonHelp Sockong for me as well. Just dropped a mail.
+AmazonHelp: @214772 Thanks for letting us know. Our support team will revert to you with an update on priority.^RS
+Customer: @AmazonHelp No updates yet.","@214772 Sorry for the delay. As you've mentioned dropping an email to our support team, you should've received an email. (1/2) ^KA",complaint,other,,3,5
+418179,214772,418180,@AmazonHelp No updates yet.,"Customer: @AmazonHelp Sockong for me as well. Just dropped a mail.
+AmazonHelp: @214772 Thanks for letting us know. Our support team will revert to you with an update on priority.^RS
+Customer: @AmazonHelp No updates yet.",@214772 Please check here: https://t.co/NTkrxpsbHJ do keep us posted. (2/2) ^KA,complaint,information,,3,5

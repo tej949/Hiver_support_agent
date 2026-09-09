@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+1719114,350794,1719116,@AmazonHelp No,"Customer: @115850 made payment hain @6553 card by mistake entered @3021 card cvv no transaction accepted how?? #Amazon @131742 @118818
+AmazonHelp: @350794 Have you reported this to our support team here: https://t.co/2t6DQoUmNZ? ^HR
+Customer: @AmazonHelp No",@350794 Please reach out to us from the link shared above and we will assist you accordingly. ^HR,payment,other,,3,5
+1140883,388551,1140885,@AmazonHelp ok thanks,"Customer: @AmazonHelp yes, the same as the first time it ask me for the information i already send. i have an italian card trying to pay in Mexico is it the prob?
+AmazonHelp: @388551 Giulio, you will need to follow the instructions you received. It can take up to 48 business hours to receive a response. ^LG
+Customer: @AmazonHelp ok thanks","@388551 You are welcome, Giulio. If you need any further assistance, please contact us again. ^LG",payment,acknowledgement,,3,5
+1758639,529396,1758642,@AmazonHelp No comment?....,"Customer: And just like that @115821 resets my password, cancels my order and erases my credit card for no reason..... thanks.
+AmazonHelp: @529396 We'd be glad to assist you with this, Jake! Without posting personal account information, tell us more about what happened. ^FR
+Customer: @AmazonHelp No comment?....",@529396 your account is on Amazon.fr or https://t.co/nUUp5MLhYl? ^RA,payment,other,,3,5
+2819210,125706,2819209,@AmazonHelp https://t.co/OE0BF5Fpzy did that,"Customer: @AmazonHelp UNAUTHORIZED CHARGE MADE BY AMAZON TODAY. SHAMEFUL
+AmazonHelp: @125706 I'm sorry about the issue with the transaction. Have you reported this to our team here: https://t.co/vlvfJr4nN9 ? ^GK
+Customer: @AmazonHelp https://t.co/OE0BF5Fpzy did that",@125706 I'm sorry about that. You can reach out to the https://t.co/nUUp5MLhYl team here: https://t.co/Y5jpI9gRhE ^KB,payment,information,,3,5
+1986445,588022,1986446,@AmazonHelp Yes it does.,"Customer: @AmazonHelp Yes those are the steps. Whenever I click on the card, the financing or the 5% back option won't come up on checkout.
+AmazonHelp: @588022 Does the item meet the terms and conditions listed here: https://t.co/GJORQkmOg9 ^ML
+Customer: @AmazonHelp Yes it does.","@588022 Interesting! We'd like for you to reach out to the issuer of the card, Synchrony bank. You can reach them at 1-866-634-8379 ^HM",payment,information,,3,5
+1604134,492219,1604136,@AmazonHelp No,"Customer: @115850 bought Samsung On 5 pro on 16/10/17 recharged vodafone rs 96 thrgh Amazon pay balance bt 10 GB data nt given as told @118343
+AmazonHelp: @492219 I'm sorry for the discrepancy with the promotion, have you reported this to our support team here: https://t.co/GIJyeYqKE0? ^MJ
+Customer: @AmazonHelp No","@492219 In this case, select the order &amp; drop your number here: https://t.co/vlvfJr4nN9 &amp; we'll check this for you. ^MJ",payment,other,,3,5
+1718679,520360,1718678,@AmazonHelp Ok merci,"Customer: @AmazonHelp J ai tenté de contacter Colis Privé ... c est dommage d acheter sur Amazon avec une garantie de livraison le jour de la sortie ... et
+AmazonHelp: @520360 Le mieux serait de le signaler à l'équipe en charge via ce lien https://t.co/hgIrz98cdI ^SN
+Customer: @AmazonHelp Ok merci",@520360 A votre service,payment,other,,3,5
+1660069,359076,1660070,@AmazonHelp That worked!!!,"Customer: @AmazonHelp Hello @AmazonHelp i got my order bt did not get any coupon or prime membership details, hw can i get this? prime membership nt yet activtd?
+AmazonHelp: @359076 Have you reported it to our support team yet? If not, please do so using this link: https://t.co/vlvfJrlYEH for more help. ^RS
+Customer: @AmazonHelp That worked!!!",@359076 Great! We're glad to know that. Please feel free to reach out to us for any further concerns. ^EM,payment,acknowledgement,,3,5
+145894,140421,145895,@AmazonHelp Ok gracias,"Customer: @AmazonHelp 6358351__credit_card__ ese pedido aun no me ha llegado y tenia que estar ayer, hable con un agente y me programo la entrega para hoy entre las 10-13:30 y nada. Tratare el tema con la empresa de transportes
+AmazonHelp: @140421 Te recordamos que al ser este un medio público por tu seguridad no es recomendable compartir datos de tu cuenta por lo que te recomendamos eliminar esta información. Por otro lado puedes encontrar los datos de contacto de transportistas aquí: https://t.co/0fIkCR86VR.^MZ
+Customer: @AmazonHelp Ok gracias","@140421 Con todo gusto, por favor si con esto no se resuelve el inconveniente no dudes en ponernos al tanto, estamos para ayudarte. ^MZ",payment,other,explicit_human_request,3,5
+2933577,174755,2933579,@AmazonHelp Yes,"Customer: Ok, this is weird. For my last 2 purchases on @115850 , I used my @116988 credit card. On both occasions, no OTP or #2FA done even when amount was &gt;2000. Isn't it against @2155 norms?
+AmazonHelp: @174755 Could you please confirm if the credit card was issued in India? ^SC
+Customer: @AmazonHelp Yes","@174755 I'm sorry for the unpleasant experience, please report this to our customer service team here: https://t.co/vlvfJr4nN9 and we'll be glad to help you. ^SI",payment,phone_chat,,3,5
+1157241,392230,1157243,@AmazonHelp OK got it,"Customer: @115821 pls correct final payment amount thanks:) https://t.co/CtHEiPDMQr
+AmazonHelp: @392230 After the promotion being applied, the shipping charges are removed which makes the final amount Rs. 685. 2/2^MS
+Customer: @AmazonHelp OK got it","@392230 Sounds perfect, Deep. Do keep us posted in case of any further queries. ^KS",payment,other,,3,5
+2969460,819081,2969459,@AmazonHelp No subscriptions,"Customer: @AmazonHelp Hello, Amazon has randomly taken £10.80 from my bank account, I haven't bought anything and I'm still on a premium trial?
+AmazonHelp: @819081 I'm sorry for the unexpected charge, David. Have you checked to see if you have any active subscriptions? You can check here: https://t.co/P4CGkle0U5 ^FJ
+Customer: @AmazonHelp No subscriptions",@819081 Thank you for the information. We'd like to speak with you about this matter and get to the bottom of it! Please reach out to us here: https://t.co/JzP7hlA23B. ^DG,payment,information,,3,5
+320353,192334,320355,@AmazonHelp yes provided,"Customer: @AmazonHelp 1__credit_card__ Your customer support is horrible
+AmazonHelp: @192334 details in the link provided earlier and we'll contact you. (2/2) ^GK
+Customer: @AmazonHelp yes provided",@192334 Thanks for confirming. We'll reach out to you soon. ^SG,payment,acknowledgement,,3,5
+2958529,816564,2958527,@amazonhelp no,"Customer: @amazonhelp so far you’ve tried to charge me $2600, 15 times in total
+AmazonHelp: @816564 Have you received an e-mail from our Account Specialist regarding the hold currently on your account? ^AC
+Customer: @amazonhelp no","@816564 When on the phone with us, what insight or options were provided? ^AR",payment,other,,3,5
+2795378,780045,2795376,@AmazonHelp no ..,"Customer: @115830 on my bank account. I havent bought anything else so please can you advise.
+AmazonHelp: @780045 I'm sorry for the unknown charge. Does it show you are a Prime member here https://t.co/EMoca4AE9A? If so, you can cancel the subscription with a refund from the same page. ^MH
+Customer: @AmazonHelp no ..",@780045 We'd like to look into this unknown charge for you. Please reach out to us via phone or chat here: https://t.co/84tGza33lE ^BE,payment,investigation,,3,5
+355616,200482,355617,@AmazonHelp Yes,"Customer: @AmazonHelp Since I was not provided the service for which I was charged help me with the refund of Rs.100
+AmazonHelp: @200482 I understand that you are asking to refund the delivery charges of Rs. 100, I'm I correct? ^HA
+Customer: @AmazonHelp Yes",@200482 Got it. Please get in touch with our support team here: https://t.co/vlvfJr4nN9 for further assistance. ^HA,payment,other,,3,5
+1038913,365800,1038914,@AmazonHelp OK thanks.,"Customer: @AmazonHelp What if I add money on my amazon pay via sbi card?
+AmazonHelp: @365800 Amazon gift card which is not eligible for this offer. Request you to make a note of it. 2/2 ^NK
+Customer: @AmazonHelp OK thanks.",@365800 You're welcome. Do keep us posted for any further assistance. ^SV,payment,acknowledgement,,3,5
+2205145,469525,2205144,@AmazonHelp Yes,"Customer: @AmazonHelp I signed up for Amazon Household but I am unable to access Prime, why is this?
+AmazonHelp: @469525 Thank you for reaching out today! Did both account holders agree to share their payment methods? You can learn more about sharing Prime through Households here: https://t.co/bp9GCG7gQH ^KB
+Customer: @AmazonHelp Yes","@469525 Hm, that's strange. If the primary Prime provider has a regular Prime membership and you're still not able to access the benefits please reach us so we can look into this matter further: https://t.co/JzP7hlA23B ^EB",payment,investigation,,3,5
+2599661,443443,2599660,@AmazonHelp No just says https://t.co/YSfWzNb8sl,"Customer: @AmazonHelp do you get charged when item is despatched??? Also £1 has left my account why is that?
+AmazonHelp: @443443 Hello Steph - Thanks for reaching out to us today. You aren't charged for your orders until they ship from our fulfillment centers. As far as the £1 charge you're seeing goes, does your bank statement list a description of the charge? ^FJ
+Customer: @AmazonHelp No just says https://t.co/YSfWzNb8sl",@443443 The charge seems to be an authorization charge. This charge will be redirected to back into your account according to your banks timeline. Take a look at this link:https://t.co/JBadOQu0VP ^CR,payment,other,,3,5
+897595,333163,897593,@AmazonHelp Yes,"Customer: @AmazonHelp hi. Why won’t my gift card reload to my account?
+AmazonHelp: @333163 I'm sorry for the trouble with the gift card. What error message are you seeing? Is this for an Amazon Gift Card? ^JM
+Customer: @AmazonHelp Yes",@333163 Are you reloading from a physical Gift card or through our Gift card reload option on our site? ^AG,payment,other,,3,5
+888188,330898,888190,@AmazonHelp no help . https://t.co/WSd4EF9gjk,"Customer: @115821 is getting an email from “ __email__ “ telling me my order hasn’t been shipped because i need to fax credit card information and the billing adress legit or a scam ?
+AmazonHelp: @330898 Oh no! Sorry to hear this! We are unable to view your account via Twitter, however if you reach out to us here: https://t.co/hApLpMlfHN we can take a look at the correspondence we have sent you! https://t.co/hApLpMlfHN
+Customer: @AmazonHelp no help . https://t.co/WSd4EF9gjk","@330898 I understand. In this case, please contact us via phone or chat so that we can help research this in real-time: https://t.co/hApLpMlfHN. Otherwise, you can find some helpful information on suspicious e-mails here: https://t.co/2MllFNz2ph. Please keep us posted! ^SD",payment,phone_chat,,3,5
+481497,214431,481496,@AmazonHelp Ok thank you!,"Customer: I use my dad’s prime account bc I’m cheap &amp; I just woke up to a $100 charge on my credit card because they didn’t use the default card on file (his) and used mine instead 😐 get it together @AmazonHelp
+AmazonHelp: @214431 Hi there! I'm sorry about the unexpected charge. In some cases if we are unable to charge the default card on file, the next available card will be charged. If you needed to cancel the membership, take a look here: https://t.co/ugjESaCMmf I hope this helps! ^SM
+Customer: @AmazonHelp Ok thank you!",@214431 You're welcome! Have a lovely weekend. ^KI,payment,acknowledgement,,3,5
+2460017,704458,2460019,@AmazonHelp Yes Confirmed,"Customer: @115850 Not credited 99 cashback for Jio 459 recharge
+AmazonHelp: @704458 I understand your concern regarding the cashback. Could you please confirm if you're referring to the offer mentioned here: https://t.co/kYSqaBLIh3. ^AP
+Customer: @AmazonHelp Yes Confirmed",@704458 We apologize for the delay in the cash back. Allow our support team to investigate this. You can report this here: https://t.co/R3EfhzgU8B ^CB.,payment,investigation,,3,5
+641753,272303,641755,@AmazonHelp Now saying this https://t.co/SWaioy3Tzx,"Customer: @AmazonHelp No just saying it's wrong code
+AmazonHelp: @272303 That is strange, sorry for any inconvenience! Can you confirm the Amazon site the Gift Card is for (.com/.co.uk/etc) ? Also, confirm that you're following these steps to redeem: https://t.co/aVJDPZWCWL if you would please, just for troubleshooting purposes. ^JE
+Customer: @AmazonHelp Now saying this https://t.co/SWaioy3Tzx","@272303 If you haven't already, please try another device or if on the same device another browser. This could very well be a cache/cookie error causing you to just loop. If still nothing, please contact us here: https://t.co/J5cVftJLZO for further review. ^TM",payment,investigation,,3,5
+683780,283192,683779,@AmazonHelp Ok great thanks!,"Customer: @115830 Hi @115830 Can you please tell me if Amazon Prime membership is going to be discounted for black friday please? Thanks
+AmazonHelp: @283192 Glad to hear you're interested in our Black Friday Deals! Here's a sneak peek at some deals that we'll have: https://t.co/AVcGhYl5L9 As far as any other deals or Prime savings, we won't know until they're live! Keep checking, and let us know if we can help! ^KN
+Customer: @AmazonHelp Ok great thanks!",@283192 You're welcome. Have a great day 😎,payment,acknowledgement,,3,5
+1519847,472505,1519848,@AmazonHelp I sorted it out now,"Customer: @AmazonHelp I did have free trial but amazon canceled it. I did not change my card details
+AmazonHelp: @472505 We'd like to take a look into some options with you. When you get a chance, please reach out here: https://t.co/JzP7hlA23B ^TH
+Customer: @AmazonHelp I sorted it out now",@472505 Thanks for the update. Glad everything was sorted out. ^CO,payment,acknowledgement,,3,4
+1265174,219480,1265176,"@AmazonHelp Oh yes ,I have","Customer: @115850 My product has still not reached me despite your “DMs”. Can’t believe that Amazon wouldn’t deliver even after a prime membership https://t.co/6zBi0uv1dN
+AmazonHelp: @219480 Kindly confirm if you've shared the asked details via the link that we've shared via DM? ^SG
+Customer: @AmazonHelp Oh yes ,I have",@219480 We haven't received your details yet. Request you to share your details again through the secured link provided earlier.^OS,payment,other,,3,4
+269810,180352,269809,@AmazonHelp Yes I've shared the details,"Customer: @AmazonHelp The only mail i received is this.. and i don't any card with 89 ending https://t.co/2Z1OKyD6h4
+AmazonHelp: @180352 Sorry for the trouble. Could you please confirm if you've shared your details in the above link? ^HN
+Customer: @AmazonHelp Yes I've shared the details",@180352 That's odd. I'd require you to please share the details again and I'll reach out to you. ^HD,payment,other,,3,4
+1143398,389114,1143400,@AmazonHelp This is an absolute joke,"Customer: @AmazonHelp Yes! And im still on hold! CS tried connecting the payment to a complete different order made with a different card!👀👀🤦🏻‍♀️!!! Solution?!!!
+AmazonHelp: @389114 Has the charge been found since for you? ^NV
+Customer: @AmazonHelp This is an absolute joke","@389114 When you spoke with us, what information or insight did we provide? Were we able to locate the charge? ^KP",payment,information,,3,4
+86064,134791,86062,@AmazonHelp I've already done that,"Customer: @115830 From urselfs bar the €1 on Thursday! I've conveniently been told the card needs a day r so to activate so I tried purchasing something else from ur site an it was accepted straight away. So there is NO ISSUE with my card. And I want to know how to get this resolved as I'm being
+AmazonHelp: @134791 We're here to help, sorry for any inconvenience! With Twitter, we're unable to access account or order information. To learn how to resolve a declined payment, click here: https://t.co/f05eosgufo ^JE
+Customer: @AmazonHelp I've already done that","@134791 Be sure the billing address for your order is chosen. Many times, the billing address chosen is not correct and will decline the payment. Keep us posted. -AV",payment,other,,3,4
+231308,171088,231311,@AmazonHelp total it costs me 507 rs.,"Customer: @115850 don't you think that your shopping charges are to high?
+AmazonHelp: @171088 our efforts to offer you the lowest price, may result in fluctuations in our prices over time.(2/2)^HR
+Customer: @AmazonHelp total it costs me 507 rs.","@171088 If the item is fulfilled by a seller, the delivery charge is set by the seller. The shipping charges vary from seller to seller.^GK",payment,other,,3,4
+108200,140017,108202,@AmazonHelp I already called u guys and explained the issue but u guys told me that u guys are not reliable for your application glitches,"Customer: Amazon- worst experience. Ordered phone got different one. Left with credit card bill and a phone- notmy choice. @115850 @115821 helpless
+AmazonHelp: @140017 Sorry to know you've received a different product, Falguni. Please reach us from here: https://t.co/rS49hgaADF we'll check your details and assist you further. ^SV
+Customer: @AmazonHelp I already called u guys and explained the issue but u guys told me that u guys are not reliable for your application glitches",@140017 I'm sorry to know about your experience. Please share your details here: https://t.co/GIJyeYqKE0 I'll reach out to you with further assistance. ^SV,payment,other,explicit_human_request|high_frustration,3,3
+1250314,117492,1250316,@AmazonHelp My card should be OK tho?,"Customer: @AmazonHelp hiya of done the trail for Amazon prime says it's been suspended coz my card is in valid when it's not
+AmazonHelp: @117492 Sorry for the trouble! Have you tried updating or resubmitting the card here: https://t.co/biTyjMCnXB ^QJ
+Customer: @AmazonHelp My card should be OK tho?",@117492 Please confirm the information is correct on our website through the link ^QJ provided earlier. ^RR,payment,information,,3,4
+2841685,790703,2841687,@AmazonHelp they keep telling me to give the bank an authorisation code that the bank tell me has already been cleared and that I am attempted to be charged twice for each purchase. chat support was not helpful in the least telling me its my banks issue and to give them a code,"Customer: @AmazonHelp getting aggravated trying to deal with amazonuk chat support about double payments for items coming out of my bank account and telling me my payments are been rejected. Thanks for leaving a really sour taste in my mouth
+AmazonHelp: @790703 Oh no! I'm so sorry to hear about your troubles, Alan. Did chat support offer you any insight as to why this is happening? ^VF
+Customer: @AmazonHelp they keep telling me to give the bank an authorisation code that the bank tell me has already been cleared and that I am attempted to be charged twice for each purchase. chat support was not helpful in the least telling me its my banks issue and to give them a code","@790703 Just to clarify, you have given the authorization code to your bank and they say that this has been cleared already? ^VS",payment,other,explicit_human_request|failed_support,3,3
+1691952,513574,1691954,@AmazonHelp But still no dispatch,"Customer: @AmazonHelp I don’t think they understood the concept of a limited pre order
+AmazonHelp: @513574 Did you receive an e-mail stating that your payment was declined? ^ZW
+Customer: @AmazonHelp But still no dispatch","@513574 If your order doesn't arrive by the date provided in your order confirmation, please let us know: https://t.co/qy3J24VGxb^BV",payment,acknowledgement,,3,4
+1680090,510904,1680091,@AmazonHelp Plz check __email__ amazon id...Complaint is registered..he gifted me a gift card which is not working... @510903 ...U guys don't care for ur customer..I just spent 30 mins explaining same to ur customer rep over chat as well,"Customer: @510902 @AmazonHelp @510903 We have filled form and complaint is registered under __email__ amazon account.They said 3 days and it's almost 15 days...Still these people aren't responding..
+AmazonHelp: @510904 I'm afraid we haven't received your details under the mentioned email ID. Please sign in to your account &amp; send us the details using the link provided by 'SF' here: https://t.co/OWbEViR0Ca &amp; we'll look into the issue right away.^SF
+Customer: @AmazonHelp Plz check __email__ amazon id...Complaint is registered..he gifted me a gift card which is not working... @510903 ...U guys don't care for ur customer..I just spent 30 mins explaining same to ur customer rep over chat as well","@510904 Please share your details on the link above and we'll get back to you at the earliest. Please don't provide your email details, as we consider it to be personal information. Our Twitter page is visible to the public. ^PS",payment,privacy_restriction,explicit_human_request|missing_delivery,3,3
+2831655,788411,2831653,@AmazonHelp Yes I contacted you by phone where we were charged 60p a minuite and the woman was USELESS! We were told they can’t find the payment that was taken even though I’m looking at it right now on my bank statement. I’m happy to dm over all the info.,"Customer: @AmazonHelp Can we do this over DM?
+AmazonHelp: @788411 Have you contacted us by phone or chat here: https://t.co/JzP7hlA23B in relation to this? If so, what were you advised? ^JJ
+Customer: @AmazonHelp Yes I contacted you by phone where we were charged 60p a minuite and the woman was USELESS! We were told they can’t find the payment that was taken even though I’m looking at it right now on my bank statement. I’m happy to dm over all the info.",@788411 Hey Ella. We don't have access to account info here. You can get in touch via this link - https://t.co/zH8UlhTGcc free of charge. Is there a note next to the charge on your statement? What does it advise it is in relation to? (Please don't post any personal info) ^TP,payment,information,explicit_human_request|high_frustration,3,3
+1211103,404276,1211104,@AmazonHelp okay thank you so much💕✨,"Customer: @AmazonHelp after i add my credit card, the thing im going to purchase wont use my credit card but my gift card instead, right?
+AmazonHelp: @404276 By default, the option to use the gift card will be selected at check out. Just make sure not to ""uncheck"" the box. ^MJ
+Customer: @AmazonHelp okay thank you so much💕✨","@404276 You're very welcome! If you have further questions or concerns, please be sure to let us know! We're here to help. ^TG",payment,other,,3,4
+1329524,297552,1329526,@AmazonHelp no and the shit keeps happening,"Customer: Why tf do you assholes keep cancelling my damn order @115821 when theres nothing wrong with my payment info.
+AmazonHelp: @297552 Sorry for the troubles! Have you received an e-mail explaining the cancellation? Please check spam/junk folders. ^AB
+Customer: @AmazonHelp no and the shit keeps happening",@297552 I'd like to have a team member from support verify your payment information with you in real-time: https://t.co/hApLpMlfHN ^WM,payment,information,,3,4
+1440603,454304,1440602,@AmazonHelp Yes my bank statements,"Customer: Wtf amazon took $110 out my account and I never use amazon
+AmazonHelp: @454304 Hi Bhino- How were you notified of the charge? Via your Bank statement or an email or? ^NV
+Customer: @AmazonHelp Yes my bank statements",@454304 Let us look into this for you. Contact us via phone or chat here: https://t.co/hApLpMlfHN ^DA,payment,phone_chat,high_frustration,3,4
+227331,170229,227333,@AmazonHelp No,"Customer: @115850 how to get free gift card for amazon.in
+AmazonHelp: @170229 Could you tell me if you are referring to any offer that is going on ? ^AU
+Customer: @AmazonHelp No",@170229 Please keep us posted if you need any info on any subject regarding Amazon.in. ^HA,payment,other,,3,4
+1670663,508569,1670665,@AmazonHelp No directly from amazon,"Customer: @AmazonHelp I have amazon prime but been charged for delivery 🙁🙁
+AmazonHelp: @508569 Hey Charlie. Have you ordered directly from a seller? ^TP
+Customer: @AmazonHelp No directly from amazon",@508569 We'd like to take a look. Please reach out to us here: https://t.co/JzP7hlA23B ^BG,payment,other,,3,4
+181070,158528,181072,"@AmazonHelp I did... 8 hours later, no call, and I need to go to bed","Customer: Getting really pissed off w/ @115830 Charged me £308 on Friday 'in error' Still waiting for refund confirmation despite several phonecalls
+AmazonHelp: @158528 I'd like a member of my team to look into this with you. Please send us your contact info here: https://t.co/Pu4pKlwP64 ^KH
+Customer: @AmazonHelp I did... 8 hours later, no call, and I need to go to bed","@158528 I can confirm we have received your information, and will be in contact soon. ^AG",payment,information,explicit_human_request|high_frustration,3,3
+1838843,526255,1838845,@AmazonHelp Nothing like time gap. Instant cashback https://t.co/3lh8FAHWEx,"Customer: @AmazonHelp i did recharge with amazonpay for jio but I didn't get cashback offer 101
+AmazonHelp: @526255 Could you let us know if the time frame for the cashback mentioned in the T &amp; C has passed? ^AP
+Customer: @AmazonHelp Nothing like time gap. Instant cashback https://t.co/3lh8FAHWEx",@526255 Please connect with us here: https://t.co/00q4Sqj9zL and we'll have this checked. ^KA,payment,other,,3,4
+2910360,137390,2910362,@AmazonHelp This is what I see https://t.co/pNadAY5Kvv,"Customer: @AmazonHelp hi i need help with my account. I've been charged for two months of prime membership when I cancelled it!
+AmazonHelp: @137390 Oh no! We'd love to help! Is the membership showing on your account here: https://t.co/yfDQs2di7b If so you can cancel for a refund if it hasn't been used. ^AJ
+Customer: @AmazonHelp This is what I see https://t.co/pNadAY5Kvv","@137390 We'd like to look into this further with you. When you have a moment, please contact us by phone or chat here: https://t.co/qy3J25dhoJ ^AC",payment,phone_chat,,3,4
+2848994,792276,2848996,"@AmazonHelp I tried. They won't help unless I give them a credit card number so that I can be charged if I fail to return the cannon fodder within 30 days, and I shop only with gift cards to minimize the risk of theft. But at least my half-hour customer service call dropped with no callback.","Customer: @AmazonHelp I ordered 8 DVDs, your Kentucky fulfillment center threw them into a 13x18"" envelope instead of a box to let them get bounced around and crushed on the way. I got an envelope full of plastic chunks and loose discs. Online and telephone customer service was useless. 😡
+AmazonHelp: @792276 Oh no! I'm so sorry your DVDs arrived crushed! This is not how we want items delivered. Please visit the Online Return Center here; https://t.co/DLe9KUYAqA. ^AV
+Customer: @AmazonHelp I tried. They won't help unless I give them a credit card number so that I can be charged if I fail to return the cannon fodder within 30 days, and I shop only with gift cards to minimize the risk of theft. But at least my half-hour customer service call dropped with no callback.","@792276 I definitely understand your frustrations with this situation! We'd like to have another chance to look at this with you and resolve your concerns. When you have a moment, please reach out to us by phone here: https://t.co/hApLpMlfHN. We're here to help! ^AZ",payment,other,explicit_human_request|high_frustration,3,3
+1432384,452603,1432383,@AmazonHelp Can't determine via this page.,"Customer: @115830 @115821 email rec'd subject Statement news:unlocked billing info. Is this genuine as looks suspicious!! #fraud? #phishing?
+AmazonHelp: @452603 Hi, Jamie. You can visit this page: https://t.co/0vqkVDqaRI to learn how to determine if an e-mail is from Amazon. ^LB
+Customer: @AmazonHelp Can't determine via this page.","@452603 Hey, we can take a look into this with you if you'll contact us here: https://t.co/QW6CAptO3n We look forward to it! ^PF",payment,investigation,,3,4
+2776335,775752,2776334,@AmazonHelp I've had to phone twice to get what I needed after been told from an outside source. I want to lodge a complaint. I've been left with no money because of a mistake Amazon have made,"Customer: @AmazonHelp I have been double charged and left penniless. The person I spoke to was worse than useless how do I make a formal complaint
+AmazonHelp: @775752 Hi Nicola, I am so sorry to hear about your bad experience please use the following link so that someone from our team can help you: https://t.co/JzP7hlA23B ^ HS
+Customer: @AmazonHelp I've had to phone twice to get what I needed after been told from an outside source. I want to lodge a complaint. I've been left with no money because of a mistake Amazon have made","@775752 Hey Nicola, I'm sorry to hear about the issues you've had. You can contact us from the previous link provided to make a complaint. ^PJ",payment,information,explicit_human_request|high_frustration,3,3
+1752487,130485,1752488,@AmazonHelp It has been updated same issue,"Customer: @AmazonHelp The order went through but it’s saying revise payment which I’ve done several times and re entered card info and used whole new card
+AmazonHelp: @130485 Please reach out to us, to verify the payment method was updated, here: https://t.co/hApLpMlfHN ^AR
+Customer: @AmazonHelp It has been updated same issue","@130485 Sorry for the inconvenience! Have you contacted your bank to seek further insight? If so, what info was provided? ^JE",payment,other,,3,4
+1559848,482003,1559850,@AmazonHelp It’s still not working. I’ve checked my bank statements and I’m still being charged in October when I cancelled in May,"Customer: @AmazonHelp Yeah I do, but I cancelled it in May and I’ve been charged every month since?
+AmazonHelp: @482003 Hi, please reach out to us here via chat so we may look into this for you. https://t.co/JzP7hlA23B ^CR
+Customer: @AmazonHelp It’s still not working. I’ve checked my bank statements and I’m still being charged in October when I cancelled in May",@482003 Were you able to contact us via chat or phone using the link CR provided? We'd like to help get this sorted out for you! ^KN,payment,other,explicit_human_request|failed_support,3,3
+2719972,763253,2719974,@AmazonHelp Yes it is (£13.24),"Customer: @AmazonHelp Hi guys, I've had a payment go out twice over the weekend, but no duplicate order, can you look into? Thanks :)
+AmazonHelp: @763253 Hi, without divulding any personal information. Can you let us know if it is the same amount for both charges? ^KI
+Customer: @AmazonHelp Yes it is (£13.24)","@763253 It sounds like it is a residual authorisation from when you placed the order, this will go back into your available balance in a few days. You can view more information on this here: https://t.co/Db4BKhe6Lf ^KI",payment,information,,3,4
+352076,199738,352078,@AmazonHelp There was a promotion Divali sale,"Customer: @115850 what gift card I will get when I purchase a product I purchased a Bosch car washer of 8199rs
+AmazonHelp: @199738 Is there any promotion for the car washer you have ordered? Could you share the links? ^MJ
+Customer: @AmazonHelp There was a promotion Divali sale",@199738 Could you tell us more about this promotion. Links to that promotion will be even more helpful. ^HA,payment,other,,3,4
+1396660,354667,1396658,@AmazonHelp I have sent an using that form just before I tweeted you. Hopefully it doesn't take long to get it back up and running!,"Customer: @AmazonHelp Prime has been suspended. Updated payment method, still not working! Help.
+AmazonHelp: @354667 Oh no! We're unable to view your account here. Please reach us via phone here: https://t.co/JzP7hlA23B so we can take a look! ^AB
+Customer: @AmazonHelp I have sent an using that form just before I tweeted you. Hopefully it doesn't take long to get it back up and running!",@354667 Please keep us posted! ^BA,payment,other,explicit_human_request|failed_support,3,3
+1096653,278558,1096654,@AmazonHelp This is my order detail https://t.co/PJzi0o7yi4,"Customer: @AmazonHelp I have paid through amazon pay and now my payment also got stuck, who will be responsible for all this mess, and why should i suffer
+AmazonHelp: @278558 I'll look into it right away for you. (2/2) ^ST
+Customer: @AmazonHelp This is my order detail https://t.co/PJzi0o7yi4","@278558 Also, don’t provide your order details as its personal information. Our Twitter page is visible to public.(2/2)^RS",payment,privacy_restriction,,3,4
+145726,149055,145728,@AmazonHelp that date has not passed yet,"Customer: @115821 I have ups tracking that says a return was delivered a while back but it has not been marked as received on the order system, expensive item I don't want to be double charged for
+AmazonHelp: @149055 We're not able to view your order via Twitter, but we'd love to help in any way we can! After the carrier has received your item, it can take up to 2 weeks for us to receive and process your return. Has that date passed? Please keep us posted! ^NM
+Customer: @AmazonHelp that date has not passed yet",@149055 Okay! Reach out to us by phone or chat here: https://t.co/hApLpMlfHN if you'd prefer live assistance to check into this return. ^AH,payment,investigation,,3,4
+2146470,185376,2146472,@AmazonHelp I had contacted on this link,"Customer: @AmazonHelp customer service representative promise to add gift card of rs 50/- day before yesterday till now no gift had been credited...
+AmazonHelp: @185376 Sorry for the hassle Mudit. Please report this to our support team here: https://t.co/vlvfJr4nN9 and we'll check this. ^HN
+Customer: @AmazonHelp I had contacted on this link","@185376 Sorry about the delay. We'd like a closer look, please drop in your details here: https://t.co/GIJyeYqKE0 ^MS",payment,other,,3,4
+2663416,750569,2663417,@AmazonHelp it has not dispatched yet,"Customer: @115850 i want to cancel my order but there is no option of cancellation Help I have made e-payment by debit card
+AmazonHelp: @750569 Once an order is dispatched, you wouldn't get the option to cancel it online. Please contact us 1/2 ^SY
+Customer: @AmazonHelp it has not dispatched yet","@750569 Please do not worry, get in touch with our support team and they will assist you accordingly. ^RW",payment,other,,3,4
+2176685,638026,2176684,@AmazonHelp Ok I am waiting,"Customer: @115850 Dear amazon 11 अगस्त 2017 को SBI डेबिट कार्ड से मैंने सैमसंग ऑन5 प्रो गोल्ड खरीदा था । जिसका आर्डर नंबर 407-5843968-3905154 था। जिस पर 15% कैशबैक ऑफर था लेकिन अभी तक मुझे कैशबैक नहीं मिला है।
+AmazonHelp: @638026 Hi, I see that the applicable cash back under this Offer will be credited to the eligible customer’s card account latest by November 12, 2017. Kindly wait till the same. Further, you can check here: https://t.co/4uKkoNK26R for more info. ^VN (1/2)
+Customer: @AmazonHelp Ok I am waiting","@638026 Thanks for understanding, Irfan. Please keep us posted. :) ^NK",payment,acknowledgement,,3,4
+412994,213573,412995,@AmazonHelp November 14th I faxed it in.,"Customer: @AmazonHelp Nope no spam. I received an email asking me to verify my credit card by fax which i did and still no response.
+AmazonHelp: @213573 I know how frustrating this can be. How long ago did you fax the information to the Account Specialist? ^BA
+Customer: @AmazonHelp November 14th I faxed it in.",@213573 Please reach out to us via phone so we can take a closer look at this with you: https://t.co/jzvkhdlrK5 ^RM,payment,investigation,,3,4
+2184682,639869,2184681,@AmazonHelp I did that before posting it,"Customer: Strange @115850 How can you enable Amazon pay check box and then credit card radio button at the same time and throw error when we press continue? You take money from my Bank to @115823 in 2 minutes but to reverse it you need 15-17 days? Thought you guys are very advanced https://t.co/hHcQQjcB8v
+AmazonHelp: @639869 I understand your concern. Please get in touch with our support team here: https://t.co/rS49hgaADF so that we can assist you accordingly. ^MN
+Customer: @AmazonHelp I did that before posting it","@639869 If your query was unanswered, please share your details here: https://t.co/beaaDm0muc and I'll contact you soon. ^BV",payment,other,,3,4

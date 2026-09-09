@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+24532,121290,24534,@AmazonHelp Yes,"Customer: @AmazonHelp I am unable to Use Prime Video even though I am Prime Member it tells me to sign up for prime Membership
+AmazonHelp: @121290 Apologies for the trouble. Could you please let us know if you have logged in on prime enabled account? ^SB
+Customer: @AmazonHelp Yes",@121290 May I please know what error do you see while trying to access the videos? ^SH,product,other,,3,5
+2261730,658492,2261732,@AmazonHelp Yes,"Customer: @AmazonHelp The robot call from +35312478199 to communicate a second-factor auth code is not working: the bot doesn't say anything, the call is literally empty... Please fix.
+AmazonHelp: @658492 I'm sorry for the trouble you're having with this. Just to clarify, is this happening with the Two-Step Verification request? ^EB
+Customer: @AmazonHelp Yes",@658492 I'm sorry for the troubles. Have you tried using your back up methods? Learn more here:https://t.co/tPVo16zcfa. Let us know! ^SK,product,self_service,,3,5
+3751,116617,3752,@AmazonHelp Sadly yes,"Customer: @AmazonHelp Many times, but still failing, and it happen with some show
+AmazonHelp: @116617 Is this still ongoing? What devices are you using? ^AN
+Customer: @AmazonHelp Sadly yes",@116617 What devices are you using for Amazon Video? ^AN,product,other,,3,5
+683790,283194,683791,"@AmazonHelp Ok doke, thanks","Customer: @AmazonHelp Hi, he's i reboot and she works fine for an few hours. I'll Dona reset tonight, see if that works. Have read the help pages. Not much there on this specific problem. I have three dots, they have been working fine for yonks
+AmazonHelp: @283194 Got it! If the reset doesn't fix this issue, the next step would be to contact us via phone/chat here: https://t.co/JzP7hlA23B for real-time troubleshooting. ^TK
+Customer: @AmazonHelp Ok doke, thanks",@283194 Glad to help! Please reach out to us if you need assistance again. ^HS,product,acknowledgement,explicit_human_request,3,5
+622427,208981,633672,@AmazonHelp Ok sure,"Customer: I purchased kindle paperwhite in the Aug sale, I saw this offer now on amazon about the protection plan, it seems to come in bundle with the device, can i purchase this plan now ? @115850 @AmazonHelp @137341 https://t.co/247hDlU3mN
+AmazonHelp: @208981 I understand your concern regarding the recently bought Kindle, please contact us here: https://t.co/1827zgjucg so that we can assist you accordingly. ^SU
+Customer: @AmazonHelp Ok sure",@208981 Good. We remain at your disposal in case of need. ^SB,product,other,,3,5
+637062,271073,637063,@AmazonHelp yes,"Customer: @AmazonHelp Amazon Video option fromthe tv itself
+AmazonHelp: @271073 Thank you for confirming! Have you made sure your TV is connected to the internet? ^HC
+Customer: @AmazonHelp yes",@271073 Have you tried the troubleshooting steps listed here: https://t.co/HXO0R0pMH6? ^KP,product,self_service,,3,5
+563934,135166,563933,@AmazonHelp Yes,"Customer: Does anybody else have this problem with the @115821 Alexa app? @AmazonHelp https://t.co/apAoH7NUGP
+AmazonHelp: @135166 Thanks for reaching out. Let's uninstall and reinstall the app. Does the issue continue? ^GG
+Customer: @AmazonHelp Yes",@135166 Thanks for the update. Please contact us by phone or chat for live troubleshooting assistance: https://t.co/EKXRLsnxJu ^GG,product,self_service,,3,5
+1452396,457063,1452398,@AmazonHelp Yes. No joy.,"Customer: Hey @115821 or @AmazonHelp - What's up with the website? It won't open properly in either Firefox or Chrome - lots of text w/funky layout
+AmazonHelp: @457063 I don't see any issues on our end, but let's troubleshoot this! Have you tried to clear cache/cookies? Let us know! ^KN
+Customer: @AmazonHelp Yes. No joy.",@457063 Please reach out to us so we can investigate this further: https://t.co/hApLpMlfHN ^BG,product,investigation,,3,5
+2301639,160199,2301641,@AmazonHelp Ok thanks 👍🏻,"Customer: @AmazonHelp a bunch of hue lights appeared when I did a device discovery. I don't own any hue lights. How do I get rid of them? Thx https://t.co/vu40JRM6tR
+AmazonHelp: @160199 Please give us a call here: https://t.co/JzP7hlA23B so we can take a look at this with you! ^TR
+Customer: @AmazonHelp Ok thanks 👍🏻",@160199 Our pleasure! We're always here to help! ^KN,product,other,,3,5
+2298800,667273,2298801,@AmazonHelp Still doesn’t work,"Customer: @AmazonHelp I’m deployed and have internet and cell service
+AmazonHelp: @667273 Have you attempted to restart your device by pressing ad holding the power button for 40 seconds? ^AB
+Customer: @AmazonHelp Still doesn’t work","@667273 Sorry to hear about the issues downloading books whilst your deployed. It may be something to do with your current location, can you contact us here: https://t.co/hApLpMlfHN so we can take a look? ^MI",product,other,,3,5
+1540962,312123,1540964,@AmazonHelp yes that's correct,"Customer: @AmazonHelp my redeem code sent for Call of Duty: WW2 isn't working??
+AmazonHelp: @312123 I'm sorry for the inconvenience! What happends when you attempt to use it? Are you getting an error message? ^MO
+Customer: @AmazonHelp yes that's correct",@312123 What error message are you seeing? Redemption codes are often case-sensitive. ^MB,product,other,,3,5
+2265546,659464,2265545,@AmazonHelp Ok grazie,"Customer: @120540 perchè su #PrimeVideo se scarico per vedere off line la serie è solo in inglese e oltretutto in alcune i sottotitoli italiani non esistono?
+AmazonHelp: @659464 Prima di fare il download dell'episodio puoi impostare la lingua come indicato qui: https://t.co/QOSV9nnjJL. L'italiano non è disponibile per tutti i titoli. Stiamo lavorando per ampliare il più possibile le opzioni del servizio. ^GD
+Customer: @AmazonHelp Ok grazie","@659464 A te, rimaniamo a disposizione. ^BC",product,other,,3,5
+38827,124471,38829,@AmazonHelp Yes shipped yesterday,"Customer: Dear @115850 my prime expired today but echo which extends it by a year hasn’t arrived. Help?
+AmazonHelp: @124471 Could you please confirm if your echo device order is shipped yet? ^MP
+Customer: @AmazonHelp Yes shipped yesterday",@124471 Thanks for confirming. We'd like to look into it. Write to us here: https://t.co/beaaDm0muc and we'll contact you soon. ^MO,product,acknowledgement,,3,5
+288016,184641,288014,@AmazonHelp yes,"Customer: @AmazonHelp router is in bedroom echo is in living room 30ft away,and this is what my router says , Current Wireless Channel 6 (2.4 GHz), 36 (5 GHz)
+AmazonHelp: @184641 Do you have the choice between the 2.4 and 5 GHz band when you go through set up? ^NV
+Customer: @AmazonHelp yes",@184641 Which setting is on currently? ^MC,product,other,,3,5
+2441745,700239,2441744,@AmazonHelp Ok gracias,"Customer: @116928 si soy cliente premiun tengo gratis prime Video
+AmazonHelp: @700239 ¡Hola, Richard! Si eres cliente Prime, tu suscripción te da acceso a Prime Video, y a diversas series y películas. Si deseas más información acerca de los beneficios de Amazon Prime, puedes acceder al siguiente enlace: https://t.co/BVI3Tb3DTv ^ES
+Customer: @AmazonHelp Ok gracias",@700239 Con gusto richard. Saludos. ^JJ,product,other,,3,5
+324438,193284,324440,@AmazonHelp Still no luck. https://t.co/aGHOTTtI4I,"Customer: @118919 orders not going through since last night, on app as well as on desktop. Internal error message being displayed
+AmazonHelp: @193284 That seems to be strange. Kindly clear the cache memory of your device and try again. Do keep us posted. ^CB
+Customer: @AmazonHelp Still no luck. https://t.co/aGHOTTtI4I",@193284 Could you please try uninstalling and reinstalling the app? This usually works in fixing errors. ^ZH,product,other,,3,5
+1311338,426425,1311337,@AmazonHelp Oh. Ok thanks.,"Customer: @AmazonHelp Are you sure tho? It apparently already works for some. https://t.co/5IsXVDig4K
+AmazonHelp: @426425 Amazon music can be activated only after 72 hours of using your Echo. ^RI
+Customer: @AmazonHelp Oh. Ok thanks.",@426425 You are welcome. Do keep us posted if you have any further concerns. ^AS,product,acknowledgement,,3,5
+2840144,442785,2840142,@AmazonHelp Yes paper white.,"Customer: @AmazonHelp I am having issues setting up my paperback (trim size and picture quality issues majorly). I need help.
+AmazonHelp: @442785 Hi there! We'd like to help! Are you referencing the Kindle Paperwhite? If not, can you please share a link to the item with us? Please let us know. ^SM
+Customer: @AmazonHelp Yes paper white.","@442785 What sort of picture quality issues are you seeing, could you explain a bit more please? Are you noticing these issues with a single book, or multiple different titles? Please, let us know. ^JE",product,other,,3,5
+2824668,761895,2824667,@AmazonHelp This one. https://t.co/05yaBOjIhh,"Customer: @AmazonHelp I'm trying to order the LEGO Creator 10232 Palace Cinema. But every time I click it to add to my cart, it says it's no longer available from seller. But when I go back to the product page itself, it says it's still available.
+AmazonHelp: @761895 Hey Kyle. Are you referring to this product - https://t.co/TkXWQhLw8O ? If so, this is available via two sellers. If the problem still persists, try using another device or browser. Keep us posted. ^TP
+Customer: @AmazonHelp This one. https://t.co/05yaBOjIhh","@761895 Hi, I have checked and was able to place the item into my basket. Can you try using a different browser? ^CR",product,other,,3,5
+361337,201568,361338,@AmazonHelp Yes,"Customer: @AmazonHelp Says cannot connect at this time. Latest iOS
+AmazonHelp: @201568 Have you tried any troubleshooting steps like restarting the app or your device? ^KH
+Customer: @AmazonHelp Yes","@201568 We'd like to look into this with you! Please contact us here, and we'll collect some info about this: https://t.co/JzP7hlA23B ^WT",product,investigation,,3,5
+366934,202911,366936,@AmazonHelp Yes it’s enabled,"Customer: @115833 so I connected my new arlo skill! However echo says not supported on command when asked to view! Help please #SundayFunday
+AmazonHelp: @202911 Have you made sure the Alexa Skill is enabled? Follow this short list and see if it helps: https://t.co/TBPRWmmun7 ^MJ
+Customer: @AmazonHelp Yes it’s enabled",@202911 Hmm. Let's check this out in real time with you: https://t.co/hApLpMlfHN ^JZ,product,other,,3,5
+2728912,765129,2728913,@AmazonHelp Ok thanks &lt;3,"Customer: @AmazonHelp Ok thanks, they look great, are iPhones compatible devices??
+AmazonHelp: @765129 Of course! You can use your iPhone to set up the device using the Alexa App. ^MH
+Customer: @AmazonHelp Ok thanks &lt;3",@765129 You're welcome. Reach out again if you have questions in the future. ^JF,product,acknowledgement,explicit_human_request,3,5
+1193963,400545,1193964,@AmazonHelp Ok thank you,"Customer: @AmazonHelp Yes it does. I ordered 2. I clicked deregister on 1 hoping that’s what it was but still not working. It just keeps giving me an error on the kindle.
+AmazonHelp: @400545 I'm sorry you are still having trouble! Please reach out to us here: https://t.co/hApLpM3Ejd ^JP
+Customer: @AmazonHelp Ok thank you",@400545 You're welcome! Let us know if there is anything else we can help you with! ^HM,product,acknowledgement,failed_support,3,5
+427008,216562,427007,@AmazonHelp No,"Customer: @AmazonHelp I canceled prime 3 months ago &amp; you guys charge me every month still, I call you guys refund me and say sorry then do it again.
+AmazonHelp: @216562 I'm sorry for the unexpected charges! Do you use any of our Prime Services, such as Prime Video or Free Two-Day shipping? ^WJ
+Customer: @AmazonHelp No",@216562 Hi Tyson. Please reach out - https://t.co/hApLpMlfHN we'll be happy to look into your concern further. ^TP,product,investigation,,3,5
+1191691,400013,1191690,@AmazonHelp Yes,"Customer: @117634 updated the app to 6.0 #supposedly yet app still says 5.12.2 🤔 https://t.co/T3AbkhPvdc
+AmazonHelp: @400013 Sorry to see this. Have you tried restarting the device itself? ^PK
+Customer: @AmazonHelp Yes","@400013 Hey, get in touch - https://t.co/JzP7hlA23B a kindle specialist will look into your concern further. Please keep us posted. ^TP",product,investigation,,3,5
+1185016,398642,1185018,@AmazonHelp Yes I have,"Customer: @116618 I don't have Vpn , Yes I have checked and restarted my device https://t.co/E9BFKgmo6x
+AmazonHelp: @398642 I'm sorry for the trouble with the app. Have you uninstalled and reinstalled the app? ^RR
+Customer: @AmazonHelp Yes I have",@398642 We can take a look and troubleshoot this for you Jude. Just click the link and follow the prompts: https://t.co/JzP7hlA23B ^EM,product,self_service,,3,5
+2766371,773645,2766370,@AmazonHelp Yes,"Customer: @AmazonHelp my firestick was working just fine yesterday and now it's just a black screen not doing anything
+AmazonHelp: @773645 Oh no, sorry to hear. Have your tried a restart by disconnecting your Fire TV Stick from the HDMI port on your TV and the power cable for a full 30 seconds? ^ES
+Customer: @AmazonHelp Yes","@773645 Hi Chais, if you're still having problems with your fire stick you can get in touch with us via the following link for more troubleshooting methods: https://t.co/hApLpMlfHN ^ HS",product,self_service,,3,5
+2571868,729307,2571871,@AmazonHelp This weeks https://t.co/YbsuTmFvLk,"Customer: @amazonhelp here’s an invite to the deaf and annoyed party
+AmazonHelp: @729307 Oh no! We support do subtitles on Xbox 360: https://t.co/UbKye2DII0. To enable them, press then green ""A"" button while the video is playing. From the on-screen menu, scroll to ""CC"", then press the red ""B"" button to go back. Let us know how this helps! ^MB
+Customer: @AmazonHelp This weeks https://t.co/YbsuTmFvLk",@729307 We'd like to look into this for you. Please reach out to us via phone or chat here: https://t.co/Wv4mgUZc17 for real-time troubleshooting. ^BE,product,self_service,,3,5
+1048144,367727,1048145,@AmazonHelp Yes,"Customer: @AmazonHelp I just tried using the chrome it worked .. Only the Samsung browser is not working
+AmazonHelp: @367727 Which site are you accessing? https://t.co/nUUp5MLhYl or? Are you using the same device? ^NV
+Customer: @AmazonHelp Yes",@367727 Please reach out to us directly here: https://t.co/hApLpMlfHN and we'll look into it further. ^PK,product,investigation,,3,5
+2589174,733465,2589176,@AmazonHelp ok @115850,"Customer: @115850 Dont sell Faulty products and cheat customers right from day 1 its not working Amazon order: 406-4044061-2513121 this is the order
+AmazonHelp: @733465 Please don't provide your order details, we consider it personal info. Our Twitter page is visible to public. ^NR 2/2
+Customer: @AmazonHelp ok @115850","@733465 We'd really like to help you, Anil. Kindly share your details in the link provided earlier so that we can assist you. ^SM",product,other,,3,5
+547976,247497,547978,@AmazonHelp No difference https://t.co/xcQxVqHeT9,"Customer: Hi @115830 can you please fix your app... faceID doesn’t work https://t.co/hLeSCqBkN6
+AmazonHelp: @247497 Thank you for contacting us. I am sorry you are having trouble. We are here to help! Please confirm that your device is connected to a wireless network and restart your device. Let us know if this helps! ^SC
+Customer: @AmazonHelp No difference https://t.co/xcQxVqHeT9",@247497 Please try uninstalling and reinstalling the app to see if that clears out any cached data that may be behind this behavior. ^DO,product,other,,3,5
+1494809,467078,1494811,@AmazonHelp Opera gives the same result https://t.co/0oLGnex8mv,"Customer: @AmazonHelp This error shows clicking the Help Pages link it just shows another error. (https://t.co/4tzqci0Jtl) https://t.co/dF6xI78sFo
+AmazonHelp: @467078 Thanks for the picture. Can you try using a different browser ? Please keep us updated. ^CR
+Customer: @AmazonHelp Opera gives the same result https://t.co/0oLGnex8mv","@467078 Sorry, we've had no other reports of issues and can stream it here. Have you logged out and back in to test the episode? ^JJ",product,other,,3,4
+2906562,419933,2906560,@AmazonHelp Still not working. Any ideas?,"Customer: @AmazonHelp how come Hulu won’t install on my firestick? Just got it and says it’s unabailable? Same w other apps??? Help!!
+AmazonHelp: @419933 I'm sorry to hear about this! Have you tried resetting the Fire TV Stick? Also, have you updated your 1-Click payment method here: https://t.co/76qmvO2ncv? ^JS
+Customer: @AmazonHelp Still not working. Any ideas?",@419933 Do you have a strong Wi-fi connection? You can view troubleshooting steps here: https://t.co/OEYFNYhDsO. Are you receiving any additional error messages? ^KP,product,self_service,failed_support,3,4
+101678,138275,101679,"@AmazonHelp Thank you for your help. Have done exactly what you said and am no further on. Been told to order the items, then email cust services and they might issue refund. Offer ends 30th and i will get a reply in 24 hours. Very poor telephone cust service and I'm not placing an order","Customer: @AmazonHelp Hi tried what you said and it's still not working.
+AmazonHelp: @138275 Sorry for any inconvenience caused! With Twitter, we're unable to access your account information. Please, allow us to troubleshoot in real time via phone or chat here: https://t.co/JzP7hlA23B ^JE
+Customer: @AmazonHelp Thank you for your help. Have done exactly what you said and am no further on. Been told to order the items, then email cust services and they might issue refund. Offer ends 30th and i will get a reply in 24 hours. Very poor telephone cust service and I'm not placing an order","@138275 I'm so sorry about this frustrating experience! You were actually told you ""might"" get a refund after you placed the order? I wouldn't place the order either! Please provide your details &amp; we'll reach out to work on a resolution together: https://t.co/jtHSKEtc0y ^SP",product,investigation,explicit_human_request|failed_support,3,3
+1760398,529835,1760400,"@AmazonHelp /. It is, yes.","Customer: @AmazonHelp /. Kindle Fire. I think it's the 7th generation.
+AmazonHelp: @529835 If you go to settings &gt; Apps&amp;Games &gt; Application Settings &gt; Appstore &gt; Automatic Updates, is it currently enabled? ^AC
+Customer: @AmazonHelp /. It is, yes.",@529835 We'd like a chance to troubleshoot with you! Please reach out to us here: https://t.co/hApLpMlfHN ^WT,product,self_service,,3,4
+2907802,805129,2907801,@AmazonHelp says no page found 🤔,"Customer: @115830 how do i download the wwe app on an amazon fire tablet?!
+AmazonHelp: @805129 We'd like to help! I hope this is what you're looking for: https://t.co/ljaDRoT1T0 Please let us know if we can further assist! ^AB
+Customer: @AmazonHelp says no page found 🤔","@805129 Let's try this: https://t.co/kOpmVvh1Ht If it still is showing no page found, have you tried looking for the WWE app in the App store on your fire tablet? ^BA",product,other,,3,4
+248662,175073,248664,"@AmazonHelp Just reinstalled, same thing. https://t.co/DCNSgNkqY8","Customer: @115833 how come the Alexa app doesn’t recognise my mobile number when I try and register it for messaging? Is there a bug?
+AmazonHelp: @175073 Sorry for the trouble. Have you tried deleting the app &amp; reinstalling it? Will you pls send us a screen shot of the error? ^CO
+Customer: @AmazonHelp Just reinstalled, same thing. https://t.co/DCNSgNkqY8","@175073 Please contact us directly here: https://t.co/JzP7hlA23B, so we can take a closer look into this with you. ^CE",product,investigation,,3,4
+2703134,759263,2703133,@AmazonHelp Hi that’s it resolved. Thanks,"Customer: @AmazonHelp why don’t the two books I’ve bought via my iPhone for my kindle appear on my kindle while I’m in the USA ? What can I do?
+AmazonHelp: @759263 Is your Kindle logged into the same account as your iPhone? To successfully purchase a book on i-device you'd need to use the safari browser. Did you get a confirmation e-mail letting you know your purchase was successful? ^AF
+Customer: @AmazonHelp Hi that’s it resolved. Thanks",@759263 You're most welcome. Contact us anytime! ^SK,product,other,explicit_human_request,3,4
+765829,303026,765830,@AmazonHelp no option to do so,"Customer: @AmazonHelp can't seem to delete it from my Lg TV. Other apps work fine on it,, such as BBC IPLAYER etc
+AmazonHelp: @303026 Do you receive an error message when you try to uninstall it, or is there just no option to do so? ^TR
+Customer: @AmazonHelp no option to do so",@303026 I'm sorry for the continued troubles. Will you please check here to verify that your LG television is compatible and let us know: https://t.co/gOfm0qj88k ^SE,product,information,,3,4
+1772977,532870,1772978,@AmazonHelp Just tried but still not working,"Customer: @AmazonHelp Nope 😪 https://t.co/0KgLJ3BrMy
+AmazonHelp: @532870 Hmm... Can you try uninstalling the app and redownloading it? Let us know how that goes! ^BL
+Customer: @AmazonHelp Just tried but still not working",@532870 We'd like to look into this with you in real time. Please contact us via phone or chat here: https://t.co/hApLpMlfHN ^AJ,product,phone_chat,failed_support,3,4
+2236256,652176,2236257,@AmazonHelp back to square 1 again 😫 https://t.co/t8hTlemGBv,"AmazonHelp: @652176 Let's try a couple of troubleshooting steps. Are you able to download other apps of similar size? Keep us posted. ^Da
+Customer: @AmazonHelp I've managed to reinstall x thanks for hen help
+Customer: @AmazonHelp back to square 1 again 😫 https://t.co/t8hTlemGBv","@652176 I'm sorry this is happening again, Laura! We would like to look into this further with you. Please reach out to us here: https://t.co/JzP7hlA23B. ^AL",product,investigation,,3,4
+26909,121892,26910,@AmazonHelp I’ve managed to do it now,"Customer: @AmazonHelp It’s not letting me copy the link
+AmazonHelp: @121892 You should be able to tap/click on that link. If not, can you please use another device to see if it works? ^RL
+Customer: @AmazonHelp I’ve managed to do it now","@121892 Great, thanks for confirming Amy. ^TS",product,acknowledgement,,3,4
+1860009,556058,1860012,@AmazonHelp No just the filmstruck logo,"Customer: i'm gay i wanna cry and filmstruck isn't loading on my amazon fire stick
+AmazonHelp: @556058 Are you getting any error messages? Are you having any issues with anything else loading? ^KM
+Customer: @AmazonHelp No just the filmstruck logo",@556058 If you get in touch here we'll see what we can do: https://t.co/hApLpMlfHN. ^BM,product,other,,3,4
+2705705,759895,2705707,@AmazonHelp Already did that once today.,"Customer: .@116618 your update for the PS3 app need some work. Twice in a row I need to reboot the PS3 in order to get audio with my videos.
+AmazonHelp: @759895 I'm sorry for the audio troubles! We can do some troubleshooting with you here: https://t.co/hApLpMlfHN and look into this with you at any time. ^DW
+Customer: @AmazonHelp Already did that once today.",@759895 What troubleshooting did we do with you on the device? ^DD,product,self_service,,3,4
+135023,146423,135024,"@AmazonHelp got it sorted now, thanks","Customer: @AmazonHelp They said it's due to me using an emulator. Everytime I go to download the appstore on my tablet device though it takes me to the download page but won't start a download.
+AmazonHelp: @146423 What have they advised you to do next? ^BD
+Customer: @AmazonHelp got it sorted now, thanks",@146423 Glad to hear it! If you need anything else then please don't hesitate to let us know. ^KI,product,acknowledgement,,3,4
+62147,130233,62148,@AmazonHelp ok muchas gracias x su ayuda,"Customer: @AmazonHelp xq de mi banco ya liberaron el pago de echo ya salio y en la pagina de amazon me sale q estan preparando mi envio
+AmazonHelp: @130233 Entiendo. Lo ideal sería revisar si el pedido se canceló correctamente ya que no contamos acceso a tu cuenta por este medio. Por favor accede a este link: https://t.co/xB5m9TR1Ms Puedes contactar a Soporte al Cliente para que revisen: https://t.co/beR78zMMYB ^FQ
+Customer: @AmazonHelp ok muchas gracias x su ayuda",@130233 Con mucho gusto. ¡Buenas noches! ^AR,product,other,,3,4
+2230296,621534,2230294,@AmazonHelp Vi a série primeiro no Prime,"Customer: @AmazonHelp A tela agradável pra ler . A leveza e fluidez para ler , trocar de livro , comprar livros.
+AmazonHelp: @621534 É muito amor pelo Kindle né?❤️ você está lendo algum livro no momento? ^AZ
+Customer: @AmazonHelp Vi a série primeiro no Prime","@621534 Estamos muito curiosos 🙈, qual série assistiu ? ^MB",product,other,,3,4
+1511914,470926,1511917,@AmazonHelp This is from the app https://t.co/5PXJVEe6ET,"Customer: @115821 your website and app will not load, haven’t been able to access your website since yesterday afternoon.
+AmazonHelp: @470926 What type of device are you using? Clearing cache and cookies or trying another web browser typically resolves most issues. ^MB
+Customer: @AmazonHelp This is from the app https://t.co/5PXJVEe6ET","@470926 If after clearing the cache/cookies, it's still doing that, please contact us via phone/chat here: https://t.co/hApLpMlfHN ^AJ",product,phone_chat,,3,4
+707404,289117,707406,@AmazonHelp Cheers. Will give it a go,"Customer: Hey @115830 , my fire tv stick has stopped working today. Not connecting to internet anymore. Planned maintenance or likely gone kaput?
+AmazonHelp: @289117 Hmm.. that's odd. Try some of these troubleshooting steps that resolve a some Fire TV issues: https://t.co/zRNMGYtw0d ^MJ
+Customer: @AmazonHelp Cheers. Will give it a go",@289117 Let us know if you need any more help with this! ^KH,product,other,,3,4
+2113573,623190,2113575,"@AmazonHelp Ha, yeah, that page doesn't work.","Customer: @AmazonHelp The link on that page for ""Order History Reports"" takes you to the order page and it is not clear how to proceed from there.
+AmazonHelp: @623190 I'm sorry about that! This link should take you directly to your Order History Report: https://t.co/r2aGxW5K2K ^TK
+Customer: @AmazonHelp Ha, yeah, that page doesn't work.","@623190 Before clicking on the second link, did you make sure that you are signed in to your account first? ^TH",product,other,,3,4
+1721463,429414,1721465,@AmazonHelp Is that functionality planned?,"Customer: Hey @115833, why do my devices disconnect from Bluetooth speakers when asked to play music in a device group? Kinda defeats the feature
+AmazonHelp: @429414 I'm sorry! External speakers connected via Bluetooth do not currently work during Multi-Room Music playback. ^ST
+Customer: @AmazonHelp Is that functionality planned?",@429414 We do not currently have any information on that at this time. ^TR,product,information,,3,4
+2162374,634939,2162375,@AmazonHelp Yes - multiple times! :(,"Customer: @AmazonHelp Thanks but I am unable to even get to this screen. I connect to the wifi then it throws the error. Thanks https://t.co/j2H3YhrJ1d
+AmazonHelp: @634939 Sorry to see that, have you tried unplugging the device and Wi-Fi router to restart and trying the setup again? ^JJ
+Customer: @AmazonHelp Yes - multiple times! :(",@634939 Please give us a call here: https://t.co/JzP7hlA23B so we can look at this with you in real-time! ^TR,product,other,,3,4
+2349557,265831,2349559,@AmazonHelp Let's return it's no good,"Customer: @AmazonHelp ordered a fire tablet very slow dark screen lots of issues can I swap with something? Not happy
+AmazonHelp: @265831 Hello! I apologize that your device is not operating as expected. If you would like instructions to adjust the brightness of your screen, please go here: https://t.co/AzBVkhSoWz. If not, we can always start the return process. Please keep us updated! ^DY
+Customer: @AmazonHelp Let's return it's no good",@265831 Hey there! You can start your return here: https://t.co/NbggjE3jXS Keep us updated! ^GP,product,refund_replacement,,3,4
+2294289,244328,2294290,@AmazonHelp It was purchased from Amazon UK.,"Customer: @AmazonHelp Who said anything about India, here? Sorry, where are you going with this?
+AmazonHelp: @244328 Could you please confirm if the device was purchased from https://t.co/nUUp5MLhYl? ^NR
+Customer: @AmazonHelp It was purchased from Amazon UK.",@244328 Are you currently using the device within the UK? ^LB,product,other,,3,4
+616969,266387,616972,@AmazonHelp Yes both on same account. https://t.co/ujcEkEUEoR,"Customer: @115833 I can’t connect my Amazon Fire Tv box to my echo plus. Alexa app does not give me music books and video menu option just music and books. https://t.co/T0Vf0FZAzX
+AmazonHelp: @266387 Sorry for any inconvenience, we're here to help! Just for clarity, are both devices registered to the same Amazon Account? What options are available after selecting Music &amp; Books, are there any link options? Please, let us know. ^JE
+Customer: @AmazonHelp Yes both on same account. https://t.co/ujcEkEUEoR","@266387 Hi There, could you please get in touch with us via the following link and we can get an echo specialist to look at this for you: https://t.co/hApLpMlfHN",product,other,,3,4
+238101,172659,238102,@AmazonHelp Any updates? It's still the same,"Customer: @AmazonHelp I've turned on the subtitle option to English. It comes Subtitles are not available for this video. Every time.
+AmazonHelp: @172659 Apologies. We'd like to assist you. Please specify the name of the show/movie you're referring so that we can take an action. ^NK
+Customer: @AmazonHelp Any updates? It's still the same",@172659 I’d like to understand this better. Please fill this form: https://t.co/beaaDm0muc and I’ll contact you at the earliest ^RW,product,other,,3,4
+222850,169224,222849,@AmazonHelp No resolution received yet!,"Customer: @115821 @115850 Fake Seller Alert, see the video 2 knw how sellers are duping customers https://t.co/s2d9ucl1DZ
+AmazonHelp: @169224 We'd like to take a closer look at this. Please share your details here: https://t.co/GIJyeYqKE0. I'll get in touch with you ^HD
+Customer: @AmazonHelp No resolution received yet!",@169224 Could you please confirm if you've shared your details in the link shared earlier? ^HN,product,other,,3,4
+1489114,170991,1489112,@128308 @61421 Still waiting out ⌚,"Customer: @128308 @61421 Challenge Accepted. 😁 #CutTheCord #FireUpYourTV https://t.co/XbN6JfQjoq
+Customer: @170991 @61421 You’re just a step away from using the Fire TV Stick. Keep your fingers crossed till we announce the lucky winner. Stay tuned. #CutTheCord
+Customer: @128308 @61421 Still waiting out ⌚",@170991 Sorry for the delay. Please get in touch with our support team here: https://t.co/vlvfJr4nN9 they will assist further. ^GU,product,other,,3,4
+26895,121890,26894,@120474 Thank you! It now works,"Customer: @120474 What time? 15 mins to go. We didn’t want Alexandra Palace tix. But are likely to miss out on Lon tix if RAH is not ready in time! #mozarmy
+Customer: @121890 Hi - It's under the event description. Here's the link https://t.co/y9X18pbuHA Thanks!
+Customer: @120474 Thank you! It now works","@121890 Hi, thanks for the update. Enjoy the show! ^TS",product,acknowledgement,,3,4
+141946,148037,141947,"@AmazonHelp Hi, thanks. Nope still not working.","Customer: @AmazonHelp https://t.co/mRggxGBFvS
+AmazonHelp: @148037 Hmm, I see! Let's try resetting your echo. You can do that here: https://t.co/PpCGh9cQs0 Please keep us updated! ^GP
+Customer: @AmazonHelp Hi, thanks. Nope still not working.","@148037 We'd like to try some real-time troubleshooting over the phone. At your earliest convenience, please request a callback here: https://t.co/AQaDoISPyr ^NC",product,callback,failed_support,3,4

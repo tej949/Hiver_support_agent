@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+179152,158239,179150,@AmazonHelp Got this mail.. https://t.co/xaaDLpMEmt,"Customer: @115850 @AmazonHelp May I know why? And plzz solve my matter ASAP 😢 https://t.co/mfMvgMTw6F
+AmazonHelp: @158239 If an account is put on hold, a correspondence is sent to the registered email id. Please check the same for more info. ^ZH
+Customer: @AmazonHelp Got this mail.. https://t.co/xaaDLpMEmt","@158239 Seems like an account verification issue, please reply to the email and this will be sorted out. ^MS",account,other,,3,5
+197589,162488,197590,@AmazonHelp No email linked,"Customer: @AmazonHelp But i cannot login in my account it says that my account is blocked/locked
+AmazonHelp: @162488 to your registered email account for further assistance. Appreciate your understanding. 2/2 ^MJ
+Customer: @AmazonHelp No email linked",@162488 You may check the email correspondence sent to you here:https://t.co/DTSNmGldJf. Please check and revert. ^NK,account,information,,3,5
+2762741,772883,2762742,@AmazonHelp no I wasn't,"Customer: @AmazonHelp yes I have , although the account was opened with my mobile phone number
+AmazonHelp: @772883 Thanks for the information you've provided us! Were you asked to verify your information or fax us details to our Account Specialists? If so, have you done so? ^FR
+Customer: @AmazonHelp no I wasn't","@772883 In that case, we need you to reach out to us for real time communication by phone. This link: https://t.co/jzvkhdlrK5 will not require you to sign in to your account, once you have selected any issue the page will provide a phone number you can use to contact us ^CH",account,information,explicit_human_request,3,5
+4850,116849,4846,"@AmazonHelp already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore https://t.co/m2g5tP26fX","Customer: @AmazonHelp no luck it keeps asking for code witch is not sending to my phone can Amazon eliminate the 2 step method, this is so frustrating
+AmazonHelp: @116849 I'm so sorry for the frustration, Luis. We should absolutely be able to help! Please contact us using the link TN provided. ^SD
+Customer: @AmazonHelp already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore https://t.co/m2g5tP26fX","@116849 I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: https://t.co/jzvkhdlrK5 ^WT",account,phone_chat,explicit_human_request|failed_support|account_action,3,3
+4849,116849,4851,"@AmazonHelp how is Amazon going to solve this? By mail, text, call, customer phone service, no one is able to help me https://t.co/jhzCjY2bOw","Customer: @AmazonHelp already tried help by mail and still problem persist, please close my account and don't want to be a customer anymore https://t.co/m2g5tP26fX
+AmazonHelp: @116849 I'm sorry. We can't access your account via Twitter. For assistance, please reach us here: https://t.co/jzvkhdlrK5 ^WT
+Customer: @AmazonHelp how is Amazon going to solve this? By mail, text, call, customer phone service, no one is able to help me https://t.co/jhzCjY2bOw",@116849 We want our team to investigate this further with you. Please reach out to us using the secure link: https://t.co/m1LX91jiEQ,account,investigation,explicit_human_request|failed_support|account_action,3,3
+2012016,435167,2012018,@AmazonHelp No I haven't,"Customer: @115821 I can't log in to my affiliate account. I get a error message, since 12 hours ago.
+AmazonHelp: @435167 I'm sorry for any inconvenience! Have you received any communication from our Amazon Associates team? ^DA
+Customer: @AmazonHelp No I haven't","@435167 We'd like to get to the bottom of this, please get in touch with us here: https://t.co/mGJsWEkNEU ^DG",account,other,,3,5
+197609,162488,197610,@AmazonHelp No email linked,"Customer: @AmazonHelp Check this out now also it is showing the same with proof https://t.co/AqFkOHNxE2
+AmazonHelp: @162488 An email will be sent to your account from our account specialist team. Please reply (1/2)^HR
+Customer: @AmazonHelp No email linked",@162488 Kindly check your spam or junk folder once. ^PS,account,other,,3,5
+197615,162488,197616,@AmazonHelp Yes,"Customer: @AmazonHelp How to check that???? While i an not a spammer i think my account was spammed
+AmazonHelp: @162488 need to skip the sign in process for a successful form submission. Appreciate your understanding. 2/2 ^MJ
+Customer: @AmazonHelp Yes",@162488 Thank you for understanding. ^HR,account,acknowledgement,,3,5
+2841850,740915,2841851,"@AmazonHelp what the hell... i already said, i am not able to login.. link you shared require login.. I displayed my info bcoz of no other way. amazon is not responding in mail or phone.. everyone everytime says sorry and asked to wait for another 24-48 hours.(its been 4month)","Customer: @AmazonHelp __email__ 7984718690 - account on hold from 4 months... connected to customer care 10 times, mailed to cis@amazon, called but no response at all. Worst side of amazon care. everyone ask to wait but no action
+AmazonHelp: @740915 I apologize for the inconvenience. Account hold is followed by an email mentioning the reason. In case, you haven't received any such email; please share your details here: https://t.co/GIJyeYqKE0. We'll check and reach out to you with an update. ^VN (1/2)
+Customer: @AmazonHelp what the hell... i already said, i am not able to login.. link you shared require login.. I displayed my info bcoz of no other way. amazon is not responding in mail or phone.. everyone everytime says sorry and asked to wait for another 24-48 hours.(its been 4month)","@740915 As the issue is related to your account closure, the account specialist team is the best which can help you out. Suggest you to reply to the email sent by our account specialist team. ^SG",account,other,explicit_human_request|missing_delivery|high_frustration,3,3
+2462185,704887,2462183,@AmazonHelp got it shukriya,"Customer: @AmazonHelp I have already dropped it in Amazon account __email__ And inbox u my number so u can contact me Jay hind
+AmazonHelp: @704887 We've sent a correspondence to your registered email address, request you to check the same. 1/2 ^SH
+Customer: @AmazonHelp got it shukriya",@704887 It is always our pleasure! Do keep us posted for any further concern. ^AM,account,other,,3,5
+2536343,721542,2536344,@AmazonHelp Yes I did,"Customer: @AmazonHelp More than 3months
+AmazonHelp: @721542 Hi Razak- Which site is your account with? https://t.co/nUUp5MLhYl https://t.co/ykTUEmdsQA or? What happens when you request a password reset? ^NV
+Customer: @AmazonHelp Yes I did","@721542 Hi, is your account with Amazon US / UK or another location? Did you receive an error message when you tried to change your password? ^ES",account,other,,3,5
+2599090,735817,2599091,@AmazonHelp I don't care about the account at this point. I've given up on Amazon. I just want the charge cancelled and the account destroyed so that this doesn't keep happening every month.,"Customer: @AmazonHelp I received the notification about my order being cancelled (major disappointment), and some confusing email about faxing in my bank statement(?) to unfreeze my account. Not sure about any ""specialist"", all I know is the people on the phone when i called were completely useless.
+AmazonHelp: @735817 I'm sorry about the poor experience, it is understandably frustrating to be locked out of your account. Following the steps provided in the email from our Account Specialists, you'll be able to have your account unlocked and reset your password. ^RM
+Customer: @AmazonHelp I don't care about the account at this point. I've given up on Amazon. I just want the charge cancelled and the account destroyed so that this doesn't keep happening every month.","@735817 In order to take action on the account it would first need to be verified by sending in the required information. The email that you received has the instructions to verify the account, you can find more info here: https://t.co/YVImQH6bdB. ^JJ",account,information,explicit_human_request|account_action|high_frustration,3,3
+2971951,819705,2971948,@AmazonHelp Yes i am.,"Customer: @AmazonHelp How do I sign out everywhere?
+AmazonHelp: @819705 We're here to help! Are you needing to sign out of your account on certain devices? ^AC
+Customer: @AmazonHelp Yes i am.",@819705 You can find details on how to sign out of various devices here: https://t.co/mafT2iKsOG ^CL,account,information,,3,5
+2230282,327457,2230283,"@AmazonHelp it is, yes.","Customer: @AmazonHelp I have a notification on the website asking to send me a code, but I can no longer access that email account. Is there another way of access to allow me to update my email address?
+AmazonHelp: @327457 Is this the email address that's linked to your Amazon account? -CN
+Customer: @AmazonHelp it is, yes.","@327457 Try using this link to reach us: https://t.co/Fr8zT6GSfv for the best assistance with this issue. Keep us posted, we want to make sure this has been looked into for you! ^FR",account,phone_chat,,3,5
+1843558,552378,1843560,@AmazonHelp No,"Customer: @AmazonHelp Yes, but they aren't answering my questions.
+AmazonHelp: @552378 What were your questions? Did the email advise you need to fax then additional info to have the account unlocked?^MA
+Customer: @AmazonHelp No","@552378 Without sharing any specific account info, can you give us a bit more info as to what they have advised in their email?^MA",account,other,,3,5
+127405,144608,127406,@AmazonHelp It works now!,"Customer: @AmazonHelp It's definitely the app that's the issue because clicking on the link you gave me opens it up in the Twitter in-app browser on mobile and that allows me to successfully login. It's specifically the app that won't let me login.
+AmazonHelp: @144608 Thank you for the extra information. Reach out to us via the link EA provided, so that we can further troubleshoot. Please keep us posted on the outcome of your conversation, we want to ensure we've addressed your concerns. ^NN
+Customer: @AmazonHelp It works now!","@144608 We're very glad to hear that, Steffi! If you need anything else, please let u sknow. We got your back. 😊 ^JD",account,acknowledgement,,3,5
+2113688,146700,2113687,@AmazonHelp No email received,"Customer: 12 days, no help from @115821 @AmazonHelp @115850, still not able to login, hv 1750 rs in #AmazonPay https://t.co/RsYkptbUhx
+AmazonHelp: @146700 I'm sorry about the stretch. Kindly respond to the correspondence sent by our account specialist team for assistance. ^GD
+Customer: @AmazonHelp No email received",@146700 You can check the email sent by our account specialist team here:https://t.co/8DAc10S7ww and reply. ^MN,account,information,,3,5
+2299113,667340,2299115,@AmazonHelp okay thank ya,"Customer: how do you cancel amazon orders?
+AmazonHelp: @667340 You can cancel items or orders by visiting the Order section in Your Account. You can read more here: https://t.co/ZuVrmqqLxF. Please let us know if you have further questions or concerns. ^TG
+Customer: @AmazonHelp okay thank ya",@667340 You're welcome. Glad we could help. Reach out again in the future if you have more questions. ^JF,account,acknowledgement,,3,5
+2758194,771849,2758192,@AmazonHelp Trying again,"Customer: Seriously Amazon? I can't access the email to verify my audible account, then when I click contact customer service, it asks me to sign in again and starts the loop over? Come on...
+AmazonHelp: @771849 Sorry you are having trouble with logging into your account. Please contact us at 1 (888) 280-4331 and a representative will be able to assist you directly to gain access to your account. ^BT
+Customer: @AmazonHelp Trying again",@771849 Keep us posted! We want to know we were able to resolve this for you! ^EA,account,other,,3,5
+277237,182227,277236,@AmazonHelp No I haven't,"Customer: @AmazonHelp That it is being referred to a ""specialist team"" who will be in touch ""within 24 hours"". It's now been six days...
+AmazonHelp: @182227 Hi Matan, did you receive an email from the Account specialist at all? Please check your spam folder too. ^AT
+Customer: @AmazonHelp No I haven't","@182227 When you've spoken with us, have we offered to pass your details along to an Account Specialist for you? ^LB",account,other,,3,5
+297948,186335,297950,@AmazonHelp Still no reply...?,"Customer: Super disappointed with @AmazonHelp
+AmazonHelp: @186335 So sorry we've let you down, Crystal! Without including account info, can you tell us what's going on? We're here to help! ^AD
+Customer: @AmazonHelp Still no reply...?","@186335 Sorry to hear that, contact us here: https://t.co/jQfNsGQINu help ^AS",account,other,,3,5
+359235,201075,359236,@AmazonHelp Ok,"Customer: @AmazonHelp 8723954675 is my amazon linked number
+AmazonHelp: @201075 Please don’t provide your account details as we consider them to be personal info. Our Twitter page is visible to public. ^JC
+Customer: @AmazonHelp Ok",@201075 Appreciate your understanding. ^YP,account,other,,3,5
+121081,142949,121083,@AmazonHelp it was from https://t.co/KH7UeGdypC.,"Customer: @AmazonHelp I just received a mail from a review I never did. Its not even my name. My account may have been compromised
+AmazonHelp: @142949 Hello Alexandre. From which of our markets did you receive the email? Amazon Brasil or https://t.co/nUUp5MLhYl? ^JJ
+Customer: @AmazonHelp it was from https://t.co/KH7UeGdypC.","@142949 We'd like to investigate this further with you here: https://t.co/NjKCgSpX9Q. If the review was posted from your account, it can be removed through these steps: https://t.co/qZsqyG37PU ^MB",account,investigation,,3,5
+24537,121290,24539,@AmazonHelp Yes,"Customer: @AmazonHelp It's says to sign up for prime and then takes me to website where I see manage prime Membership page once I login
+AmazonHelp: @121290 Are you using the same login credentials of the Amazon Prime account ? ^CB
+Customer: @AmazonHelp Yes",@121290 Kindly contact our team here: https://t.co/vlvfJr4nN9 and we'll have this checked. ^GK,account,other,,3,5
+2124720,625766,2124718,@AmazonHelp It is under https://t.co/AnhK6dY89n,"Customer: I am trying to understand why $10 has been deducted from my bank account @115821
+AmazonHelp: @625766 Uh oh! We're here to help! To confirm, is your account under https://t.co/nUUp5MLhYl or https://t.co/ykTUEmdsQA? ^MB
+Customer: @AmazonHelp It is under https://t.co/AnhK6dY89n","@625766 If you don't know a charge, there are several reasons this may have occurred. Have you recently signed up for a Prime trial? ^TG",account,other,,3,5
+2900972,803584,2900974,@AmazonHelp Yes I am https://t.co/9KVoFNyCwH,"Customer: @118797 I can't get my twitch prime enabled through @115821 prime please help
+AmazonHelp: @803584 I'm sorry to hear this! Are you receiving an error message when you try to link your account? ^TR
+Customer: @AmazonHelp Yes I am https://t.co/9KVoFNyCwH","@803584 We're happy to help, but we can't view your account details on Twitter. Are you an invitee to someone else's Prime subscription? Also, what device are you using to link your account? ^JS",account,acknowledgement,,3,5
+382327,206646,382326,@AmazonHelp yes,"Customer: @AmazonHelp responde the email regarding my account?? I dont understand
+AmazonHelp: @206646 Sorry for the confusion. Are you able to reply to the email from the account specialist that was sent to you ? ^CR
+Customer: @AmazonHelp yes","@206646 If you can respond to the account specialist, they will get back to you as soon as possible. ^PK",account,information,,3,5
+2890572,799933,2890573,@AmazonHelp No,"Customer: @AmazonHelp @115850 @119356 @132994 @115850 @AmazonHelp @119356. I want a reply from your side today itself!
+AmazonHelp: @799933 As communicated earlier we've received your details. Could you please let us know if you've received an email correspondence on your registered email account? ^RB
+Customer: @AmazonHelp No","@799933 We have sent you a correspondence here: https://t.co/8DAc10S7ww, please check and do the needful. ^AH",account,information,,3,5
+2305855,668973,2305854,@AmazonHelp It doesn’t!,"Customer: Thank you @115821 for charging my account $99! When all I wanted was an amazon monthly subscription! #amazonfail ##ihateyouamazon
+AmazonHelp: @668973 I'm sorry for the mishap, Olga! Let's take a look at options regarding your membership here: https://t.co/xqlWcyXf15 I hope this helps! ^FD
+Customer: @AmazonHelp It doesn’t!",@668973 We would like to assist you with this in real time by phone or chat. Use the following link for either option: https://t.co/hApLpMlfHN ^CH,account,phone_chat,,3,5
+2346290,678411,2346292,@AmazonHelp Still waiting...,"Customer: @AmazonHelp I have to wait for an email to reset my account.
+AmazonHelp: @678411 An Account Specialist will be in touch shortly. Thank you for your patience. ^CN
+Customer: @AmazonHelp Still waiting...",@678411 I'm so sorry for the wait! Have you also checked your spam or junk folder for the email from the Account Specialist? Let us know! ^JY,account,other,,3,5
+285087,183921,285089,@AmazonHelp No i dont,"Customer: @AmazonHelp hi, my account has been blocked a long time ago and he still is, can you help pls
+AmazonHelp: @183921 Hello, did you receive any email about this asking you to send us some documents ?
+Customer: @AmazonHelp No i dont",@183921 Your account has been created on Amazon.fr?^FT,account,other,,3,5
+379887,206121,379889,@AmazonHelp No not yet,"Customer: @AmazonHelp Co.uk site
+AmazonHelp: @206121 Have you received any email in relation to your account from the account specialists? Please check spam/junk folders also. ^JJ
+Customer: @AmazonHelp No not yet","@206121 Hi Grace, please contact us here for support: https://t.co/zYVX1Qi29G ^AT",account,other,,3,5
+407486,210982,407488,@AmazonHelp Yes,"Customer: @115821 soooo Amazon why can’t I log into my seller account?? Not happy
+AmazonHelp: @210982 Oh no! We're here to help. Have your received an email about the status of your account? Keep us posted! ^VB
+Customer: @AmazonHelp Yes",@210982 What information was our Seller Support team able to provide? ^DO,account,information,,3,5
+1735166,523964,1735167,@AmazonHelp Yes I have,"Customer: @AmazonHelp Also, I’ve made orders on my Amazon account and it said there would be a confirmation email sent too me. I’ve never got it either.
+AmazonHelp: @523964 Thanks for letting us know Cameron- Have you been able to get in touch via the link ^KH has provided? ^NV
+Customer: @AmazonHelp Yes I have","@523964 What information did we provide with regards to your account, and are you now able to access it ? ^TD",account,information,,3,5
+1569566,484122,1569567,@AmazonHelp Ok thanks,"Customer: @AmazonHelp It said for your security your password needs to be changed then it gave two options of mobile and email for sending code.
+AmazonHelp: @484122 Sometimes we ask our customer to reset their account passwords for security reasons. It is only to keep your account safe. ^RI
+Customer: @AmazonHelp Ok thanks","@484122 You're welcome, Nitesh. Do keep us posted for any further assistance. ^MP",account,acknowledgement,,3,5
+1569615,353907,1569616,@AmazonHelp Yup no where,"Customer: @AmazonHelp Just informing amazon never notified me for iPhone X pre orders when they were up I had registered way before pre orders started
+AmazonHelp: @353907 That's odd! Could you please confirm checking the Inbox/spam/junk folders on the registered email address? ^AP
+Customer: @AmazonHelp Yup no where",@353907 We'd like to look into it. Kindly share your details here: https://t.co/beaaDm0muc we'll reach out to you soon. ^AP,account,investigation,explicit_human_request,3,5
+503392,235301,503389,@AmazonHelp Here https://t.co/SLQh5mXvaS,"Customer: @AmazonHelp https://t.co/HVtKiHh8jM Cheated me !
+AmazonHelp: @235301 I'm sorry you had a poor experience! Without personal or account information, can you tell us what's going on? ^AH
+Customer: @AmazonHelp Here https://t.co/SLQh5mXvaS",@235301 Oh no! I am sorry for the inconvenience this has caused you. Please allow us to assist you further. Contact us via phone or email here: https://t.co/JzP7hlA23B ^LM,account,phone_chat,,3,5
+508157,236670,508159,@AmazonHelp Yes,"Customer: Hey @115821 I didn't write this review or ever order this product?? https://t.co/MA2PqVrA2m
+AmazonHelp: @236670 Hey! Are you able to see these reviews when you check your account here? https://t.co/SlllKVdsxK ^TK
+Customer: @AmazonHelp Yes","@236670 If you haven't already, please reset your password: https://t.co/q0e4Ek7JPE, and reach out to us here: https://t.co/Ebithik6oU ^TN",account,other,,3,5
+519711,239939,519712,@AmazonHelp This problm accur https://t.co/cojiZru3cn,"Customer: @AmazonHelp Extremely sorry sir .. i disturb you on you working time ,but still I haven’t received any mail or form in gmail or any spam or junk file so kindle plz help me .my gmail is __email__ https://t.co/kmKBK0Jamh
+AmazonHelp: @239939 I understand your concern that you unable to find the email from our account specialist team. Kindly skip sign in and share your details here: - https://t.co/beaaDlIL5C. We'll get in touch with you. ^SC
+Customer: @AmazonHelp This problm accur https://t.co/cojiZru3cn",@239939 I checked the image and I see that a text message has been sent with the instructions on unlocking your account. Kindly proceed with the instructions provided. ^GK,account,self_service,,3,5
+1464172,459850,1464173,@AmazonHelp Yes,"Customer: @AmazonHelp 11 Nov 2017
+AmazonHelp: @459850 Thank you for the information. Also, could you please confirm if you've registered the device with your Amazon account? ^AP
+Customer: @AmazonHelp Yes",@459850 We'd like to look into it. Please reach out to our team here: https://t.co/2t6DQoUmNZ we'll help you out. ^AP,account,investigation,,3,5
+1448022,456024,1448024,@AmazonHelp Yes,"Customer: @AmazonHelp how to transfer money from one account to other account will u please say me. 😞😞
+AmazonHelp: @456024 Are you looking to transfer funds via the amazon pay balance, Hidayath? ^KS
+Customer: @AmazonHelp Yes","@456024 Currently it isn't possible to transfer funds form your Amazon Pay balance to a different account, Hidayath. ^KS",account,other,,3,5
+1387179,442772,1387178,@AmazonHelp Yes I have,"Customer: @AmazonHelp Called cust care through your sent link, Says it's unable to find the order. now, it's not my fault
+AmazonHelp: @442772 Could you please let us know whether you've tried calling us through the account in which the order is placed? ^PJ
+Customer: @AmazonHelp Yes I have","@442772 Well in that case, could you share the details here :https://t.co/beaaDm0muc so that I can take a closer look?",account,investigation,,3,5
+619074,266909,619073,"@AmazonHelp I'm back in my account, no email. But waiting on processing this new gift card attempt. Frustrating that 2 layer security isn't enough for you guys. And to have my account locked multiple times is kinda crazy for a Prime User, Alexa Owner, Washington Post Subscriber.","Customer: @AmazonHelp So now I'm locked out of my account, no access to Prime, no access to Amazon Music. No access to my kindle books. Customer service unhelpful on phone says I should open a second account.
+AmazonHelp: @266909 Hello, David. Thank you for contacting us today. We are here to help! Have you received an e-mail from our Account Specialist team? Please be sure to check junk and spam folders and let us know. ^SC
+Customer: @AmazonHelp I'm back in my account, no email. But waiting on processing this new gift card attempt. Frustrating that 2 layer security isn't enough for you guys. And to have my account locked multiple times is kinda crazy for a Prime User, Alexa Owner, Washington Post Subscriber.","@266909 Thanks for the update, David! Please keep us in the loop as to if this continues to happen as security is our utmost priority when dealing with customers information. ^TM",account,acknowledgement,explicit_human_request|account_action|high_frustration,3,3
+1311527,426475,1311529,@AmazonHelp Still awaiting revert!!,"Customer: @AmazonHelp I have dropped in details at least twice on this link and you have not helped.
+AmazonHelp: @426475 once again from your registered Amazon account with the help of the link provided earlier and we'll get back to you. (2/2) ^SY
+Customer: @AmazonHelp Still awaiting revert!!","@426475 As you have filled the details, you will receive an email correspondence here: https://t.co/UzOeTZyrYU ^RW",account,information,,3,5
+1293000,422132,1293002,@AmazonHelp okay thank you,"Customer: @AmazonHelp If you need anymore info please let me know
+AmazonHelp: @422132 (2/2) Please visit us here: https://t.co/jzvkhdlrK5. Select the issue, and we'll provide a number to our Account Specialists! ^WT
+Customer: @AmazonHelp okay thank you",@422132 You're welcome! Let us know if there is anything else we can help with! ^HM,account,acknowledgement,,3,5
+685666,283677,685667,@AmazonHelp No https://t.co/te9Npmomr8,"Customer: @AmazonHelp SEVERAL times! Was https://t.co/UsfJSoUIxw
+AmazonHelp: @283677 Since we don't have access to accounts on Twitter, I can't check from here. However, it sounds like it could a digital subscription. Do you see any active subscriptions listed here? https://t.co/KloPBEkTqH (use the ""magazines"" drop down to check newspapers too) ^MJ
+Customer: @AmazonHelp No https://t.co/te9Npmomr8",@283677 Thank you for the information! Can you tell us what you have been advised so far when speaking with us? ^AL,account,information,,3,5
+1249967,413274,1249968,@AmazonHelp Yes,"Customer: @AmazonHelp Ya ive tryed to sign in says its wrong password or email yet my passwords not wrong or my email also not givin option to change email
+AmazonHelp: @413274 Have you used the ""Forgot Password"" button on the sign in page? That will give you the option to create a new password. ^TH
+Customer: @AmazonHelp Yes",@413274 Please reach out to our support team using this link: https://t.co/zYVX1Qi29G ^WM,account,other,,3,5
+704325,288305,704326,@AmazonHelp no,"Customer: @AmazonHelp i dont waont to do so.i just want my product. its ur resposiblitly
+AmazonHelp: @288305 I get you being upset with the delay. We can't gain access to your account details via Twitter. Could you confirm sharing your details as requested here: https://t.co/YkacI3RZXx ? ^AR
+Customer: @AmazonHelp no","@288305 In that case, I'd request you to fill in your details using the link provided earlier so that we can resolve your issue as soon as possible. ^MN",account,other,,3,5
+1238964,362765,1238966,@AmazonHelp Yes ! 😩,"Customer: @117634 hello i just bought a kindle paperwhite and i can’t login with mi amazon account an ‘internal error’ message pops up 😩#help
+AmazonHelp: @362765 Hi! I'm so sorry for this inconvenience! is it an Amazon.fr account ? ^RA
+Customer: @AmazonHelp Yes ! 😩",@362765 Can you please contact our CS using this link: https://t.co/MBTDQi7u2J ?^FT,account,other,,3,5
+734094,183033,734096,@AmazonHelp Here it is https://t.co/ab5rchgdaP,"Customer: @AmazonHelp I didn't receive any correspondence. Please email it to me.
+AmazonHelp: @183033 We've sent you a communication. Please use the same account to log in and check for the same. ^RW
+Customer: @AmazonHelp Here it is https://t.co/ab5rchgdaP","@183033 Kindly reply to the correspondence, we'll reach out to you. Also, please don't provide your order details, as we consider it to be personal information. Our Twitter page is visible to the public. ^AP",account,privacy_restriction,,3,5
+1188978,399578,1188977,@AmazonHelp ok lets see,"Customer: @115850 kindly solve my problem regarding order 2798736 asap ,, as i do not want to discuss here to spoil amazon’s reputation ...
+AmazonHelp: @399578 Twitter is a social media platform we'll not be able to access any of your account/order details. Kindly connect with 1/2 ^SH
+Customer: @AmazonHelp ok lets see",@399578 Do keep us posted. ^HK,account,other,,3,5
+1125318,385333,1125320,@AmazonHelp Yes it is,"Customer: @AmazonHelp please help look into our account. We’ve logged over 3 cases with responses that the cases had been forwarded to another...
+AmazonHelp: @385333 Hi, is this in relation to a seller account? ^AS
+Customer: @AmazonHelp Yes it is",@385333 I'm afraid we don't have access to account details here. Pls reach out to seller support again https://t.co/bFCcZ6LVG0 ^KM,account,privacy_restriction,,3,5
+794441,309422,794440,@AmazonHelp yes .co.uk,"Customer: @AmazonHelp Hi there, I've already reset my password and tried to sign in but it still says itis incorrect. Email is __email__
+AmazonHelp: @309422 I'm sorry you're having issues signing in. What site do you order from? .co.uk, .com or another? ^EM
+Customer: @AmazonHelp yes .co.uk",@309422 Thanks for the additional info! Let's take a closer look with you in real time here: https://t.co/nGhbef6SLO ^JZ,account,acknowledgement,,3,5
+1068423,372139,1068421,@AmazonHelp Yes,"Customer: @115821 your apps are ticking me off. They won’t let me sign in.
+AmazonHelp: @372139 Oh no! Are you receiving an error code, when trying to login? ^AG
+Customer: @AmazonHelp Yes",@372139 What is the error you're receiving? ^AM,account,other,,3,5
+1071154,372772,1071158,@AmazonHelp here is proof https://t.co/nZ52nUhjXh,"Customer: @AmazonHelp They want me to contact them within 24 hours i cant do that because i dont live in germany i dont know why my account is connected amazon.de
+AmazonHelp: @372772 I'm sorry you can't access your account. How are you being told to contact our German site? Can you provide more detail? ^AM
+Customer: @AmazonHelp here is proof https://t.co/nZ52nUhjXh","@372772 Hi, please send us the statement we're asking for via fax or post. My colleagues will then take a look at your account. ^TA",account,other,,3,5
+2575152,598129,2575155,@AmazonHelp No field for email address,"Customer: @AmazonHelp Would you like to me continue on with the problems with this order. Because it’ll take at least 100 tweets.
+AmazonHelp: @598129 I'm so sorry for the inconvenience, Don. I'd like a member of my team to look into this with you. When you have a moment, please give us your information here: https://t.co/KGpfR1o7mL. We'll be in touch shortly after that. ^BL
+Customer: @AmazonHelp No field for email address","@598129 Please leave your e-mail address in the field labeled ""What else would you like us to know before we contact you? (Preferred contact method, time of day, additional details)"" ^BE",account,other,,3,4
+269802,180352,269804,@AmazonHelp And what is that email?,"Customer: @AmazonHelp Still expecting a reply or mail.. already been more than a week now 🙄 Are u guys gonna help me or no?
+AmazonHelp: @180352 Account closure are followed by an email. Kindly revert to the email and our team will work on it. ^SQ
+Customer: @AmazonHelp And what is that email?","@180352 You must have received an email, mentioning the reason for your account closer. Request you to revert to the same. ^SQ",account,other,,3,4
+2302067,668072,2302068,@AmazonHelp How? No way to talk anyone as they have me locked out from even chatting,"Customer: @AmazonHelp Yes. 3 days ago. Which I did both things they asked for. My bank also said they would conference call and they answer the phone 24/7
+AmazonHelp: @668072 Thanks for the additional info, Nick! Please continue to stay in touch with one of our Account Specialists to resolve this. ^ML
+Customer: @AmazonHelp How? No way to talk anyone as they have me locked out from even chatting","@668072 Typically, an Account Specialist will reply by e-mail within 48 hours. Pls keep an eye out on your e-mail &amp; keep us posted. ^BA",account,other,explicit_human_request|account_action,3,3
+2663778,750624,2663779,@AmazonHelp Where is that at,"Customer: @AmazonHelp This doesn’t help at all since I can’t see the order
+AmazonHelp: @750624 Hi, do you see any orders listed in 'Canceled Orders' tab in Your Account: https://t.co/BQmcNXViiI ^TS
+Customer: @AmazonHelp Where is that at","@750624 If you sign in to your account, select Your Orders in the drop down, open your orders page, one option is canceled orders. ^NV",account,other,,3,4
+2880437,799333,2880438,@AmazonHelp It worked on the browser ☺️,"Customer: @AmazonHelp Hello there. I’ve shut down the app and restarted my phone and it’s doing the same however this time, when I sign in, it says ‘oops, something went wrong. Please try again later’ 😯
+AmazonHelp: @799333 Strange - can you please check to see if you can log in on the Browser ? https://t.co/z3VFUenBzG ^TD
+Customer: @AmazonHelp It worked on the browser ☺️",@799333 If its working on the browser than it might be worth uninstalling and reinstalling the app. Let us know if this sorts the problem.^BZ,account,other,explicit_human_request,3,4

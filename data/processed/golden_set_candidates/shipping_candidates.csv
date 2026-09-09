@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+528314,242137,528315,@AmazonHelp No,"Customer: Ordered a case and screen protector for my new phone on Wednesday and now it won’t be here until Monday 🙂 wtf @115821 it’s 2 day shipping not 5 dayyyyyy
+AmazonHelp: @242137 Hi I am sorry to hear about the delay, were you emailed an explanation as to why it was? ^HS
+Customer: @AmazonHelp No",@242137 We'd like to get some additional details from the carrier and look into available options with you! Please reach us directly via phone or chat here: https://t.co/hApLpMlfHN ^CS,shipping,phone_chat,explicit_human_request|high_frustration,3,5
+386189,132658,386190,@AmazonHelp It was amazon.,"Customer: @AmazonHelp Now I'm left wondering if an exchange for another item would be possible as I have no way to ship it back to you without a box
+AmazonHelp: @132658 Was your TV shipped and sold by Amazon or sold by a third-party seller and fulfilled by Amazon: https://t.co/aaDyEz1VgE? ^NC
+Customer: @AmazonHelp It was amazon.","@132658 Even with an exchange, the delivery man would not be to collect at the same time. Did you discuss the return with us ? ^TD",shipping,refund_replacement,,3,5
+883905,329902,883907,@AmazonHelp Yes you did,"Customer: Why do I pay for Prime membership if you don't make good on your two day shipping promise @115821 ?
+AmazonHelp: @329902 Just to confirm, did we miss the delivery date in the confirmation e-mail? You can check here: https://t.co/D3008e9sBN ^BH
+Customer: @AmazonHelp Yes you did",@329902 Thanks for the info. What does the most recent tracking info state here: https://t.co/q4LAMZ3tbE? ^GG,shipping,acknowledgement,,3,5
+404044,211635,404046,@AmazonHelp Yes it was,"Customer: @AmazonHelp I thought amazon prime fame with free two day shipping not make the cost higher?
+AmazonHelp: @211635 Hi, have you been charged for shipping? Is the item Prime eligible? ^JJ
+Customer: @AmazonHelp Yes it was","@211635 If you have been charged shipping erroneously, please give us a ring or chat and we can help: https://t.co/hApLpMlfHN ^JD",shipping,other,,3,5
+480315,229155,480314,@AmazonHelp Yes,"Customer: Not exactly sure why I am paying 100$ a month for @115821 prime when all my orders are getting delayed when shipped to me. I thought my service was a guaranteed 2 day shipping?
+AmazonHelp: @229155 I'm sorry your orders aren't arriving when expected. We always aim to meet the delivery date given in your order confirmation e-mail. Have we been missing that date? ^KH
+Customer: @AmazonHelp Yes","@229155 When you get a chance, Cierra, reach out to us here by phone or chat: https://t.co/hApLpMlfHN so we can explore all our options with you in real-time! Keep us posted! ^FR",shipping,phone_chat,,3,5
+2493697,711843,2493699,@AmazonHelp no,"Customer: @AmazonHelp one is not which would understandably delay that package yet my order was split into two packages which both have been delayed past eta
+AmazonHelp: @711843 Are any of the other items form the second order currently unavailable or have a later release date than the expected shipping date you posted? ^WM
+Customer: @AmazonHelp no","@711843 We'd like to take a closer look, but we're unable to bring your account up here. When you get the chance, let's continue working together here: https://t.co/hApLpMlfHN ^FD",shipping,investigation,,3,5
+1066652,371723,1066654,@AmazonHelp Yes,"Customer: @AmazonHelp It hasn't arived yet i was being sarcastic
+AmazonHelp: @371723 Sorry that we misunderstood! Was this order shipped by Amazon or a seller on our site? Check: https://t.co/PyACxvY8Qo ^JE
+Customer: @AmazonHelp Yes",@371723 We'd like to take a closer look into the delay! Please reach us via phone/chat here: https://t.co/Q7Ftz6nj80 ^CS,shipping,investigation,,3,5
+2941975,812839,2941977,@AmazonHelp Still not in https://t.co/nZ9AlouqYH,"Customer: @AmazonHelp ordered this case over a week ago on November 22nd through Amazon Prime w/express shipping. It hasnt been shipped. Wondering as to whats going on. https://t.co/kFvyigyDo9
+AmazonHelp: @812839 Items can be shipped and delivered on the same day. Please keep us updated on its arrival! ^ZW
+Customer: @AmazonHelp Still not in https://t.co/nZ9AlouqYH",@812839 I am so sorry your package hasn't arrived! Can you provide us with the carrier? You can find that here: https://t.co/PyACxvY8Qo ^LS,shipping,information,,3,5
+2304054,315696,2304056,@AmazonHelp Sadly Prime.,"Customer: Open razor popped out of my @115821 order 🤢😷 #Amazon #primedisease #ew #wt% https://t.co/JqyALj5IS7
+AmazonHelp: @315696 That's not the experience we'd like you to have! Was this shipped by Amazon or a 3rd-party seller: https://t.co/Y5jpI9gRhE?^JM
+Customer: @AmazonHelp Sadly Prime.",@315696 I'd like to have a member of our team look into this for you. Please send us the order details: https://t.co/LnYOAs44wW ^EB,shipping,investigation,,3,5
+910718,336304,910719,@AmazonHelp Yes same day,"Customer: @AmazonHelp Issue unresolved. We r not able to contact you from my registered mobile.
+AmazonHelp: @336304 Just to confirm, have you dropped in your details using the link provided by ^GK ? We'd like to have a look into it. ^AB
+Customer: @AmazonHelp Yes same day",@336304 I'm sure you would have received an email correspondence from our team. (1/2) ^VM,shipping,other,,3,5
+862567,324811,865855,@AmazonHelp It is,"Customer: @AmazonHelp How do I get a refund for shipping on my order? Paid for 1 day shipping. Delivery was unable to be made because of door code.
+Customer: @AmazonHelp My address book has my door code entered correctly.
+Customer: @AmazonHelp It is",@324811 I'm sorry. We're unable to access account info via twitter. Please give us a call here: https://t.co/hApLpMlfHN ^JF,shipping,privacy_restriction,,3,5
+404068,211642,404071,@AmazonHelp This happens 2/2 https://t.co/0s7BVj7F9J,"Customer: @AmazonHelp trying to order item for prime delivery to a locker, delivery 10/10 in item desc but when I buy,says delivery 13/10, what’s up?
+AmazonHelp: @211642 Which shipping method was selected at checkout? You can check this out here: https://t.co/aaDyEz1VgE. Let us know what you find! ^VB
+Customer: @AmazonHelp This happens 2/2 https://t.co/0s7BVj7F9J",@211642 I certainly apologize for the confusion! Let's see if we can provide any more details here: https://t.co/JzP7hlA23B ^JZ,shipping,other,,3,5
+1013044,359525,1013045,@AmazonHelp Yes,"Customer: @AmazonHelp It says the item is fulfilled by amazon,everything reguarding returns and shipping is showing me amazon
+AmazonHelp: @359525 Okay, so just to confirm, are you seeing the item being shipped by Amazon here: https://t.co/Y5jpI9gRhE ^HC
+Customer: @AmazonHelp Yes","@359525 Using the link we've already provided, there should be options for returns/refunds! Let us know if they work for you! ^SA",shipping,refund_replacement,,3,5
+2735660,766654,2735659,@AmazonHelp .ca and yes,"Customer: If I have prime why does @115821 keep charging me shipping???????
+AmazonHelp: @766654 What Amazon site are you a Prime member in (.com or .ca)? Is it the same site you are purchasing from? ^KB
+Customer: @AmazonHelp .ca and yes",@766654 Thank you for the additional information! Not all products and addresses are eligible for Prime shipping. Are you seeing shipping charges for every order or sporadically? More information on Prime shipping can be found here: https://t.co/iBio2fUnDS ^AZ,shipping,information,,3,5
+2580471,669570,2580473,@AmazonHelp No I haven't,"Customer: @AmazonHelp I believe so.
+AmazonHelp: @669570 Have you received a shipping confirmation e-mail for this order yet? You can find that here: https://t.co/r73dOhftug ^HS
+Customer: @AmazonHelp No I haven't","@669570 This item does not qualify for release-day delivery. You can check the order confirmation email sent at the time of your order for the estimated delivery date, and we'll email that it's on the way as soon as we ship it out to you. https://t.co/LPVO0Qg4Ft ^RM",shipping,information,,3,5
+2944285,813357,2944287,@AmazonHelp Okay thanks!,"Customer: @AmazonHelp My delivery date is the 4th. My tracking on the site said it’ll ship the 28th.
+AmazonHelp: @813357 Thanks for letting us know. There are a select few of items that are only able to ship Standard Shipping. The date provided at checkout will be the date we aim to meet. Please keep us posted! ^JO
+Customer: @AmazonHelp Okay thanks!","@813357 No problem, we're happy to help! Let us know if you need anything else.^TI",shipping,acknowledgement,,3,5
+2899645,375898,2899646,@AmazonHelp Yes https://t.co/zxG6d9mJeQ,"Customer: @AmazonHelp She also told me I hadn’t received the first item for two months because it was out of stock, yet my local game store has received regular shipments of it since it was released in early September.
+AmazonHelp: @375898 Is this item sold by us, or by one of our sellers? You can find that information here: https://t.co/Y5jpI9gRhE ^MH
+Customer: @AmazonHelp Yes https://t.co/zxG6d9mJeQ","@375898 Thanks for letting us know. I'd like a member of my team to look into this with you. When you have a moment, please click here: https://t.co/MLSW1fPyyp. We'll follow up shortly. ^BL",shipping,acknowledgement,,3,5
+379915,206127,379916,@AmazonHelp Yes https://t.co/OrpOfiJoOR,"Customer: @AmazonHelp No because my customer account says that it will be shipped soon
+AmazonHelp: @206127 Are you sure that your order's number is correct ? I didn't get any results with it ! ^AR
+Customer: @AmazonHelp Yes https://t.co/OrpOfiJoOR","@206127 Thanks, since its an confidential information, can you please delete the posts that contain your order's number please ! ^AR",shipping,information,,3,5
+2859849,794710,2859851,@AmazonHelp Nothing at all,"Customer: What is happening with @115830 with their #prime next day orders. 2 days late
+AmazonHelp: @794710 I'm sorry for the delay! Have we sent any communication stating a reason why? ^TR
+Customer: @AmazonHelp Nothing at all",@794710 Let's look into this in real time. Please call or chat with us here: https://t.co/EUYsDKunDG ^BA,shipping,investigation,,3,5
+910718,336304,910717,@AmazonHelp Yes same day,"Customer: @AmazonHelp Issue unresolved. We r not able to contact you from my registered mobile.
+AmazonHelp: @336304 Just to confirm, have you dropped in your details using the link provided by ^GK ? We'd like to have a look into it. ^AB
+Customer: @AmazonHelp Yes same day",@336304 You could check for the same here https://t.co/8DAc10S7ww.(2/2) ^VM,shipping,other,,3,5
+2360456,681663,2360454,@AmazonHelp Yes it has.,"Customer: @AmazonHelp so despite having two day shipping on my order, I've come to find out that I may not get my package u til Wednesday despite the fact I was supposed to have it Sunday, and the USPS distributer it went to is a Half hour north of my twinsburg address. What's going on?
+AmazonHelp: @681663 I'm sorry for the wait! Has the delivery date been delayed since the order has been placed: https://t.co/Y5jpI9gRhE? ^EP
+Customer: @AmazonHelp Yes it has.","@681663 Truly sorry for the delay, William. This isn't the delivery experience we strive for! Please, let us know if it hasn't arrived by the updated delivery date. ^JE",shipping,other,,3,5
+2830645,752254,2830646,@AmazonHelp Yes it’s here https://t.co/Ulr228cLEZ,"Customer: @AmazonHelp Never noticed as have never ever had this issue before! Normally huge amount of packaging And the box is damaged! Gutted
+AmazonHelp: @752254 Do you care to provide us the link to the product's detail page so we can review the item and the shipping options available? ^AV
+Customer: @AmazonHelp Yes it’s here https://t.co/Ulr228cLEZ","@752254 Thank you for link! This product does ship in its retail packaging unless designated as a gift or ""Deliver in Amazon Box"" is selected at checkout. If needed, we're happy to review return/replacement options with you directly here: https://t.co/JzP7hlA23B ^AC",shipping,refund_replacement,,3,5
+1434074,251780,1434075,@AmazonHelp No,"Customer: @AmazonHelp It is, but it is not showing up...
+AmazonHelp: @251780 The $5 will show when ordering an item sold and shipped by Amazon. Are you able to see it in checkout? ^JP
+Customer: @AmazonHelp No",@251780 Does your order meet the terms and conditions found here: https://t.co/176jkX0mGX ^BE,shipping,other,,3,5
+1079400,374608,1079402,@AmazonHelp Still nothing https://t.co/9Y4WyFMZZq,"Customer: I ordered something from @115821 with same day shipping. It's supposed to arrive in 45 minutes and it hasn't shipped. 🤔🤔
+AmazonHelp: @374608 I'm sorry to keep you waiting! Please let us know if you haven't received it by then. ^MB
+Customer: @AmazonHelp Still nothing https://t.co/9Y4WyFMZZq",@374608 We'd like to take a look into this with you. Please reach us here: https://t.co/hApLpMlfHN ^AG,shipping,investigation,missing_delivery,3,5
+2611565,738465,2611567,"@AmazonHelp Naw she was a wee bit useless, she parroted the same things the previous staff members said, ""it's in the advance shipped step"" or something similar. I just want to know when it's coming.","Customer: @AmazonHelp Naw, they just said the fulfillment center has a system issue, but that doesnt help me at all
+AmazonHelp: @738465 Did the agent Odwa advise when this item would be shipped out and delivered? ^SA
+Customer: @AmazonHelp Naw she was a wee bit useless, she parroted the same things the previous staff members said, ""it's in the advance shipped step"" or something similar. I just want to know when it's coming.","@738465 Can I ask what is the estimated delivery date showing on the tracking at the moment please, you can find this info here: https://t.co/aaDyEz1VgE. ^GA",shipping,information,explicit_human_request|failed_support|high_frustration,3,3
+180522,158447,180524,@AmazonHelp No clear answer,"Customer: Had to cancel my order today from @116090 2 day shipping item still not shipped, horrible experience with the CSR. @AmazonHelp
+AmazonHelp: @158447 Were you advised as to what was caused the delay? ^KM
+Customer: @AmazonHelp No clear answer",@158447 I'm sorry about the disappointment. I'll be sure to pass your feedback internally. ^SG,shipping,information,,3,5
+2852194,567155,2852196,@AmazonHelp 4 this year.,"Customer: @115821 should issue percentage refunds when they don't hit shipping guarantees. Either that or change the guarantee to a projection. If I pay for Prime you need to hold up your end of the deal.
+AmazonHelp: @567155 We always want you to have a great experience with us! I'm sorry this has not been the case. We are here to help any way we can! Just to clarify, do you have an order that has missed the delivery date? ^AL
+Customer: @AmazonHelp 4 this year.","@567155 Have you seen a trend in the late orders? Were they shipped with the same carrier? If you're unsure, please click here: https://t.co/Y5jpI9gRhE ^NM",shipping,other,,3,5
+2549508,724380,2549510,@AmazonHelp It says Amazon. https://t.co/6QRY017qoa,"Customer: Dear @115821 @AmazonHelp this still hasn’t shipped. I’m expecting it tomorrow, so I assume I’m getting 1 day express shipping? https://t.co/JQZVbU54Sl
+AmazonHelp: @724380 Hi, is your order fulfilled by Amazon or a 3rd Party Seller? ^JJ
+Customer: @AmazonHelp It says Amazon. https://t.co/6QRY017qoa",@724380 Please contact us here: https://t.co/hApLpMlfHN so an agent can look into this further for you. ^JJ,shipping,investigation,,3,5
+2823152,786666,2823150,@AmazonHelp Nope. Nothing,"Customer: Getting really annoyed with @115821 ... Ordered a few things a week ago and still hasn't shipped.
+AmazonHelp: @786666 Oh no! Sorry to hear this. Have you received an email with any info regarding the delay?^ES
+Customer: @AmazonHelp Nope. Nothing","@786666 Would you be able to tell us, what is estimated delivery date that was given to you in your confirmation email?^MA",shipping,other,,3,5
+2428232,697192,2428233,@AmazonHelp Ok thanks!,"Customer: @AmazonHelp I`m trying to make a wishlist,But due to your site update the ship to Ireland tick box is gone,So now I have to bring every item through checkout to see if it will ship to me before I add it to said list,Is there any easier way to find out which items ship to Ireland?
+AmazonHelp: @697192 Hello! When searching by department, you should see an advanced search setting you can check that says ""international shipping eligible"". That should narrow down your options a bit! ^DY
+Customer: @AmazonHelp Ok thanks!",@697192 Of course! Please let us know if there's anything else we can assist you with. We're always here to help. ^HC,shipping,acknowledgement,,3,5
+2254637,656723,2254636,@AmazonHelp Still wasn’t delivered.,"Customer: @AmazonHelp Only email I’ve got 🧐 https://t.co/c5Z80O0ATU
+AmazonHelp: @656723 Choosing One-Day shipping will reduce the transit time to one business day after we've shipped your order, but it won't impact how long it takes us to obtain the item or prepare it for shipment: https://t.co/yuIQlKfCeI Parcels can arrive up to 21:00. Keep us posted! ^SD
+Customer: @AmazonHelp Still wasn’t delivered.",@656723 As ^SD said we do deliver up until 21:00 so there is still a chance for it to arrive today. Please keep us posted! ^CN,shipping,other,,3,5
+1104383,205044,1104385,@AmazonHelp It says delayed,"Customer: Moment when your @115821 order is delayed when you have Amazon Prime #Free2DayShipping
+AmazonHelp: @205044 Did the delivery date change on the order?^CD
+Customer: @AmazonHelp It says delayed",@205044 So sorry about the delay. We do aim to deliver by the delivery date given at the time the order was placed. ^KM,shipping,other,,3,5
+448618,221291,448619,@AmazonHelp No,"Customer: @AmazonHelp When it says TWO DAY shipping, I expect it here in TWO DAYS. When it says it shipped on Friday and delivery date is Thursday, unacceptable.
+AmazonHelp: @221291 Hi, has the delivery date changed since you received your order confirmation email? ^TS
+Customer: @AmazonHelp No",@221291 We're unable to access account info via Twitter. We'd like to help if we can. Please contact us via phone or chat here: https://t.co/Q7Ftz6nj80 ^JF,shipping,phone_chat,,3,5
+460046,224313,460048,@AmazonHelp Yes you did,"Customer: @115821 when you get free two day shipping but don't get your package in two days.
+AmazonHelp: @224313 I'm sorry for the frustration! Have we missed the intended delivery date stated in your order confirmation e-mail? ^AC
+Customer: @AmazonHelp Yes you did","@224313 Thanks very much for the additional information, Patrick! In this case, we would love to further assist, but we'll need you to contact us directly in order to do that. Please give us a call or chat here, and we'll get this sorted for you: https://t.co/hApLpMlfHN ^JD",shipping,information,,3,5
+461198,224587,461200,@AmazonHelp This is typical. https://t.co/piUp4ziAIB,"Customer: @115821 well you have 40 mins for my guaranteed delivery. what a ripoff. Last time I'll pay for 1day shipping. Canceling membership
+AmazonHelp: @224587 I certainly understand your frustration! We want to be sure you receive your order on time. Please let us know if it doesn't show within the 40 minutes so we can research this further with you. ^HC
+Customer: @AmazonHelp This is typical. https://t.co/piUp4ziAIB","@224587 I'm sorry your order hasn't arrived yet. We'd like to see what options are available. When you have a moment, please call or chat with us here: https://t.co/LZKjs8EKDc ^MB",shipping,other,,3,5
+2039529,603051,2039531,"@AmazonHelp Nope, nothing","Customer: @AmazonHelp packages I didn’t order keep being shipped to my house with my name on them I’m confused
+AmazonHelp: @603051 That's strange. Are you expecting any gifts or a different order to arrive? ^CL
+Customer: @AmazonHelp Nope, nothing",@603051 I would definitely recommend reaching out to us here:https://t.co/hApLpMlfHN so we can look deeper into this for you. ^SA,shipping,investigation,,3,5
+469392,226777,469391,@AmazonHelp Yes,"Customer: @115821 why offer guaranteed 2 day delivery if you can’t actually deliver on the guarantee
+AmazonHelp: @226777 Shipping speed refers to transit time once an order ships out. Some items take time to prepare: https://t.co/Wgg7H7CQdN Have we missed the delivery date shown in your order confirmation e-mail? ^NN
+Customer: @AmazonHelp Yes",@226777 Sorry to hear that. Get in touch here: https://t.co/hApLpMlfHN and we'll be happy to help. ^RS,shipping,acknowledgement,,3,5
+852763,322580,852766,@AmazonHelp It says Tuesday.,"Customer: @AmazonHelp But it’s telling me Tuesday. I’ve been a prime member for a few years now &amp; this last year your 2 day shipping has gotten worse.
+AmazonHelp: @322580 I'm sorry you're not satisfied with our service! Is there a recent order that has missed the promised delivery date? ^JD
+Customer: @AmazonHelp It says Tuesday.","@322580 Gotcha- totally get your frustration. The timer varies by address, but we aim to meet the date promised at checkout. ^BL",shipping,other,,3,5
+845708,321018,845706,@AmazonHelp No,"Customer: @AmazonHelp I have ordered an item delivery guaranteed by today Oct the 20TH with my prime shipping, GUESS WHAT? Hasn't even shipped yet
+AmazonHelp: @321018 Sorry you're still waiting. Have you received any update as to why there is a delay with shipping? ^NV
+Customer: @AmazonHelp No","@321018 Just to confirm, do your order details currently state your order will be arriving today: https://t.co/Y5jpI9gRhE ^LH",shipping,other,,3,5
+1872070,447819,1872072,@AmazonHelp already done this,"Customer: @AmazonHelp ordered on same day delivery and it didn't arrive and still hasn't even been shipped yet, won't let me cancel it either https://t.co/NAzKSlX256
+AmazonHelp: @447819 As we're unable to view your account via Twitter,pls contact here:https://t.co/JzP7hlA23B so we can look further into this.^KM
+Customer: @AmazonHelp already done this","@447819 Emails may take a little while to reply, phone or chat should be almost immediate. Please let us know how it goes! ^RL",shipping,phone_chat,,3,5
+1909420,568803,1909422,@AmazonHelp Yes,"Customer: Hey @115821 I paid $99 to get Prime so my daughter's costume could get 2 day shipping. That was 3 days ago.
+AmazonHelp: @568803 I'm sorry for the wait! To confirm, have we missed the date provided on your order confirmation e-mail? ^MB
+Customer: @AmazonHelp Yes",@568803 We'd like to take a closer look at this with you. Please reach out to us at your here: https://t.co/hApLpMlfHN ^LJ,shipping,investigation,,3,5
+1800802,356734,1800800,@AmazonHelp Yes,"Customer: When you get @115821 prime that 2 day shipping but the package still doesn’t arrive by the end of the second day 😡😡
+AmazonHelp: @356734 I'm sorry for the wait! Have we missed the delivery date provided in our order confirmation e-mail? ^WT
+Customer: @AmazonHelp Yes",@356734 Can you please confirm who the carrier is for your shipment: https://t.co/Y5jpI9gRhE? ^ST,shipping,other,,3,5
+1771733,532550,1771731,@AmazonHelp No update yet,"Customer: @AmazonHelp Already reported 2 days ago and no deadline is given.
+AmazonHelp: @532550 If you have filled in your details, please be assured our team will get back to you at the earliest. ^PB
+Customer: @AmazonHelp No update yet",@532550 We've sent you an email correspondence on your registered account here: https://t.co/REgiMPAEdl. Kindly reply for further updates on your concern. ^RB,shipping,other,,3,5
+1768222,531646,1768224,@AmazonHelp no i havent,"Customer: @AmazonHelp verging on the 2nd straight order where it doesnt arrive on time, and this one hasn’t even shipped https://t.co/G9FdFREeVA
+AmazonHelp: @531646 I'm so sorry your order hasn't arrived yet! Have you received any updates via e-mail: https://t.co/ywlGAuepHW? ^WJ
+Customer: @AmazonHelp no i havent",@531646 We'd like to look into this with you. Please call or chat with us here: https://t.co/hApLpMlfHN ^MH,shipping,investigation,,3,5
+1724674,521648,1724676,@AmazonHelp It was amazon.ca,"Customer: @115821 it really shouldn't take a month and a half to get a pack of soothers. Especially when it was a 2 day shipping deal
+AmazonHelp: @521648 I'm sorry for the wait! Was the order being shipped by Amazon or a third-party seller: https://t.co/RYDC8N2UNg? ^SB
+Customer: @AmazonHelp It was amazon.ca",@521648 What was the expected delivery date provided in your order confirmation e-mail? ^ZW,shipping,other,,3,5
+1730771,522977,1730773,@AmazonHelp Yes it has,"Customer: @115821 2 day shipping they said. It’ll be fast they said. @AmazonHelp https://t.co/Y8vLiJTfgW
+AmazonHelp: @522977 Hi, has the delivery date changed from the date provided in your order confirmation email? ^TS
+Customer: @AmazonHelp Yes it has","@522977 Apologies, have you received a reason behind the delay? ^TS",shipping,other,,3,5
+1733094,523481,1733095,@AmazonHelp Still same. https://t.co/yudhg0rUuF,"Customer: @AmazonHelp But “shipping soon” here. https://t.co/wBffYsHet1
+AmazonHelp: @523481 Hi Angel- Have you received any recent updates regarding this order since you spoke with us last? ^NV
+Customer: @AmazonHelp Still same. https://t.co/yudhg0rUuF",@523481 I'm sorry for the wait! We'd love to look into this with you. Please call or chat with us here: https://t.co/hApLpMlfHN ^MH,shipping,investigation,,3,5
+2292123,665665,2292125,@AmazonHelp ok thank you.,"Customer: @AmazonHelp hi i have prime membership but everything i look at is for delivery on Wednesday when it used to be next day?
+AmazonHelp: @665665 Hi there! Orders placed during Black Friday and Cyber Monday week may take longer due to volume. This link explains it in a bit more detail: https://t.co/6yzzFvQ36L ^SP
+Customer: @AmazonHelp ok thank you.","@665665 You're welcome, Adam! Please let us know if you have any other questions or concerns! ^CS",shipping,acknowledgement,,3,5
+550467,147919,550469,@AmazonHelp I'm furious. The whole tracking thing is a scam. It was never on the UPS truck out for delivery and they are saying they are CLOSED until Monday. They can't tell me if I'll get it Monday. Two day shipping just ruined my son's birthday.,"Customer: My son ordered a phone on @115821 with 2 day delivery. Notice came it was going to be a week late. Even though tracking said it was on the truck-it never arrived that date and now is going to be another week. @115817 tracking is BS. Lies all of it.
+AmazonHelp: @147919 Has a new delivery date been provided? Let us know! ^MT
+Customer: @AmazonHelp I'm furious. The whole tracking thing is a scam. It was never on the UPS truck out for delivery and they are saying they are CLOSED until Monday. They can't tell me if I'll get it Monday. Two day shipping just ruined my son's birthday.","@147919 I can certainly understand your disappointment with this situation! I hope you'll understand that we do our best to ensure that all orders arrive in time to meet expectations, however, sometimes there are unforeseen delays. Please keep us posted on delivery! ^SD",shipping,other,explicit_human_request|missing_delivery|high_frustration,3,3
+577037,255524,577036,@AmazonHelp Just this one https://t.co/q3xQvoFJgF,"Customer: @AmazonHelp It says amazon shipping, was supposed to be prime! https://t.co/12FPO9RoW9
+AmazonHelp: @255524 Hi Julia, did you receive an email from us about the order at all?^PJ
+Customer: @AmazonHelp Just this one https://t.co/q3xQvoFJgF",@255524 I'm sorry again about the delay. We still expect this order to arrive to you between the 3rd-5th of December. Please keep us informed about this and don't hesitate to reach out to us if you have any further queries.^PJ,shipping,other,,3,5
+1490371,454812,1490373,@AmazonHelp yes,"Customer: @AmazonHelp can u help this keeps popping up every time i want to buy my friend something from their wishlist and it’s done this to EVERY item in the wishlist https://t.co/JrrX9IY0k3
+AmazonHelp: @454812 Does the person you are buying for have a shipping address set up for their wishlist? ^WB
+Customer: @AmazonHelp yes",@454812 Please reach out to us here https://t.co/hApLpMlfHN so we can look specifically at your account and look deeper into what the problem might be. Thank you! ^WB,shipping,investigation,,3,5
+1459762,458833,1459760,@AmazonHelp No delivery...,"Customer: @AmazonHelp What time do you deliver up until please? Ordered on prime for delivery today &amp; had shipping notification but no item yet
+AmazonHelp: @458833 We deliver up until 21:00! Please keep us posted! ^KJ
+Customer: @AmazonHelp No delivery...",@458833 Oh no! Let's look into this in real time. Please call or chat with us here: https://t.co/xMEtytjV0S ^BA,shipping,investigation,,3,5
+1380689,441383,1380687,@AmazonHelp YES,"Customer: @115821 wanna tell me why the order I placed yesterday w/1-day shipping isn’t scheduled 2 arrive until Wed? GRANDDAUGHTER B-DAY &amp; u SUCK
+AmazonHelp: @441383 I'm sorry for the wait. Some items aren't able to ship immediately. Was the date given on the confirmation e-mail missed? ^AN
+Customer: @AmazonHelp YES",@441383 Does the tracking information provide a reason for delay? You can view this in Your Orders here: https://t.co/Y5jpI9gRhE ^DG,shipping,information,,3,5
+668518,279400,668520,@AmazonHelp Yes,"Customer: The purpose of two day shipping is to have my order IN TWO DAYS. @115821 is playing games
+AmazonHelp: @279400 Two-Day Shipping is transit time, in business days, once shipped. Product availability, additional preparation time, severe weather, and carrier capacity all affect your delivery date. Is there an order that has missed the delivery date in a confirmation email? ^BE
+Customer: @AmazonHelp Yes",@279400 I am sorry to hear this. Can I ask have you been updated via email as to why the order is delayed please?^GA,shipping,other,,3,5
+1365428,437905,1365429,@AmazonHelp It says shipped,"Customer: @AmazonHelp It was supposed to be here on Wednesday. Don't break my heart amazon 💔
+AmazonHelp: @437905 When checking your tracking did it say that it was delivered, missing, or shipped? We are here for you! ^LS
+Customer: @AmazonHelp It says shipped",@437905 We'd like to look into this with you in real-time. Please use this link to contact in directly: https://t.co/EKXRLsnxJu ^GL,shipping,investigation,,3,5
+1326995,429610,1326994,@AmazonHelp yes,"Customer: @AmazonHelp this is the fourth or fifth time Amazon has used USPS and my two day shipping was messed up.
+AmazonHelp: @429610 I understand your frustration! We'd like to assist. Have we missed the delivery date: https://t.co/PCtircFm5C? ^SJ
+Customer: @AmazonHelp yes",@429610 We'd like to contact the carrier on your behalf. Please reach out us via phone here: https://t.co/hApLpMlfHN ^KP,shipping,other,,3,5
+716054,291347,716056,@AmazonHelp yes it was,"Customer: @115821 what’s the point of preordering the book if i could’ve gotten it faster by ordering it today?? https://t.co/kb2K8GeTKc
+AmazonHelp: @291347 I'm sorry for the wait, Emily! Was this placed as a Prime order with Two-Day Shipping? ^WT
+Customer: @AmazonHelp yes it was","@291347 We'd like to look into our available options with you. When you get a chance, please reach us here: https://t.co/hApLpMlfHN ^AG",shipping,investigation,,3,5
+11032,118079,11033,@AmazonHelp Yes,"Customer: @AmazonHelp They did not. The wrinkle is, I board a plane for the U.K. In the am and these items were part of the attire for the wedding im in.
+AmazonHelp: @118079 Hey, Mike! Were the other late items also shipped via USPS? You can check here: https://t.co/Y5jpI9gRhE ^LA
+Customer: @AmazonHelp Yes",@118079 I hope you are willing to give us a chance in the future to make things right. ^TN (2/2),shipping,other,,3,5
+11032,118079,11034,@AmazonHelp Yes,"Customer: @AmazonHelp They did not. The wrinkle is, I board a plane for the U.K. In the am and these items were part of the attire for the wedding im in.
+AmazonHelp: @118079 Hey, Mike! Were the other late items also shipped via USPS? You can check here: https://t.co/Y5jpI9gRhE ^LA
+Customer: @AmazonHelp Yes","@118079 I'm sorry we let you down on this order. If the order arrives too late, you can return them for a full refund. ^TN (1/2)",shipping,refund_replacement,,3,5
+2980878,822166,2980880,@AmazonHelp Today this morning,"Customer: Bought something on amazing after 9pm saturday and paid for 2 day shipping and tomorrow is thursday..... @115821 I want my money back 😒 you promised me wednesday
+AmazonHelp: @822166 I'm so sorry you haven't received your order! Just to confirm, what was the estimated delivery date for your order: https://t.co/Y5jpI9gRhE? ^EB
+Customer: @AmazonHelp Today this morning",@822166 To better assist could you also provide the carrier for this package. Thus can also be found here: https://t.co/Y5jpI9gRhE ^BT,shipping,other,missing_delivery,3,5

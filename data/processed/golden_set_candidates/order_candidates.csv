@@ -1,0 +1,178 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+2928361,810137,2928363,@AmazonHelp No,"Customer: @AmazonHelp Will this take another 3 weeks?!? https://t.co/RHOcuddKRP
+AmazonHelp: @810137 I understand that your order hasn't been picked according to the scheduled time. Let us help you with it. Could you please confirm if you have reached out to our support team from the link shared above? ^HR
+Customer: @AmazonHelp No",@810137 Reach out to our support team and they will assist you accordingly with it. ^RW,order,other,,3,5
+2823964,786822,2823965,@AmazonHelp No,"Customer: @AmazonHelp Yup. All correct when I order on website and on tracking info but not on printed label
+AmazonHelp: @786822 That is unusual. Is this other address on your Amazon account?^ES
+Customer: @AmazonHelp No",@786822 Thanks for confirming. Can you please contact us directly using the following link: https://t.co/oGDklGgbCZ we can look into this further for you.^SM,order,acknowledgement,,3,5
+180590,158459,180589,@AmazonHelp Yes I am,"Customer: @AmazonHelp hi I’ve ordered qualifying products so I could receive the baby box but I’m not getting the option to claim the box.
+AmazonHelp: @158459 Are you a Prime member? ^MC
+Customer: @AmazonHelp Yes I am",@158459 We'll be able to diagnose what's going on if you give us a call. Here's a link to help: https://t.co/JzP7hlA23B ^EM,order,other,,3,5
+1908919,568670,1908920,@AmazonHelp Still nothing?,"Customer: @AmazonHelp It's not even a real tracking numbwr https://t.co/3yS4tSOEv7
+AmazonHelp: @568670 I'm sorry your order hasn't arrived! Our team would like to take a look. Please give more info here: https://t.co/IjiEkLQdPK ^LR
+Customer: @AmazonHelp Still nothing?","@568670 Be sure to check your e-mail for a message from our specialists, Ally! Please let us know if you can't find anything. ^FD",order,information,,3,5
+2205207,161019,2205206,@AmazonHelp Yes it was,"Customer: @AmazonHelp November 16th when the deluxe which I preordered releases on the 14th.
+AmazonHelp: @161019 Was the game eligible for release date delivery? More info can be found here: https://t.co/pkjih2gr9F ^BA
+Customer: @AmazonHelp Yes it was","@161019 We strive to deliver your order by the estimated date shown in the confirmation e-mail. If it doesn't arrive by the estimated delivery date, please let us know. ^SJ",order,acknowledgement,,3,5
+34514,123480,34516,"@AmazonHelp Yes, it is","Customer: @115830 I don’t think I ordered this with my headphone jack.. 🤢🤢 https://t.co/aJbEVjQO3y
+AmazonHelp: @123480 I'm so sorry for the troubling experience! Is the product still in okay condition? Please let us know. ^MJ
+Customer: @AmazonHelp Yes, it is",@123480 Happy to hear it. We'd like to document your experience and look into your options here: https://t.co/qy3J24VGxb ^AF,order,investigation,explicit_human_request,3,5
+57436,129026,57435,@AmazonHelp Yeah it’s this https://t.co/H8nMUU538E,"Customer: @AmazonHelp preordered a book on kindle in September. It says the release date was 21st Sept but it’s still not on my kindle. Can you help?
+AmazonHelp: @129026 I'm sorry you haven't received the book yet! Would you be able to link us to the book you pre-ordered? ^DD
+Customer: @AmazonHelp Yeah it’s this https://t.co/H8nMUU538E","@129026 Does the book appear in your library: https://t.co/GbJiMPWR8d? If so, select the book and click deliver to send to Kindle. ^MB",order,other,missing_delivery,3,5
+2758112,771842,2758114,@AmazonHelp Ok thank u,"Customer: Hey @AmazonHelp I received an SMS saying my order has been cancelled. But the website still shows Arriving on Monday. Pls help. Because I need to order somewhere again. Order # 402-0305262-7113947
+AmazonHelp: @771842 I understand your concern regarding the status of your order. Please reach out to us here: https://t.co/vlvfJr4nN9 and we will help you. Please don’t provide your order details as we consider them to be personal info. Our page is visible to public. ^AH
+Customer: @AmazonHelp Ok thank u",@771842 You're welcome. Do keep us posted for any further assistance. ^AH,order,acknowledgement,,3,5
+2061684,609726,2061687,@AmazonHelp Yes,"Customer: Ordered a new phone from amazon got an one plus 5 instead of one plus 5 T due to some glitch ,the amazon guys are not willing to exchange what to do same product price @115821
+AmazonHelp: @609726 That was unexpected. We'd like to make this right for you. Kindly drop your details here: https://t.co/beaaDm0muc and we’ll get in touch with you soon. ^BV
+Customer: @AmazonHelp Yes",@609726 Thank you for sharing the details. We will get back with an update soon. You would receive a correspondence here: https://t.co/8DAc10S7ww. ^BS,order,acknowledgement,explicit_human_request,3,5
+2538943,722081,2538944,@AmazonHelp Nothing yet,"Customer: @AmazonHelp Yes although that would be pointless as I’m based in the U.K also ordered from your U.K site using the details I’m trying to use today
+AmazonHelp: @722081 Hello Joshua, can I ask have you contacted us through the link provided on the previous post and if so, what was advised to you please? ^GA
+Customer: @AmazonHelp Nothing yet","@722081 Hi Joshua, just by chance would you have a secondary email address? If you placed an order recently, you should have been emailed an order confirmation to that address. Can you check if you have access to your email address directly? ^CR",order,other,,3,5
+2804248,266953,2804250,@AmazonHelp It says this https://t.co/09mfPJwCKP,"Customer: @115821 Hey. Ordered my shoes on the 18th. Prime said they’d be here the 20th. Now no one knows where they are. Customer Service said “maybe tomorrow...or the day after. If not request a refund? THAT’S all you got? help
+AmazonHelp: @266953 I am so sorry for the delay! Can you tell us what your tracking information says here: https://t.co/Y5jpI9gRhE
+Customer: @AmazonHelp It says this https://t.co/09mfPJwCKP","@266953 I'm very sorry. We strive to get your orders to you as quickly as possible, but, in rare cases, delays may occur. I hope we can provide a better experience in the future. ^WT",order,other,,3,5
+1665804,507530,1665805,@AmazonHelp Still nothing yet.,"Customer: @AmazonHelp Still the same. https://t.co/bGw8uxVjgF
+AmazonHelp: @507530 Hi, if the tracking hasn't been updated we would expect the order to arrive when stated. Please keep us posted. ^JJ
+Customer: @AmazonHelp Still nothing yet.","@507530 Thanks for the update Matt, have you logged out and back in to see if it stays the same? ^JJ",order,acknowledgement,,3,5
+2117765,624155,2117767,@AmazonHelp Ok,"Customer: Dear @115850 @AmazonHelp pls cancel the Order # 171-5020001-7757902 As ordered by mistake. Already talked to one of your executive yesterday.He assured me to cancel the same from his side but nothing has been done till now. Need your involvement.
+AmazonHelp: @624155 Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ 2/2 ^NK
+Customer: @AmazonHelp Ok","@624155 Thanks for understanding, Niranjan. Once we receive your details, we will get back to you with an update soon. Please wait. ^NK",order,acknowledgement,,3,5
+274611,181606,274613,@AmazonHelp Ok,"Customer: @AmazonHelp Order # 171-3354961-1573119
+AmazonHelp: @181606 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^MJ
+Customer: @AmazonHelp Ok",@181606 Thank you for understanding. Kindly reach out to our support team using the link provided earlier. ^AP,order,acknowledgement,,3,5
+2335504,355074,2335502,@AmazonHelp Yes,"Customer: @115821 is really losing my trust lately. Since all of the recent things I’ve ordered have been wrong and/or defective #veryunsatisfied.
+AmazonHelp: @355074 That's not what we like to hear. Are you having this issue with a recent order? ^GG
+Customer: @AmazonHelp Yes",@355074 Is the item you ordered that are wrong or defective shipped from Amazon or one of our third party sellers? ^AH,order,other,,3,5
+2718043,762842,2718045,@AmazonHelp yes,"Customer: @AmazonHelp I ordered 22 quantities of VR Headset but when the shipment arrived it had only 1. and we even paid the entire amount as per attached invoice.
+AmazonHelp: @762842 Were the 22 VRs and the one you received in the same order please? ^FA
+Customer: @AmazonHelp yes","@762842 Hi Shivani, I'm sorry to hear this. We are unable to check orders over Twitter. Have you contacted us directly about this? If so what were you advised? ^KK",order,other,,3,5
+1522594,473137,1522592,@AmazonHelp Yes 11/7,"Customer: @AmazonHelp My Xbox one x preorder is sitting with no date and no one has an idea why
+AmazonHelp: @473137 Were you provided an estimated time frame in your order confirmation e-mail: https://t.co/CVr0bPnuaE? Please let us know! ^KJ
+Customer: @AmazonHelp Yes 11/7",@473137 What was advised when you spoke with us? ^BG,order,other,,3,5
+1505451,469396,1505453,@AmazonHelp Yes it was,"Customer: @AmazonHelp I preordered WW2 and for everyone else the delivery was for today, for me it is Saturday yet i am with Prime????
+AmazonHelp: @469396 I'm sorry for the delay! Was your order eligible for release day delivery? For more information: https://t.co/wLHDHtUMe5 ^TK
+Customer: @AmazonHelp Yes it was",@469396 Can you please tell us the intended delivery date stated in your order confirmation e-mail? ^AC,order,other,,3,5
+321978,192448,321980,@AmazonHelp okay,"Customer: For @115850 trimmer and bedsheet means the same !I can keep the bedsheet if it's a Diwali gift but send me the trimmer I had ordered ASAP https://t.co/Tvk3L4TadC
+AmazonHelp: @192448 Write to us here: https://t.co/GIJyeYqKE0 &amp; we'll get in touch with you.2/2 ^MJ
+Customer: @AmazonHelp okay",@192448 We look forward to helping you with it. Do keep us posted once the details are shared. ^AB,order,other,,3,5
+1421317,428738,1421316,@AmazonHelp No,"Customer: @115830 really??????? Really making me want to preorder something again....... Especially when it hasn’t even been despatched yet! https://t.co/R5awcsGw8H
+AmazonHelp: @428738 Hi sorry to hear that, were you emailed regarding the delay? ^AS
+Customer: @AmazonHelp No","@428738 sorry to hear that, its not what we want you to experience. What shipping speed did you choose? ^AS",order,other,,3,5
+1272889,357554,1272891,@AmazonHelp Ok,"Customer: @115850 https://t.co/6B4KcCgs3L
+AmazonHelp: @357554 Please don't provide tracking details, we consider it to be personal information. Our page visible to the public. (2/2)^GU
+Customer: @AmazonHelp Ok",@357554 Appreciate your patience and understanding. ^MM,order,other,,3,5
+423989,215933,423990,@AmazonHelp No message :(,"Customer: @AmazonHelp No. Last name is incorrect (married). And no gift, neither needed not desired. Why could this be sent to me?
+AmazonHelp: @215933 Normally when people receive (non ordered) items, they are gifts. Have you checked the contents for a Gift Message ? ^TD
+Customer: @AmazonHelp No message :(",@215933 Please contact us here so we can investigate it further: https://t.co/hApLpMlfHN ^AT,order,investigation,,3,5
+454512,222862,454514,@AmazonHelp No,"Customer: @115821 I need to tell u that u took my money and I also want to tell you that I was the girl who bought Sims 3 university life a few days ago and I'm really mad because y'all told me to wait two freaking hours for the game to download and I waited and it wasn't there
+AmazonHelp: @222862 I'm sorry the order hasn't shown up yet! Does the game show in Your Library here: https://t.co/rHydvs9FFk? ^EP
+Customer: @AmazonHelp No","@222862 Hey, Kennedy! It would be best for someone to assist you with this in real-time. Please reach out to us here: https://t.co/hApLpMlfHN ^LA",order,other,,3,5
+789034,210552,789036,@AmazonHelp No,"Customer: @AmazonHelp it does not take a week to send my order out I am so mad and angry that my order is not with me how much longer will it be?????
+AmazonHelp: @210552 That's not what we want to hear! Has there been any update on your tracking listed here: https://t.co/aaDyEz1VgE ^KM
+Customer: @AmazonHelp No",@210552 Is it sold directly by Amazon or by a marketplace seller?: https://t.co/aaDyEz1VgE ^PK,order,other,high_frustration,3,5
+480320,229156,480322,"@AmazonHelp Okay cool, thanks!","Customer: @115830 Bloopies?? In particular Luna. Any news on more stock to save Christmas in my house! I ordered one a couple of weeks ago? Thanks 🙏
+AmazonHelp: @229156 Thanks for reaching out. Unfortunately this item is currently out of stock at this moment, we have the information as when it will be back in stock. You can turn on Alerts for availability: https://t.co/9c27fFJmkM. ^LH
+Customer: @AmazonHelp Okay cool, thanks!",@229156 Anytime! We'll be here if you have any other questions. ^MB,order,other,,3,5
+529034,242500,529035,@AmazonHelp Ok thanks,"Customer: @AmazonHelp I ordered early yesterday, has said due for today on all 4 items and now the app says 2-5th
+AmazonHelp: @242500 Apologies Jack, this is now one of the busiest shopping period of the year. During this busy period, some deliveries may take slightly longer than usual. More information can be found here: https://t.co/WQDLCJU6jX ^BD
+Customer: @AmazonHelp Ok thanks","@242500 Thanks for your patience Taylor, the carrier will work to deliver as soon as possible. ^TS",order,acknowledgement,,3,5
+551833,248636,551831,@AmazonHelp nO,"Customer: where’s my kindle
+AmazonHelp: @248636 Hello! Are you referring to a recent order of yours? If so, what does the tracking info state here: https://t.co/Y5jpI9gRhE ^JZ
+Customer: @AmazonHelp nO",@248636 We're able to report the device lost or stolen if needed. We can be reached 24/7 here: https://t.co/uJoHY4rC9c ^EP,order,other,,3,5
+2609963,738140,2609964,@AmazonHelp I m still waiting for call..,"Customer: @AmazonHelp This tym i hv proof..it was ordered from app. https://t.co/ho9lvwHNDm
+AmazonHelp: @738140 Kindly shared the asked details via the link shared above. We'll check this for you. Also, please don’t provide your order details as we consider them to be personal info. Our page is visible to public. ^SG
+Customer: @AmazonHelp I m still waiting for call..",@738140 A correspondence from our team has been sent to you here: https://t.co/8DAc10S7ww please check and reply. ^MN,order,information,,3,4
+2942091,812853,2942099,@AmazonHelp Ok,"AmazonHelp: @812853 Please don't provide your tracking details, we consider it to be personal information. Our page is visible to the public. 2/2 ^HS
+Customer: @AmazonHelp Ok",@812853 I'm sorry to know about the situation with your order. Please reach out to us here: https://t.co/vlvfJr4nN9 we'd like to help. ^SG,order,other,,2,5
+2943123,222181,2943120,@AmazonHelp No I've had nothing as yet.,"Customer: @AmazonHelp hi I spoke to someone last night on the phone about an order which should have reached a locker on Monday but didn't. She said it would arrive today but I've had no notification and my status on the order hasn't changed.
+AmazonHelp: @222181 Sorry to hear your order has not arrived. Have you received an email with info regarding the delay?^ES
+Customer: @AmazonHelp No I've had nothing as yet.",@222181 Oh no! What does the current tracking on the order state? You can find that information here: https://t.co/aaDyEz1VgE. Please be sure to let us know! We're here to help. ^TG,order,information,explicit_human_request,3,4
+2133383,627712,2133384,@AmazonHelp I cancelled it as I'm getting it from someone else who can actually follow up on their guarantees,"Customer: @AmazonHelp Nope, pre-ordered 6 weeks ago, and nothing. Chatted to help, and it's out of stock apparently. Pre-ordering from Amazon seems useless.
+AmazonHelp: @627712 Is the order still pending now, or has it been canceled? ^NV
+Customer: @AmazonHelp I cancelled it as I'm getting it from someone else who can actually follow up on their guarantees",@627712 So sorry to hear about this Matt. ^KM,order,other,explicit_human_request|high_frustration,3,3
+2236311,652182,2236309,@AmazonHelp I already did this,"Customer: @AmazonHelp i ordered Gshock watch on 4th November which was deleiverd on 8th November but when i see the box of watch there is no watch only pamplets are there and same day i received my redmi 4 which is in the box safely when i complaint this my order id is 406-2361678-8381909
+AmazonHelp: @652182 I am sorry for the inconvenience. Please share your details here https://t.co/GIJyeYqKE0 and we would assist you accordingly. Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.​ ^MD
+Customer: @AmazonHelp I already did this","@652182 We'd like to help you, Saif. Could you confirm if you have shared your details using the link mentioned earlier? ^GD",order,other,,3,4
+183418,159134,183417,@AmazonHelp there are no duplicate orders...,"Customer: @AmazonHelp it is listed as a completed transaction on my bank statement. A new date has not been supplied.
+AmazonHelp: @159134 Strange - pls check your account for possible duplicate orders and for the latest order status: https://t.co/aaDyEz1VgE ^TD
+Customer: @AmazonHelp there are no duplicate orders...",@159134 Please get in touch with us here: https://t.co/JzP7hlA23B and we'll look into this for you. ^RL,order,investigation,,3,4
+19461,120322,19463,@AmazonHelp I did it already~,"Customer: @AmazonHelp 6 order: 113-2039762-2382613、113-2511164-7606668、113-7544238-7484225、114-5454499-3702646、114-9012608-0575407、114-9109336-9221053
+AmazonHelp: @120322 Hi, please don't share order numbers here as this page is public. Please contact us; https://t.co/hApLpMlfHN to look into this. ^JJ
+Customer: @AmazonHelp I did it already~","@120322 W/o posting personal info, what is the issue with the orders? What was advised when you contacted? ^PK",order,privacy_restriction,,3,4
+2352296,679779,2352298,@AmazonHelp It says “Dispatching now”,"Customer: @AmazonHelp my order is due to to arrive tomorrow but it hasn’t even been dispatched yet? (I ordered a week ago)
+AmazonHelp: @679779 In some cases items can be dispatched and delivered on the same day! Just to confirm, what is your current order status here: https://t.co/aaDyEz1VgE? ^ME
+Customer: @AmazonHelp It says “Dispatching now”",@679779 We will send you an e-mail once the order ships to keep you updated. If the order misses the delivery date let us know. We're available here: https://t.co/JzP7hlA23B ^EP,order,other,,3,4
+180509,158445,180508,@AmazonHelp The next line is Ley ending chat. Wtf is this,"Customer: @AmazonHelp hey. I ordered battlefront 2 for ps4 a long time ago. Never received a beta key.Just got ""hung up"" on chat after asking about it
+Customer: @AmazonHelp https://t.co/hlLW4nKbZb
+Customer: @AmazonHelp The next line is Ley ending chat. Wtf is this",@158445 Apologizes for the misunderstanding- When you spoke to Yineeta what was advised with regards your order? ^NV,order,other,explicit_human_request|high_frustration,3,3
+2373333,164356,2373331,@AmazonHelp It appears but no code,"Customer: @AmazonHelp how do I access my preorder code for my Battlefront II preorder?
+AmazonHelp: @164356 To access your Game and Software downloads or codes, please visit us here: https://t.co/Vm51m1FeHF Let us know if that helps! ^WT
+Customer: @AmazonHelp It appears but no code",@164356 I'm sorry for the frustration! Your code will be made available once the game has been released. ^TN,order,other,,3,4
+215044,158949,215042,@AmazonHelp I tried there but no help,"Customer: @115850 again #bad #experience Product ordered, cancelled. Now not able to order tht product due to qty restrictions #badservice #amazon
+AmazonHelp: @158949 My apologies for the trouble, Bishnu. Kindly reach out to us via: https://t.co/w6BThvCAjo and we will have this checked. ^KS
+Customer: @AmazonHelp I tried there but no help",@158949 Sorry to know about this. Please share your details here: https://t.co/GIJyeYqKE0 I'll reach and assist you. ^SV,order,other,,3,4
+2078457,614719,2078458,@AmazonHelp https://t.co/Aj5dIyBBlY this is the item,"Customer: @AmazonHelp I am Frustrated. I pre-ordered @74818 physical PC copy in 2016. Not avail... tried to change to digital and taking 1-2 Days
+AmazonHelp: @614719 I'm sorry! Is this the item you're referring to: https://t.co/ErvqlYLstG? Was a refund issued for the physical copy? ^SB
+Customer: @AmazonHelp https://t.co/Aj5dIyBBlY this is the item",@614719 Thank you for the update! We'd like to ensure this goes through. Please reach out to us here: https://t.co/CYqkdUakWJ ^GM,order,acknowledgement,high_frustration,3,4
+2877763,798782,2877765,@AmazonHelp Yes i did! Sold by: https://t.co/jKOVm9iYmQ LLC https://t.co/auCyS45v6x,"Customer: On left is the preorder version of @176225 ‘s #thewisdomofsunday. I ordered the right 1 over Black Friday as a gift, from @115821 . There’s a huge difference in quality including the feel &amp; thickness of paper. Pictures bleed onto back of page too! So disappointing 4 book lovers. https://t.co/K8MDq8EiDv
+AmazonHelp: @798782 Hi, Claudia! I'm sorry that your second order of the book was lower quality than the original. Did you purchase them from the same seller? You'll find the name of the seller on your orders, here: https://t.co/Y5jpI9gRhE ^SP
+Customer: @AmazonHelp Yes i did! Sold by: https://t.co/jKOVm9iYmQ LLC https://t.co/auCyS45v6x",@798782 Thank you for the information. You can view return options here: https://t.co/ouwacV9oJM. ^DG,order,information,,3,4
+2663045,128478,2663047,@AmazonHelp This is what I see. https://t.co/BU4nlZTbvK,"Customer: @AmazonHelp I ordered two items on October 25 and my order still hasn’t shipped. Even though it was supposed to ship Oct. 30th. HELP?
+AmazonHelp: @128478 Hi, when is the delivery estimate on your order? ^AS
+Customer: @AmazonHelp This is what I see. https://t.co/BU4nlZTbvK","@128478 Hi, this order could still arrive within the delivery estimate. Is the order fulfilled by Amazon? ^JJ",order,other,,3,4
+1603092,491998,1603094,@AmazonHelp That was me last year😂wasn’t fun😂😂,"Customer: Just ordered a bunch of Christmas gifts off of @115821 (doing it now to avoid long post office lines) and I’m getting really exited!!🎅🏼🤶🏼🎄🎁
+AmazonHelp: @491998 Wow you're very organized, I always leave my shopping to the last minute 🙈. ^RS
+Customer: @AmazonHelp That was me last year😂wasn’t fun😂😂","@491998 Early, or last minute works for me. :) ^BM",order,other,,3,4
+2418487,694895,2418485,@AmazonHelp It says “Not yet shipped” https://t.co/juTj5Wd1ch,"Customer: @AmazonHelp I’m a little bothered. Ordered #StarWarsBattlefrontII months ago. All my buddies have their copies and mine hasn’t shipped yet. Should I just cancel my order and pick it up at GameStop across the street?
+AmazonHelp: @694895 Oh no! What does the tracking say? That can be checked here: https://t.co/Y5jpI9gRhE Keep us updated! ^GP
+Customer: @AmazonHelp It says “Not yet shipped” https://t.co/juTj5Wd1ch",@694895 It looks like from the order details we have until the 17th to the 21st to make the delivery. If we miss this delivery date please let us know so we can take a closer look! ^JZ,order,investigation,,3,4
+2285674,664184,2285671,"@AmazonHelp The earphones I ordered yesterday still have not arrived but according to the tracking app, it should be nearby for delivery since 5!","Customer: Dear @117795, don't charge exorbitant fees &amp; fail to quite literally deliver on your promises! Yours sincerely, a furious customer!
+AmazonHelp: @664184 I'm sorry for the trouble! Without giving account sensitive information, can you please tell us more about this? ^KJ
+Customer: @AmazonHelp The earphones I ordered yesterday still have not arrived but according to the tracking app, it should be nearby for delivery since 5!","@664184 Do keep in mind, that we can deliver up until 8 PM! If this time passes, we'd be happy to look into this with you. ^KJ",order,investigation,explicit_human_request|high_frustration,3,3
+2702036,758981,2702038,@AmazonHelp 3rd party with no tracking status.,"Customer: Ordered a Blu-ray from @115830 15 days ago. No sign of it. It was in stock but not posted for a week and now it's vanished. So we basically have to join Amazon prime or put up with a shit service it seems.
+AmazonHelp: @758981 I'm sorry to hear you haven't received your order yet! We'd like to help. Was the order fulfilled by Amazon, or a third-party seller? Also, what is the current tracking status for the order? You can review this info here: https://t.co/ijxJ9jCwr9 ^JS
+Customer: @AmazonHelp 3rd party with no tracking status.","@758981 In these cases, we ask you to reach out to the third-party seller, and give them two business days to reply. To contact them please visit us here: https://t.co/j7wFkVmIFl If they don't reply within that time frame, please visit us here: https://t.co/2ycp2CVfdI ^WT",order,self_service,missing_delivery,3,4
+1721690,521001,1721692,@AmazonHelp It was from amazon.in,"Customer: @115850 bought 1 lenovo laptop on 5.10.17, @1469 customer care refused to give support services, calling it the US item. Please help
+AmazonHelp: @521001 I'm sorry for the trouble. Could you please confirm if the product was ordered from https://t.co/nUUp5MLhYl or Amazon.in?
+Customer: @AmazonHelp It was from amazon.in",@521001 Sorry about the trouble. Have you reported the issue to our support team here: https://t.co/00q4Sqj9zL for assistance? ^KA,order,other,,3,4
+1680953,511105,1680952,@115850 Order no 171-9050354-4997109,"Customer: @115850 I ordered my oneplus5 on 1st Nov, 2017 and the scheduled date was 6th Nov. Haven’t received any update on tracking since 2nd Nov. https://t.co/UFbAI273yd
+Customer: @115850 Order no 171-9050354-4997109","@511105 Please don't provide your details, as we consider it to be personal info. Our Twitter page is visible to the public. ^AM",order,privacy_restriction,,2,5
+2843637,791103,2843635,@AmazonHelp This makes no sense https://t.co/O1NMfz6Y63,"AmazonHelp: @791103 I'm sorry to hear this, we'd like to help! Without posting account information, such as an order number or your e-mail address, can you tell us what happened? ^GR
+Customer: @AmazonHelp Bought an item and then the price change. Just want to know if I️ can get a price adjustment. Been through 4 different representatives and on hold for a total of 15 minutes.
+Customer: @AmazonHelp This makes no sense https://t.co/O1NMfz6Y63","@791103 I'm sorry for the long hold times, Siddy! You can find out more here: https://t.co/w42FCNaLEz regarding Price Matching. ^FR",order,information,,3,4
+2561998,727098,2561999,@AmazonHelp Yes i am referring to thst,"Customer: @AmazonHelp There isn’t any this is why im really confused
+AmazonHelp: @727098 I'm sorry for the frustration. Just to clarify, can you please let us know what you mean by ""there isn't any?"" Are you referring to the tracking? Thanks! ^AJ
+Customer: @AmazonHelp Yes i am referring to thst",@727098 We won't be able to look at the order through Twitter but we still want to help you! Please reach us by phone or chat here: https://t.co/hApLpMlfHN ^DD,order,phone_chat,,3,4
+2843724,791106,2843726,@AmazonHelp There’s no messages 🤦🏻‍♂️,"Customer: @AmazonHelp @791115 Hi, I ordered from ur website but I couldn’t find it in my orders.. I only find it in canceled orders! 🤔 https://t.co/Ja4JBDN5mj
+AmazonHelp: @791106 Did you check your mails to see, if there is a message from us? ^BL
+Customer: @AmazonHelp There’s no messages 🤦🏻‍♂️",@791106 Have you checked your spam folder? ^NW,order,other,,3,4
+2712484,686237,2712483,@AmazonHelp Ok tweet deleted..,"AmazonHelp: @686237 I'm sorry for the incorrect tracking update. This was never intentional, have you reported this to our support team here: https://t.co/vlvfJr4nN9? Please don't provide your order details, we consider it to be personal info. Our page is visible to the public. ^AH
+Customer: @AmazonHelp Ok tweet deleted..","@686237 Thank you so much, Anil! Appreciate your understanding. ^SF",order,acknowledgement,,2,5
+137057,146909,137056,@AmazonHelp Ok cool thanks 🙏🏻,"Customer: @AmazonHelp I ordered things from amazon prime uk yesterday and I have been confirmed but the money hasn’t been withdrawn from my account? Is this normal as it’s my first time using amazon I’m confused
+AmazonHelp: @146909 Congrats on your first Amazon order! 🎉 Just so you know, payment isn't taken until the order is dispatched. I hope this helps! ^KI
+Customer: @AmazonHelp Ok cool thanks 🙏🏻",@146909 You're welcome. Have a great day 😊^CR,order,acknowledgement,,3,4
+2614025,738976,2614027,@AmazonHelp M not getting reply on this,"Customer: @AmazonHelp The amount was deducted from my bank account for ORDER # 405-9733446-8551519 and it has been received to you told by my bank So please see towards it and refund my amount back to me Contact No.9769234460
+AmazonHelp: @738976 I understand your concern, please contact us here: https://t.co/rS49hgaADF so that we can assist you accordingly. ^SU
+Customer: @AmazonHelp M not getting reply on this",@738976 Kindly share your details here: https://t.co/GIJyeYqKE0 and I'll look into this. ^SG,order,investigation,,3,4
+2289735,665189,2289734,@665190 this is YOUR fault @115821,"Customer: The Becoming of Noah Shaw is on sale TODAY! 🎉 Happy reading, friends. I can't thank you enough. https://t.co/sBcia3GKNL https://t.co/ajRA9GMC4c
+Customer: @665190 hello sunshine I ordered it from amazon on the 8th but it still says unreleased HeLp
+Customer: @665190 this is YOUR fault @115821",@665189 I'm sorry for any trouble! Have you purchased the physical copy or the Kindle edition: https://t.co/Y5jpI9gRhE? ^ST,order,other,,3,4
+176371,157499,176373,@AmazonHelp It was ordered from https://t.co/wh9k4QN8z6,"Customer: Hey @AmazonHelp seriously I had to wait almost 2 months to receive a new book in this condition? https://t.co/wCikBsEDDs
+AmazonHelp: @157499 I am very sorry to see that Paul. This is not the experience we want you to have. Was the book ordered from https://t.co/nUUp5MLhYl or from https://t.co/rRBl8uQCrO or another one of our websites? ^CH
+Customer: @AmazonHelp It was ordered from https://t.co/wh9k4QN8z6",@157499 A return can be set up with these steps: https://t.co/gjxulNQdEx. If available a replacement will be shown in the return process. ^EP,order,refund_replacement,,3,4
+1581997,213144,1581999,@AmazonHelp Nothing has happened till now,"Customer: @AmazonHelp You can check the case by order number the issue
+AmazonHelp: @213144 I'm afraid, this being a public platform, we wouldn't be able to check your details. Please elaborate for us to assist. ^SV
+Customer: @AmazonHelp Nothing has happened till now",@213144 Could you please confirm if you've filled in your details in the link provided earlier? ^RB,order,other,,3,4
+1769411,531980,1769412,@AmazonHelp that link leads to nothing,"Customer: @AmazonHelp Its AMZL US and the tracking number is TBA525656619000
+AmazonHelp: @531980 Thanks for clarifying. To escalate this with our Logistics team, please provide details here: https://t.co/WXtXsuVJ9V ^LL
+Customer: @AmazonHelp that link leads to nothing",@531980 Apologies for the link. You can give us additional information here: https://t.co/CHccFYUkkw ^SK,order,information,,3,4
+91272,135794,91274,@AmazonHelp It was a joke 😔😔,"Customer: Ordered 4 kindles from @115821 for Christmas... They sent me a Two Ronnies DVD 🤨🤨 #Christmas2017
+AmazonHelp: @135794 I'm terribly sorry for the mix up, Paul! Let's see what options we have to get this sorted for you here: https://t.co/hApLpMlfHN ^JZ
+Customer: @AmazonHelp It was a joke 😔😔",@135794 What options did they give you when you contacted them? ^DJ,order,other,,3,4
+1770165,532170,1770164,"@AmazonHelp Initially it said delivered, but then when pulling it up through USPS tracking, it said forwarded (I recently moved, but had the package sent to my new address anyway - no fwd needed). I called USPS and they said they'd look into it. Now it says delivered again but nothing here.","Customer: @AmazonHelp I need help tracking a lost package. @118706 has terrible customer support and cannot figure out where they sent my package. Ordered with Prime 2-day. Please help, thanks.
+AmazonHelp: @532170 I'm sorry your order hasn't arrived yet! What does the current tracking state? You can check here: https://t.co/Y5jpI9gRhE ^BN
+Customer: @AmazonHelp Initially it said delivered, but then when pulling it up through USPS tracking, it said forwarded (I recently moved, but had the package sent to my new address anyway - no fwd needed). I called USPS and they said they'd look into it. Now it says delivered again but nothing here.",@532170 That's not good. Let's talk about this in real time. Please call or chat with us here: https://t.co/XCjjqQjhDF ^BA,order,other,missing_delivery|high_frustration,3,3
+312965,125313,312966,@AmazonHelp No info since yesterday. Really 😒 https://t.co/D1u8Bfwxyj,"Customer: @AmazonHelp Email form. And still the order hasn’t arrived.
+AmazonHelp: @125313 Unfortunately we can not access your account - has the tracking itself received an update ? ^TD
+Customer: @AmazonHelp No info since yesterday. Really 😒 https://t.co/D1u8Bfwxyj",@125313 Reach us here: https://t.co/JzP7hlRCV9 so we can check into this for you.^CD,order,investigation,,3,4

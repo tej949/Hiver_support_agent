@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+2418365,503038,2418367,@AmazonHelp Yes,"Customer: @115850 My phone mob not delivered on time and date
+AmazonHelp: @503038 I'm sorry about the unpleasant experience. Could you kindly let us know if we have missed the estimated delivery date? ^SB
+Customer: @AmazonHelp Yes",@503038 Kindly escalate this to our support team here: https://t.co/vlvfJr4nN9. We'll look into it. ^SB,delivery,investigation,explicit_human_request|missing_delivery,3,5
+1694510,393025,1825996,@115821 Is this clear?,"Customer: @115821 Nobody has come today for pickup..this is really frustrating for a customer who has been loyal to amazon
+Customer: @115821 This is ridiculous to know that I declined the pick up. Where as i did not received the call
+Customer: @115821 Is this clear?",@393025 We've responded to your query here: https://t.co/SkxSuCOgsI ^AK,delivery,other,missing_delivery|high_frustration,3,5
+781944,306675,781948,@AmazonHelp Check this https://t.co/xYqdjYiuZ2,"Customer: @115850 I have booked a phone 2 days ago. I am prime member you promised delivery yesterday but no phone delivered so far. Why promise?
+AmazonHelp: @306675 Kindly contact our support team here: https://t.co/vlvfJrlYEH. We'll have it checked. ^KC
+Customer: @AmazonHelp Check this https://t.co/xYqdjYiuZ2",@306675 I'm sorry for the delay. Please wait till the revised delivery date to receive your product. (1/2)^AU,delivery,other,explicit_human_request,3,5
+10640,117948,10641,@AmazonHelp No package.,"Customer: @AmazonHelp My apologies, it says now that the delivery date is October 31st. Still hasn't come though.
+AmazonHelp: @117948 Hi Mark! Deliveries will run up until 21:00. Let us know what happens. Chuck H
+Customer: @AmazonHelp No package.",@117948 I'm sorry it hasn't arrived! Please get in touch with us here: https://t.co/hApLpMlfHN for available options. ^EZ,delivery,refund_replacement,,3,5
+781944,306675,781947,@AmazonHelp Check this https://t.co/xYqdjYiuZ2,"Customer: @115850 I have booked a phone 2 days ago. I am prime member you promised delivery yesterday but no phone delivered so far. Why promise?
+AmazonHelp: @306675 Kindly contact our support team here: https://t.co/vlvfJrlYEH. We'll have it checked. ^KC
+Customer: @AmazonHelp Check this https://t.co/xYqdjYiuZ2","@306675 Please don't provide your order details, as we consider it to be personal information. Our Twitter page is public.(2/2)^AU",delivery,privacy_restriction,explicit_human_request,3,5
+132345,145861,132346,@AmazonHelp No and no,"Customer: @AmazonHelp Done that - order details don’t specify who the courier is
+AmazonHelp: @145861 When in touch were you advised of a time frame to wait? Has there been any update on the tracking today - https://t.co/Jr1kcqQUJY ? ^TP
+Customer: @AmazonHelp No and no",@145861 I'm very sorry for the poor experience! I would like one of our Social Media specialists to look into this with you. Please provide the information that is requested here: https://t.co/9KKpqfGmRR so we can get this escalated to the proper team. ^ZW,delivery,investigation,,3,5
+138096,147108,138097,@AmazonHelp No,"Customer: @AmazonHelp The estimated date was today but now it says. ‘ Delivery date pending’
+AmazonHelp: @147108 Sorry to hear that, have you received any emails in relation to the order? ^JJ
+Customer: @AmazonHelp No",@147108 Make sure to check your junk/spam e-mail as well for an updated confirmation e-mail about your order. Has there been an update on your tracking: https://t.co/Y5jpI9gRhE ^GP,delivery,other,,3,5
+2795300,780032,2795302,@AmazonHelp Still no package,"Customer: @AmazonHelp Today
+AmazonHelp: @780032 I'm sorry you've not received it yet, Hope. Carriers have until 8:00pm to attempt delivery. Please let us know if you don't receive it by then. We're here to help where we can. ^KL
+Customer: @AmazonHelp Still no package",@780032 Thanks for the update. Please let us know who the carrier is for this package. You can find that information here: https://t.co/0kEKt1SM32 ^SE,delivery,acknowledgement,missing_delivery,3,5
+103129,138672,103130,"@AmazonHelp respected sir, u know its a once in week sale. nd it very hard to place order, nd it sucks when it get cancelled. i was failed to order that on 30th nov.","Customer: ORDER NOT DELIVERED WORST EXPERIENCE WITH AMAZON!!!@ booked remi y1 on 22nov from wednesday sale,order not delivered nd got cancelled aftr 10 days of shippment. mr amazon i want my phone. worst service, i ever recieved. once in weekend sale. @115821 @AmazonHelp @138673 https://t.co/8fKcpFvzcx
+AmazonHelp: @138672 We understand your concern regarding delivery. Orders once canceled can't be reinstated request you to place a new order. I have taken your feedback internally to work on. 1/2^VH
+Customer: @AmazonHelp respected sir, u know its a once in week sale. nd it very hard to place order, nd it sucks when it get cancelled. i was failed to order that on 30th nov.","@138672 I can imagine the disappointment, Shrey. This is certainly not what we intended. I will pass it on as a feedback to our team internally. ^MK",delivery,information,explicit_human_request|missing_delivery|high_frustration,3,3
+2758939,772020,2758942,@AmazonHelp The rep I’m on the phone with cancelled it. I said no I want it but I want to know when it’s coming. Now she’s attempting to order me a while new one and get that to me by tmrw. This is ridiculous. Amazon logistics was the carrier. 5th time they’ve not delivered to me,"Customer: @115821 fail! I ordered my turkey pan last week. I’m a prime member and it was due to arrive Sunday. It’s Monday night and still not here! I will be canceling my membership when it’s up. @117795 is more work then it should be. I’ll just head to the mall for what I need
+AmazonHelp: @772020 Oh no! Who is the carrier? What is the most recent tracking update? We are here to help! ^BA
+Customer: @AmazonHelp The rep I’m on the phone with cancelled it. I said no I want it but I want to know when it’s coming. Now she’s attempting to order me a while new one and get that to me by tmrw. This is ridiculous. Amazon logistics was the carrier. 5th time they’ve not delivered to me","@772020 Thank you for being a Prime member. I'm sorry to hear that your ordered was canceled prematurely in addition to your carrier issues. What did the tracking information say before the order was canceled, you can confirm here: https://t.co/Y5jpI9gRhE? ^SY",delivery,information,explicit_human_request|missing_delivery|high_frustration,3,3
+2764391,184609,2764393,@AmazonHelp Right. This offer.r,"Customer: @115850 @120602 @58058 not received 100 rs. Cashback on first recharge.
+AmazonHelp: @184609 Could you please confirm if you're referring to the offer here: https://t.co/kYSqaBLIh3? ^AP
+Customer: @AmazonHelp Right. This offer.r",@184609 Cashback will be credited to your amazon pay balance with in 7 days of the date of recharge. Did we happen to miss on that? Do keep us posted. ^HS,delivery,other,missing_delivery,3,5
+2767558,773896,2767560,@AmazonHelp Yes I have,"Customer: @AmazonHelp your company is a disgrace no parcel yet saying delivered at 1041 and no-one can track the driver fuming I am
+AmazonHelp: @773896 Hello Louise, have you checked the surrounding area in a possible safe place? ^BD
+Customer: @AmazonHelp Yes I have","@773896 Oh no! I am so sorry to hear about this, Louise! Please reach out to us at https://t.co/JzP7hlA23B so we can track your parcel and see what insight or options we can offer. Thank you! ^WB",delivery,acknowledgement,,3,5
+2772305,774903,2772307,@AmazonHelp Yes,"Customer: Every time @115821 uses their amzn delivery service, my stuff never comes on time. I'm really annoyed.
+AmazonHelp: @774903 So sorry for the poor experience! We'd love to help out! Just to confirm, is there a current order that you're having an issue with? ^VB
+Customer: @AmazonHelp Yes",@774903 Can you tell us more about what's gone on without posting account or order info? ^DO,delivery,other,,3,5
+91425,135817,91423,@AmazonHelp Yes,"Customer: @AmazonHelp so my package was to be delivered by 8:00 today. It’s 8:20 still not here. Now I just get an alert it won’t be here until Saturday. That’s not why I signed up for Prime....
+AmazonHelp: @135817 I'm so sorry for the delay with your order! Though delays are possible, they should be rare. We always strive to make the provided delivery date. To confirm, has a carrier been assigned to your shipment: https://t.co/Y5jpI9gRhE? ^ST
+Customer: @AmazonHelp Yes","@135817 Please keep us updated, Brady! If it hasn't arrived by the new estimated delivery date let us know. ^LA",delivery,other,,3,5
+153723,151193,153722,@AmazonHelp Still nothing 😕,"Customer: @AmazonHelp When can I expect the email? Thanks!
+AmazonHelp: @151193 Hi there! Please reach out to us if you have not received anything within 72 business hours. (Don't forget to check your spam and junk folders as well!)
+Customer: @AmazonHelp Still nothing 😕",@151193 Sorry to hear you've had no updates. Can you contact us here: https://t.co/hApLpMlfHN so we can take a look? ^MI,delivery,other,missing_delivery,3,5
+2724479,740597,2724480,@AmazonHelp Already done that twice,"Customer: @AmazonHelp If no call back today I want a contact number for your legal department,if my hearing has been damaged in any way i will seek legal advice #sellingoffakeit
+AmazonHelp: @740597 Hello Mr Pakeman, I'm sorry you have not received your call back yet. Please fill out this short form and we will have a specialist contact you as soon as possible. https://t.co/tkLCr7DNil ^KK
+Customer: @AmazonHelp Already done that twice",@740597 Please provide your info into the secure form submitted by ^KK. This will allow us to escalate your issue. ^NC,delivery,other,explicit_human_request|missing_delivery,3,4
+2758943,772020,2758944,@AmazonHelp It said due to arrive by 8pm tonight,"Customer: @AmazonHelp The rep I’m on the phone with cancelled it. I said no I want it but I want to know when it’s coming. Now she’s attempting to order me a while new one and get that to me by tmrw. This is ridiculous. Amazon logistics was the carrier. 5th time they’ve not delivered to me
+AmazonHelp: @772020 Thank you for being a Prime member. I'm sorry to hear that your ordered was canceled prematurely in addition to your carrier issues. What did the tracking information say before the order was canceled, you can confirm here: https://t.co/Y5jpI9gRhE? ^SY
+Customer: @AmazonHelp It said due to arrive by 8pm tonight",@772020 Did the tracking info indicate it was out for delivery as well. Did you get a chance to provide your contact details yet? ^SY,delivery,other,explicit_human_request|missing_delivery|high_frustration,3,3
+2875003,397188,2875005,@AmazonHelp Yes,"Customer: @115821 @AmazonHelp @115851 Major fail today. I bought a number of products on Black Friday. Chose to take two day instead of next day delivery because I was traveling. Now I regret it. Packages didn’t make it. @115817 fail. GUARANTEED!
+AmazonHelp: @397188 We appreciate you reaching out to us on Twitter. Have we missed the delivery date that was given in your order confirmation e-mail? ^GG
+Customer: @AmazonHelp Yes","@397188 Hi Dennis, I am sorry to hear that did you get an email advising of a delay? ^HS",delivery,other,,3,5
+2686010,755357,2686012,@AmazonHelp No,"Customer: @AmazonHelp Hey my order of Wolfenstein 2 ""Welcome to Amerika"" Pack has not dispatched in 4 days and was supposed to dispatch yesterday
+AmazonHelp: @755357 I'm sorry your order has been delayed! Have you received any e-mails containing a new delivery date? We're here to help! ^ML
+Customer: @AmazonHelp No","@755357 Have you tried to contact us here, John: https://t.co/JzP7hlA23B for real-time assistance? Keep us posted on this delivery!^FR",delivery,other,,3,5
+726366,293994,726368,@AmazonHelp Yes I am.,"Customer: Really confused why I pay $100 a year for @115821 prime when so many of my packages arrive DAYS late (@AmazonHelp)
+AmazonHelp: @293994 Sorry to hear Cailin- Are you currently awaiting an order now? ^NV
+Customer: @AmazonHelp Yes I am.",@293994 Have we missed the promised delivery date from the confirmation e-mail? ^TR,delivery,other,,3,5
+803055,311358,803057,@AmazonHelp Have received it,"Customer: @AmazonHelp hi have placed an order for 8 tshirts and 1 waist coat my order is delayed for 2 day. PFA https://t.co/L1DdVLqtSl
+AmazonHelp: @311358 We're sorry to know your order isn't delivered yet. Please reach us here: https://t.co/vlvfJr4nN9 and we'll check this. ^YP
+Customer: @AmazonHelp Have received it",@311358 Glad to know that. Do keep us posted for any further concerns. ^SG,delivery,acknowledgement,,3,5
+773490,304768,773492,@AmazonHelp No package,"Customer: @115821 I'm curious if it will be delivered by 8pm or not.... https://t.co/ofr2PFR7Dm
+AmazonHelp: @304768 We expect your order to arrive as quoted. Please keep us posted, we want to make sure you're taken care of. ^JA
+Customer: @AmazonHelp No package",@304768 Please reach out to us here to have a look into this with you: https://t.co/fmZoOFSvqx ^CL,delivery,investigation,,3,5
+777601,305637,777603,@AmazonHelp It is now Delivered . Thanks!,"Customer: @115850 order 4__credit_card__ not delivered,even after updating right phone nr.False assurances from customer service from 3 days
+AmazonHelp: @305637 I'm sorry your package hasn't been delivered yet. Kindly provide your details here: https://t.co/3MKC1FYmWg I'll look 1/3 ^SH
+Customer: @AmazonHelp It is now Delivered . Thanks!","@305637 Good to know that, thank you for updating us about it. Happy shopping. ^SI",delivery,acknowledgement,explicit_human_request|missing_delivery,3,4
+179450,158269,179449,@AmazonHelp Yes,"Customer: @115830 Seriously, STOP using Hermes 2 deliver ""Prime"" orders. Going to be a full week after ordering that I receive my next day delivery.
+AmazonHelp: @158269 I'm sorry for any trouble! Has the original delivery, as displayed at checkout, been missed: https://t.co/e6kfa1kLny ^ST
+Customer: @AmazonHelp Yes",@158269 Do you mind telling us what the latest tracking update is? Have we been able to provide a new delivery date? ^NM,delivery,other,,3,5
+2714099,470351,2714101,@AmazonHelp It was USPS.,"Customer: @AmazonHelp @115821 Says my order was delivered today, no sign of my packages? 🙃
+AmazonHelp: @470351 I'm sorry your package hasn't shown! Who was the carrier for this order? That information can be found here: https://t.co/Y5jpI9gRhE ^QJ
+Customer: @AmazonHelp It was USPS.",@470351 Thanks for letting us know who the carrier is. Here's a link to our Help page with info on what to do when your package shows as delivered but you can't find it: https://t.co/owupUJXDzJ ^BV,delivery,acknowledgement,,3,5
+2882543,799751,2882544,@AmazonHelp Is this useful? https://t.co/0iVoNa0JE0,"Customer: @AmazonHelp I can't see it anywhere at all.
+AmazonHelp: @799751 Hi Alana, when you click on the ""Track package"" button it will tell you which company delivered this. ^KK
+Customer: @AmazonHelp Is this useful? https://t.co/0iVoNa0JE0","@799751 Hi Alana, thank you for providing your screenshot. We would ask you do not share personal info on Twitter as it is public. Please contact us via: https://t.co/JzP7hlA23B to provide some feedback.^TI",delivery,privacy_restriction,,3,5
+205056,164569,205055,"@AmazonHelp Yes, still nothing","Customer: @AmazonHelp I still have not received my codes. Pre ordered back in April.
+AmazonHelp: @164569 Have you checked your spam folder as you should have received it by now? ^KM
+Customer: @AmazonHelp Yes, still nothing",@164569 Please reach out here so we can check this for you https://t.co/hApLpMlfHN ^KM,delivery,other,missing_delivery,3,5
+2662545,750389,2662546,@AmazonHelp Ok,"Customer: @115850 OID: 4__credit_card__ Delivery boy took 300. Saw right amount ie 279 in slip when opened item. Delivery Boy No response.
+AmazonHelp: @750389 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^ZH
+Customer: @AmazonHelp Ok",@750389 Do keep us posted. ^HK,delivery,other,,3,5
+2664679,750805,2664680,@AmazonHelp yes I have,"Customer: @AmazonHelp after first attempted delivery i added ‘leave with neighbour’ info... which was ignored! birthday present for sister-in-law, need it asap!
+AmazonHelp: @750805 Hi Andrew- Have you spoken with us directly regarding this delivery? ^NV
+Customer: @AmazonHelp yes I have",@750805 Were you advised that this would be escalated to the carrier? ^KM,delivery,other,,3,5
+2675661,753131,2675663,@AmazonHelp Still no response.,"Customer: Became an @115821 member despite my hesitation for online shopping &amp; of course my packages never showed up #fail #poorcustomerservice
+AmazonHelp: @753131 I'm so sorry we let you down, Kate! Could you confirm the original delivery date provided in your confirmation e-mail? ^SD
+Customer: @AmazonHelp Still no response.",@753131 Who does it say your order is sold &amp; fulfilled by: https://t.co/q4LAMZ3tbE Can the item be shipped to your destination? ^AF,delivery,other,,3,5
+80820,133928,80821,@AmazonHelp No,"Customer: @AmazonHelp What a shame...the issue is not yet resolved..no track info from courier after 28th..Ruined someone's birthday gift..
+AmazonHelp: @133928 Apologies for the bad experience. Could you let us know if you've received a correspondence from us? If yes, you may reply to the correspondence sent by us for further help. Appreciate your patience and understanding. ^AK
+Customer: @AmazonHelp No",@133928 A correspondence will be sent to your registered email account in 12 hours post filling the form via secured link with requested details. You may find all the correspondences from us here: https://t.co/NTkrxpsbHJ. ^MJ,delivery,information,,3,5
+2609267,738005,2609269,@AmazonHelp Nothing no,"Customer: @AmazonHelp my skyrim for Nintendo switch was supposed to arrive today but now it says ""Delivery date pending"". What's happening
+AmazonHelp: @738005 Hi, sorry to hear that. Have you received any emails in relation to the pre order? ^JJ
+Customer: @AmazonHelp Nothing no",@738005 I'm sorry for the delay! Some items require a bit more time to process than others. We aim to deliver by the date given in your order confirmation e-mail. Have we missed that date? ^TK,delivery,other,,3,5
+215098,167106,215100,@AmazonHelp Still not here*,"Customer: @AmazonHelp I paid 8$ extra for my shipment to arrive today and it is yet to arrive it says that it has been delivered but it hasn’t
+AmazonHelp: @167106 Sorry to hear this. Please let us know if you're still unable to find it after trying these steps: https://t.co/uI7I7t3rSC ^LI
+Customer: @AmazonHelp Still not here*",@167106 We appreciate the info. Who's the carrier set to deliver the order: https://t.co/q4LAMZ3tbE? ^GG,delivery,other,,3,5
+2622558,740919,2622560,"@AmazonHelp Yes, hence the remark about the cus rep being useless as well. His comment ""It's been marked as undeliverable so he can't reattempt delivery"" angered me. It didn't help that he couldn't get hold of the driver too","Customer: @117795 So, your driver doesn't get within an 8 minute drive of my house and marks my goods undeliverable.... with the baby food in his car. Cheers. Thanks to him, NONE of the drivers that come to my house will ever get a tip now. Your cus rep was as useless.
+AmazonHelp: @740919 I'm sorry to hear about the delivery. Just to confirm, have you had a chance to contact us by phone about this? If so, what insight/options were given? ^LI
+Customer: @AmazonHelp Yes, hence the remark about the cus rep being useless as well. His comment ""It's been marked as undeliverable so he can't reattempt delivery"" angered me. It didn't help that he couldn't get hold of the driver too",@740919 Thanks for the update. Were we able to provide you with the option of a refund or replacement for your shipment? ^GS,delivery,refund_replacement,explicit_human_request|failed_support|high_frustration,3,3
+2569204,728696,2569205,@AmazonHelp Done that thanks,"Customer: @AmazonHelp made a duplicate order so I can get the original items delivered properly
+AmazonHelp: @728696 Oh no! I'd like a member of my team to look into this issue, Paul! Please let us know more here: https://t.co/pzxtDySUP7 ^AD
+Customer: @AmazonHelp Done that thanks",@728696 Thanks for filling it out. You'll get a response when once we've reviewed the details. ^MG,delivery,acknowledgement,,3,5
+230614,170932,230615,@AmazonHelp No,"Customer: @AmazonHelp When placed the order it was for 2 SNES and the delivery date was 9/29. My preorder quantity was changed to 1 but the date was not adjusted
+AmazonHelp: @170932 Sorry for the delay. Has a new date not been provided to you via email ? ^CR
+Customer: @AmazonHelp No","@170932 Hey, get in touch with us here: https://t.co/hApLpMlfHN so we can check this for you ^KM",delivery,other,,3,5
+834808,318780,834809,@AmazonHelp Shared again,"Customer: @AmazonHelp Already shared the details on the link
+AmazonHelp: @318780 I've checked, we haven't received your details yet. Could you please share again from here: https://t.co/cQVomR1pWz. ^HA
+Customer: @AmazonHelp Shared again",@318780 Thank you for sharing your details. We're working on it and will get back to you soon. ^AP,delivery,acknowledgement,missing_delivery,3,5
+834780,318775,834779,@172599 @46181 @115850 Is this bangalore?,"Customer: This week @115850 took customer obsession to new depths with our first ever underwater delivery! https://t.co/OckpRVY2Kx https://t.co/kNd6MZHzFn
+Customer: @115850 While we don’t have any future plans for an underwater delivery service, this was a fun and peculiar way to delight one of our customers https://t.co/p2vOJUpEzx
+Customer: @172599 @46181 @115850 Is this bangalore?",@318775 The location is Andaman and Nicobar islands. ^HR,delivery,other,,3,5
+833129,318408,833130,@AmazonHelp Yes,"Customer: @AmazonHelp The latest on the tracking details is just out for delivery yesterday morning
+AmazonHelp: @318408 Does it show out for delivery today?^CD
+Customer: @AmazonHelp Yes",@318408 If you get in touch https://t.co/JzP7hlA23B we'll be happy to look into this for you. ^BM,delivery,investigation,,3,5
+836836,319186,836838,@AmazonHelp yes I have,"Customer: @115850 Pathetic delivery service! Ordered an amazon fulfilled item though it costed more. I still waiting for a week WITHOUT ANY UPDATE!
+AmazonHelp: @319186 Apologies. Could you please confirm if you've shared your details using the link shared here: https://t.co/Cq4p8p7HFv? ^ST
+Customer: @AmazonHelp yes I have","@319186 We've received your details, we'll get back to you soon. ^VR",delivery,other,,3,5
+726757,294088,726759,@AmazonHelp It being returned,"Customer: @123644 wth I ordered a package like 2 days ago and supposed to be delivered today but some invisible weather happened and not arriving #y
+AmazonHelp: @294088 Hi there- What is the current status of your order now? Is it being returned to sender or delayed? ^NV
+Customer: @AmazonHelp It being returned","@294088 Sorry, there are many reasons for parcels being marked as undeliverable, this page has a lsit: https://t.co/iP7bMEyarz. ^JJ",delivery,other,,3,5
+229818,170767,229817,@AmazonHelp It wasn't.,"Customer: @AmazonHelp https://t.co/cyWRmfTNP1
+AmazonHelp: @170767 We're sorry your parcel hasn't arrived yet! Sometime unforeseen issues cause delays. It should be delivered today before 21:00.^ZW
+Customer: @AmazonHelp It wasn't.",@170767 Apologies - pls contact us to investigate: https://t.co/JzP7hlA23B ^TD,delivery,investigation,,3,5
+229742,168011,229744,@AmazonHelp No explanation whatsoever,"Customer: @115830 Paid for a specified delivery date. Did not arrive. All I get is a clear copy and paste apology email. No explanation, nothing!!!!
+AmazonHelp: @168011 sorry to hear that, were you given a reason for the delay? ^AS
+Customer: @AmazonHelp No explanation whatsoever",@168011 Were you advised of a new delivery date?^CD,delivery,other,,3,5
+2588295,733289,2588297,@AmazonHelp Yes I have!,"Customer: @115821 I have not received a package that said it was delivered on Thursday. I can't find anywhere on the site to mark undelivered.
+AmazonHelp: @733289 Oh no! I'm sorry, Nicole! Have you tried these steps: https://t.co/XfWRmBbDhU ? Please let us know! ^LB
+Customer: @AmazonHelp Yes I have!",@733289 Thanks for checking! Let's see who the carrier so we can get this tracked down: https://t.co/Y5jpI9gRhE ^JZ,delivery,acknowledgement,missing_delivery,3,5
+2532215,450491,2532218,@AmazonHelp Still no sign,"Customer: @115830 does that mean it hasn't gone out for delivery yet could do with goin out a min an don't want to miss it https://t.co/txal8dcrtu
+AmazonHelp: @450491 It will be marked out for delivery soon, and delivered today by 8pm. Please keep us updated on its arrival! ^ZW
+Customer: @AmazonHelp Still no sign","@450491 Hello Jay, what current order status and delivery dates are you seeing here: https://t.co/aaDyEz1VgE? ^AR",delivery,other,,3,5
+2533204,720879,2533206,@AmazonHelp Yes third time,"Customer: @115850 @AmazonHelp always disappointing. Never deliver order on time every after havng prime membrshp
+AmazonHelp: @720879 I am sorry to know about the delivery issue with your order. Did we happen to miss the estimated delivery date? ^MP
+Customer: @AmazonHelp Yes third time",@720879 Sorry about the delay. Please report this to our support team here: https://t.co/vlvfJr4nN9. ^HA,delivery,other,,3,5
+2541004,123345,2541006,@AmazonHelp ok sure,"Customer: @115850 I have been waiting for my order from Tuesday. And every time delivery guy is updating it as cant deliver. Can you check if I can have it today Order# 405-9315242-9640315
+AmazonHelp: @123345 I'm sorry to know about the delay. Kindly connect with us here: https://t.co/vlvfJr4nN9 we'd like to help. Also, please don’t provide your order details as we consider them to be personal info. Our page is visible to public. ^SG
+Customer: @AmazonHelp ok sure",@123345 Thank you :),delivery,acknowledgement,,3,5
+232433,171327,232435,@AmazonHelp Yes,"Customer: @115850 i ordered a dumbell set from B fit delivery day was 13th October then yesterday it was to be delivered by @171328 not got yet
+AmazonHelp: @171327 Have you reported this to our support team here: https://t.co/2t6DQoUmNZ ? (2/2)^HR
+Customer: @AmazonHelp Yes",@171327 Thanks. Our team will look into this right away. ^HK,delivery,investigation,,3,5
+764143,302620,764141,@AmazonHelp Yes,"Customer: Ordered an item from @115830 and said it will be delivered on the day of release. Arrange for somebody to be there and it's not delivered
+AmazonHelp: @302620 Did you receive an e-mail confirmation stating that it was dispatched? ^TR
+Customer: @AmazonHelp Yes",@302620 Can you confirm if Release Day Delivery was selected at checkout as stated here: https://t.co/l5CPWnpRaw Keep us posted! ^FR,delivery,other,missing_delivery,3,5
+233139,171495,233141,@AmazonHelp No reason.,"Customer: @115821 this is the second time my next day Prime order has taken more than the agreed next day delivery. #poor
+AmazonHelp: @171495 Sorry to hear about this. What does the tracking advise?: https://t.co/aaDyEz1VgE Was any reason given for a delay? ^PK
+Customer: @AmazonHelp No reason.",@171495 We'd like to look into our options with you. Please reach out to us by phone or chat here: https://t.co/qy3J24VGxb ^GR,delivery,investigation,,3,5
+2550251,164805,2550252,@AmazonHelp It arrived! 😀👷‍♂️,"Customer: @AmazonHelp Hi! It still says it is scheduled for delivery on October 29. Any ideas?
+AmazonHelp: @164805 We'd like to take a look into this with you. When you have the chance, please reach out to us here: https://t.co/JzP7hlA23B ^TH
+Customer: @AmazonHelp It arrived! 😀👷‍♂️",@164805 Thanks for letting us know! Have a great day! 😁 ^KJ,delivery,acknowledgement,,3,5
+2555148,725583,2555147,@AmazonHelp Yes reported already,"Customer: @115850 This is with regards to order # 407-3639445-9665967. Been a week since my scheduled delivery. Product is in chennai but yet to receive any kind of update on the delivery.
+AmazonHelp: @725583 Our apologies for the delayed delivery. Did you happen to report this to us, here: https://t.co/vlvfJr4nN9? Also, please don’t provide your details as we consider them to be personal information. Our Twitter page is visible to public. ^YP
+Customer: @AmazonHelp Yes reported already","@725583 In that case, please fill out this form: https://t.co/GIJyeYqKE0 and we'll look into this for you. ^AM",delivery,investigation,,3,5
+2553833,725305,2553835,@AmazonHelp No reason. https://t.co/qv2bJtya25,"Customer: @AmazonHelp And this was “prime” with original delivery date of November 15 by 8 PM
+AmazonHelp: @725305 Were you given a reason for the delay? We'd like to help! ^ZW
+Customer: @AmazonHelp No reason. https://t.co/qv2bJtya25","@725305 Have you had a chance to contact us at the link ^PK provided above? If so, what was advised? ^LB",delivery,other,,3,5
+852813,322590,852814,@AmazonHelp yes several times.,"Customer: @AmazonHelp yes. The delivery was scheduled on 20th October.
+AmazonHelp: @322590 Sorry about missing out on this delivery. May I know if you reported this to our support team here: https://t.co/vlvfJr4nN9? ^BS
+Customer: @AmazonHelp yes several times.","@322590 We'd like to get this checked, kindly share your details here: https://t.co/GIJyeYqKE0, and we'll reach out to you soon. ^MA",delivery,other,,3,5
+854482,322937,854483,@AmazonHelp But that didn't provide the solution,"Customer: @AmazonHelp Any updates??? It's been almost 3 weeks still haven't received my refund yet. worst amazon experience.
+AmazonHelp: @322937 We have sent you an email correspondence here: https://t.co/DTSNmGldJf. Kindly check. ^SY
+Customer: @AmazonHelp But that didn't provide the solution",@322937 Kindly reply to that email and we'll reach out to you accordingly. ^VN,delivery,other,missing_delivery|high_frustration,3,4
+244713,174124,244715,@AmazonHelp Earlier this morning,"Customer: @AmazonHelp hey I pre ordered Star Wars battlefront 2 and I still haven't received my beta code for Xbox one. Can you help out?
+AmazonHelp: @174124 Hi, thanks for reaching out! Can you let us know when you placed your order, Rayson? We're here to help in any way we can! ^FD
+Customer: @AmazonHelp Earlier this morning","@174124 I'm sorry, the Beta code is only available if the order was placed by October 1st. More info here: https://t.co/olGcrkGGR8 ^RA",delivery,other,missing_delivery,3,5
+840804,320042,840806,@AmazonHelp yes,"Customer: @AmazonHelp which correspondence? we have not received anything
+AmazonHelp: @320042 Hi, could you let us know if you've sent us your details via link mentioned earlier? ^AK
+Customer: @AmazonHelp yes","@320042 If you've shared your details, you should have received an email correspondence from our side. Kindly revert to the same.^AU",delivery,other,missing_delivery,3,5
+239516,133528,239517,@AmazonHelp I️ did that,"Customer: @AmazonHelp Still waiting on my package.
+AmazonHelp: @133528 We'd like to take a closer look at this with you. Please use the link provided by SH to reach out to us at your earliest convenience. ^LJ
+Customer: @AmazonHelp I️ did that",@133528 I understand how frustrating this can be and I apologize for it. Can you tell us what options were offered to you after you contacted us? Please keep us posted. ^CC,delivery,other,,3,5
+2530696,720370,2530698,@AmazonHelp Yes we have?!,"Customer: Hi @AmazonHelp we had this card left over the weekend but there is no parcel? No more information as to which order it relates to either? https://t.co/dDxgLr6Mcl
+AmazonHelp: @720370 Hello, I am very sorry to see this. Have you checked any/all safe place areas where the parcel might have been left? ^CR
+Customer: @AmazonHelp Yes we have?!",@720370 Can you contact us here: https://t.co/JzP7hlA23B? ^MC,delivery,other,,3,5
+2465147,481577,2465149,@AmazonHelp Yes,"Customer: What the hell is going on with @115830 what's the point in having Amazon prime for next day delivery if every time I get a message saying sorry your parcel has been delayed 😡🖕
+AmazonHelp: @481577 Hi John, I'm sorry to here this. Do you currently have an order that has been delayed? ^KK
+Customer: @AmazonHelp Yes","@481577 I am sorry to hear this, John. Can I ask have you reach out to our customer service team regarding this and if so, what was advised to you please? Thanks ^GA",delivery,phone_chat,,3,5

@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+1178046,397063,1178048,@AmazonHelp Yes,"Customer: @AmazonHelp I would think that that would be important information and that you should mislead your customers like that . Then I had to jump through
+AmazonHelp: @397063 I'm so sorry for this poor experience! Have you received an e-mail confirming a refund? If so, can you tell us the date? ^HS
+Customer: @AmazonHelp Yes",@397063 Thanks for letting us know you received the email confirming a refund is being processed. When did you receive the e-mail? ^NN,refund,acknowledgement,,3,5
+2945450,813612,2945451,@AmazonHelp Yes,"Customer: @AmazonHelp I finally managed to get through and get a refund for my purchases. And they even gave me a code..but it doesnt work lol
+AmazonHelp: @813612 I'm glad we were able to help! Without giving account specific details, was it a promotional credit that was given to you? ^HS
+Customer: @AmazonHelp Yes","@813612 Just to clarify Nikko, did we provide you with a code you can enter or did we let you know we were applying a promotional credit to your Amazon account? ^NN",refund,information,,3,5
+973607,350524,973608,@AmazonHelp OK,"Customer: @AmazonHelp Ur email datd 22nd Oct17 mentions dat Refund for Amazon.in order 407-3009023-2101957 for Amount Rs34,500 is successful bank but hv not recvd
+AmazonHelp: @350524 Please don't provide your order details, we consider it personal information. Our Twitter page is visible to public. ^MJ
+Customer: @AmazonHelp OK",@350524 Appreciate your cooperation. We will get back to you soon. ^BS,refund,other,,3,5
+910783,255259,910782,@AmazonHelp Ok,"Customer: @AmazonHelp Check attached.none showed up to take return.evelryday fooling me sayin 'll come today but same fake __email__ https://t.co/soWG8GDC8J
+AmazonHelp: @255259 Please don't provide your order details as we consider it personal info. Our twitter page is visible to public.(2/2) ^CB
+Customer: @AmazonHelp Ok","@255259 When you share the details, Prashant, we'll review them and assist you accordingly. ^MS",refund,investigation,,3,5
+877011,153246,877012,@AmazonHelp Yes,"Customer: @AmazonHelp Do you get money back from renting books through kindle?
+AmazonHelp: @153246 Hi! Just to clarify; are you referring to textbooks rentals? ^WT
+Customer: @AmazonHelp Yes","@153246 After your rental period, there are no refunds. The amount paid is the cost of the rental. ^JA",refund,refund_replacement,,3,5
+888249,330905,888250,"@AmazonHelp No new information besides that there was no redelivery info ie we're not getting a replacement, and that she didn't have access to Prime Now orders (it was a Prime Now support callback!) so couldn't order a replacement. No assurances about the lost discount or anything.","Customer: @AmazonHelp Okay, now it looks like we aren't getting our items (refunded -- doesn't help when an item was £20 off for Black Friday and I've now missed out on that deal) and support couldn't help at all. Not amused any more. No acknowledgment yet that it was an hour late &amp; I had to stay in.
+AmazonHelp: @330905 I'm very sorry to hear the item wasn't delivered, Jennifer! When you were speaking with support, what options or insight were they able to provide regarding the order? ^TH
+Customer: @AmazonHelp No new information besides that there was no redelivery info ie we're not getting a replacement, and that she didn't have access to Prime Now orders (it was a Prime Now support callback!) so couldn't order a replacement. No assurances about the lost discount or anything.",@330905 I'd like to have a member of my team take a closer look to see what options are available for your order. Please provide your order details for us here: https://t.co/795Ofy98LK ^MB,refund,investigation,explicit_human_request|failed_support|missing_delivery,3,3
+841754,320244,841755,@AmazonHelp yes i did,"Customer: @AmazonHelp u are of no help..till now sent 10 mails...same response..that u just cant return my money
+AmazonHelp: @320244 Just to confirm, did you happen to share your details with us using the secure link we had shared. Do keep us posted. ^CB
+Customer: @AmazonHelp yes i did",@320244 Thank you for sharing your details. We're working on this issue and will get in touch with you at the earliest. ^OS,refund,acknowledgement,,3,5
+420284,215183,420286,@AmazonHelp No mail received.,"Customer: @115850 @115850 @AmazonHelp Even after 3 reminders no response, is company of high value, don’t make refunds.
+AmazonHelp: @215183 Apologies. Kindly reply to our email correspondence with further query on this and we'll be happy to take it over from there ^AB
+Customer: @AmazonHelp No mail received.",@215183 That's odd. Let me check this out for you. Please drop your details here: https://t.co/96R6EevXWL and we'll reach out to you.^VM,refund,other,,3,5
+416701,214410,416703,@AmazonHelp No,"Customer: @AmazonHelp I want to cancel the order, please refund me the money. This is very poor from your side. Never keep your costumer on hold.
+AmazonHelp: @214410 Did you place a new order as requested? ^HK
+Customer: @AmazonHelp No","@214410 We'd like to take a closer look at this. Kindly fill in your details here: https://t.co/GIJyeYqKE0, I'll look into it. ^NR",refund,investigation,,3,5
+1241779,411288,1241780,"@AmazonHelp i tried it, nothing happened.","Customer: @AmazonHelp I have already replaced the battery and yet nothing... I tried everything. At the moment I’m using my phone as the remote.
+AmazonHelp: @411288 On the fire stick remote, hold the Home button for up to 10 seconds and then try the remote again. Let us know if this helps! ^DG
+Customer: @AmazonHelp i tried it, nothing happened.","@411288 Do you have another Fire TV device in the house? If so, the remote may need to be reassigned. Please let us know! ^LB",refund,acknowledgement,explicit_human_request|failed_support,3,4
+1280548,419624,1280550,@AmazonHelp ok :(,"Customer: @115850 when u place order payment reaches to amazon @ lightening speeds &amp; takes 4-5 working days to reach back if refunds are GRANTED ?
+AmazonHelp: @419624 I understand what makes you say that. However, the timelines are provided as per the bank's policies. ^SU
+Customer: @AmazonHelp ok :(",@419624 I'll surely forward this as feedback internally and we'll work on it. ^SQ,refund,information,,3,5
+1016721,360558,1016723,@AmazonHelp I'm still waiting,"Customer: @115830 @AmazonHelp I've received the confirmation for my refund, but it's been more than 1w that I'm waiting for the money in my account.
+AmazonHelp: @360558 Sorry for the trouble! Some refunds may take up to 14 business days to reach your account. Please keep us updated. ^VB
+Customer: @AmazonHelp I'm still waiting",@360558 We'd like to take a closer look at this. Please reach out to us here: https://t.co/JzP7hlA23B ^LJ,refund,investigation,,3,5
+2389711,183117,2389712,@AmazonHelp Yes,"Customer: @AmazonHelp @115850 5 mins back received order. Why sending damaged product? Order Id: 408-1966445-1659532. It's clearly mentioned on the pack as ""Customer Damage"" then also sending to customer. Poor service. What's the meaning of amazon fulfilled service. Replace it. https://t.co/BmFg25rMj0
+AmazonHelp: @183117 I'm sorry to know that the product you've received is damaged. May I know if you've reported this to our support team here: https://t.co/vlvfJr4nN9 ? ^EM
+Customer: @AmazonHelp Yes",@183117 Please get back to us if you feel that your query was unaddressed. ^BV,refund,other,,3,5
+2378634,679211,2378637,@AmazonHelp See this https://t.co/wYg4qwaKtM,"Customer: @115850 Done I don't want a replacement do not give me that option I want my refund that is it
+AmazonHelp: @679211 I'm sorry, we've not yet received your details. Kindly drop in your information again through the link provided earlier. ^EM
+Customer: @AmazonHelp See this https://t.co/wYg4qwaKtM",@679211 Thank you for sharing the details. We shall connect with you soon. ^SH,refund,acknowledgement,,3,5
+2361831,302782,2361830,@AmazonHelp No I didn’t.,"Customer: @AmazonHelp The original tracking says it was delivered to me Friday night, I was not in, then I spoke to Preeti yesterday via web chat and they said they’d get one out to be delivered today. It’s an item I needed for work today!
+AmazonHelp: @302782 After the web chat yesterday, did you receive an email with information about the replacement order? ^CH
+Customer: @AmazonHelp No I didn’t.","@302782 I can understand why you're frustrated, Tamsin! While we can't access order details via Twitter, we want to ensure the delay is addressed. Please reach us once more via phone/chat here: https://t.co/JzP7hlA23B ^CS",refund,phone_chat,explicit_human_request,3,5
+191533,161021,191535,@AmazonHelp no new one,"Customer: @AmazonHelp the seller said they sent me a replacement for a broken product but it does not show anything on the site
+AmazonHelp: @161021 Did the seller provide a new tracking number for you ? ^DD
+Customer: @AmazonHelp no new one","@161021 Have you contacted the seller about new tracking info yet? If not, here's some tips on how to do so: https://t.co/BwnNMIWb7B ^TG",refund,other,,3,5
+191702,161050,191701,@AmazonHelp No concrete reply..,"Customer: @AmazonHelp No correspondence received...r u guys joking wid us or what..damn idiots..I want my order replacement by 2morrow at ny cost or c u at court
+AmazonHelp: @161050 from the account that was used to place the order. [2/2] ^SK
+Customer: @AmazonHelp No concrete reply..",@161050 We definitely have a look in to this. Please share your details through the link provided earlier so that we can assist you. ^NK,refund,other,,3,5
+42477,125385,42478,@AmazonHelp Nothing at all.,"Customer: @AmazonHelp I talked to some “Pramod” that told me I’d have my money back in a hour and I never got it
+AmazonHelp: @125385 What does the refund status show here: https://t.co/XBWSa9QDRR? ^BA
+Customer: @AmazonHelp Nothing at all.","@125385 Our team would like to take a closer look at this for you, please send us your info via this link: https://t.co/QeZQd8r9dx ^SH",refund,investigation,,3,5
+2561991,727098,2561993,@AmazonHelp Yes,"Customer: @AmazonHelp do people usually have to wait 3 weeks for a refund?
+AmazonHelp: @727098 I'm sorry your refund's taking so long! To clarify, was this a refund for a return? ^MW
+Customer: @AmazonHelp Yes",@727098 Refunds take about 3-5 days once we receive a return and it has been processed. What does the tracking for the return show here: https://t.co/Y5jpI9gRhE? ^TR,refund,refund_replacement,,3,5
+2543898,364344,2543897,@AmazonHelp Submitting it again.,"Customer: @AmazonHelp Amazon I am not sure why my query is not being followed up. I am feeling frustrated as my request for Kindle Replacement hasn't been carried out. I contacted customer care twice yet no one has come back!!
+AmazonHelp: @364344 Apologies, Dineshotham. Could you confirm If you've shared your details through the link that was provided here: https://t.co/KnYnYx8Tr7 ? ^NK
+Customer: @AmazonHelp Submitting it again.","@364344 Thank you for sharing the details, we'll get back to you soon. ^SU",refund,acknowledgement,high_frustration,3,5
+160294,152932,160295,@AmazonHelp Yes,"Customer: @AmazonHelp Just now I talked to your team and the option was wait for another three days. Even I told them every time that I won't be in city after two days then they are saying this only that they can't help
+AmazonHelp: @152932 I understand your frustration! To clarify, is it the replacement order which shows as delivered but it isn't there? ^SJ
+Customer: @AmazonHelp Yes","@152932 Thank you. Without providing account sensitive information, could you tell us the marketplace your ordered from and the carrier that was listed for delivery? ^TE",refund,information,,3,5
+180112,158387,180114,@AmazonHelp No use https://t.co/oXWhKy5G6m only!!,"Customer: @115821 My shipment is supposed to arrive yesterday 3 Oct and I do not know why the delay was so much damaged by the delay of the shipment. https://t.co/3GU7MUmrvw
+AmazonHelp: @158387 Hi, sorry for the delay. Which website did you place the order on Amazon .com/.co.uk etc? ^TP
+Customer: @AmazonHelp No use https://t.co/oXWhKy5G6m only!!",@158387 Thanks for the information! Please reach out here: https://t.co/hApLpMlfHN so we can take a look at the order in real time. ^AH,refund,acknowledgement,,3,5
+2462179,704887,2462182,@AmazonHelp yes,"Customer: @AmazonHelp since last one and a half month m struggling to replace my order after so many msgs there is no action from ur side Now wt nxt
+AmazonHelp: @704887 I'm sorry about the defective item delivered and pending return. Kindly share your details here: https://t.co/beaaDm0muc and we'll help. ^GK
+Customer: @AmazonHelp yes",@704887 I'm sorry about the stretch. You may respond to the email correspondence sent by us. We'll get back with an update. ^SB,refund,information,,3,5
+2678022,203470,2678023,@AmazonHelp Still no response🔥,"Customer: @AmazonHelp Been tryng wid d above process since mrng n it keep saying we were unable to find ur order... cant even contact any executive member? B4 proceeding 2 to customer care executive d call cut off.. after saying d we were unable....... .
+AmazonHelp: @203470 We'd like to have this refund issue checked and assist you. Kindly share your details here: https://t.co/beaaDm0muc and we'll get back to you at the earliest. ^MO
+Customer: @AmazonHelp Still no response🔥",@203470 That's strange. Could you please check for our response here: https://t.co/NTkrxpsbHJ? Do keep us posted. ^AM,refund,information,,3,5
+2722646,286355,2722648,@AmazonHelp Yes,"Customer: @115821 @AmazonHelp I ordered a TV from you 26 October, it didn’t arrive and I still haven’t had my money back or any compensation to make up for this? Now for the last month I have had no working TV and I’m £300 down 😑
+AmazonHelp: @286355 Hello Fenella, are you awaiting for your refund after you contacted us? ^BD
+Customer: @AmazonHelp Yes","@286355 Hi, when you were advised that you would be receiving your refund did the agent you spoke with provide you with a timescale? ^TI",refund,refund_replacement,,3,5
+2761281,772573,2761283,@AmazonHelp OK thank you,"Customer: @115850 DEAR SIR MY ORDER # 405-0760175-6164324 HAS BEEN RETURNED TO YOU BUT I HAVE NOT GOT REFUND FOR THIS PLEASE REFUND ME SOON
+AmazonHelp: @772573 I understand your concern regarding the refund. Please reach out to us here: https://t.co/vlvfJr4nN9 and we will help you. Please don’t provide your order details as we consider them to be personal info. Our page is visible to the public. ^AH
+Customer: @AmazonHelp OK thank you",@772573 You are most welcome! Do keep us posted if any further concerns. ^SF,refund,other,,3,5
+2813562,713395,2813564,@AmazonHelp Here you go! https://t.co/oGBaCAGXG7,"Customer: Well that's odd @115821. I didn't know replacement #Roku controllers were made out of Shiitake salt. #StrangeButTrue? 😁 https://t.co/qyKSlUezNj
+AmazonHelp: @713395 That's really strange! I was unable to find that listing; would you let us know the URL or ASIN, if you have a moment? ^AM
+Customer: @AmazonHelp Here you go! https://t.co/oGBaCAGXG7","@713395 Hi, Manny! Thank you so much for bringing this to our attention. I have reported the incorrect product images to our team so that they can look into it. ^NS",refund,investigation,,3,5
+49924,127182,49925,@AmazonHelp That should do.,"Customer: @AmazonHelp Over 50 orders. More than a hundred books. Not a single free bookmark. I'm heartbroken, Amazon! :(
+AmazonHelp: @127182 I get your disappointment, Jenny. As mentioned earlier, I will forward your feedback to our team internally for a review. ^NK
+Customer: @AmazonHelp That should do.",@127182 Appreciate your understanding. :) ^NK,refund,other,,3,5
+723971,293373,723973,@AmazonHelp no mail received,"Customer: @AmazonHelp Yes but refund isn't credited yet as per timeline hence complaining
+AmazonHelp: @293373 I understand your concern I request you to reply to the email sent form us. Vaishnavi | Amazon Customer Service
+Customer: @AmazonHelp no mail received",@293373 We have sent a correspondence here: https://t.co/8DAc10S7ww kindly check and revert. ^AH,refund,other,,3,5
+1661493,453989,1661495,@AmazonHelp Yes i did,"Customer: I had returned one item a month back but still haven't received the reimbursement yet! @AmazonHelp @115850
+AmazonHelp: @453989 I understand your concern regarding refund. Could you please confirm if you have shared details in link provided earlier? ^VH
+Customer: @AmazonHelp Yes i did","@453989 In that case, you will receive an email revert from our team here: https://t.co/ENGMo6A5FB ^RW",refund,information,missing_delivery,3,5
+1668274,387750,1668273,@115821 @1016 @119736 @21988 still waiting... https://t.co/755Q7Ki5tu,"Customer: Return my money back MOTHERFUCKERS I repeat @115821 @1016 @119736 @21988 https://t.co/5MXNIpgkch
+Customer: @115821 @1016 @119736 @21988 Τον παίζω, τον παίζω... #bezos Σας ευχαριστούμε που μας επιστρέψατε τα κλεμμένα! Αυτή είναι εξυπηρέτηση... @115821 https://t.co/Ox82nfM9KV
+Customer: @115821 @1016 @119736 @21988 still waiting... https://t.co/755Q7Ki5tu","@387750 Hey, how long ago was the refund issued? ^AT",refund,refund_replacement,,3,5
+318662,192020,318664,@AmazonHelp Yes,"Customer: @115850 #JEFFBEZOS Returned a product on 27th aug. Refund not yet received.Thank u fr keeping the money with u.
+AmazonHelp: @192020 I'm sorry for the delay with the refund. May I know if you've forwarded your details in the link provided earlier? ^EM
+Customer: @AmazonHelp Yes",@192020 Thanks for the update. We'll check and get back to you at the earliest with an update. ^HA,refund,acknowledgement,,3,5
+281193,183000,281194,@AmazonHelp Ok thank u,"Customer: @AmazonHelp I want oppo fls r vivo v5 Mobil but my Yu Yunicorn mobile should I exchange
+AmazonHelp: @183000 Buyback partners for that location. Please be assured that we are continuously working to expand our selection. 2/2 ^KA
+Customer: @AmazonHelp Ok thank u",@183000 You're welcome. ^HR,refund,acknowledgement,,3,5
+341581,119904,341579,@AmazonHelp No mail received.,"Customer: @AmazonHelp It's last time I request you about the product that I received was without complete contents in it. Will return the product if not helped
+AmazonHelp: @119904 Apologies for the hassle, we've sent an email to your registered email ID. Please check &amp; reply, we'll help you fix this.^AH
+Customer: @AmazonHelp No mail received.",@119904 Our team have certainly replied to you via email to your registered email address. Request you to check again. ^RS,refund,other,,3,5
+1506323,469582,1506322,@AmazonHelp Yes I have!,"Customer: @115851, its just an atom of your salary, the money that your company @115821 is holding from me... Plz return me my money!! #Amazon #AmazonIndia #wheresthemoney #my600rs #refundme
+AmazonHelp: @469582 I get your concern, please confirm if you've shared your details on the link requested here: https://t.co/Ht8KAiSIUi. ^PS
+Customer: @AmazonHelp Yes I have!",@469582 Thank you for sharing the details. We'll work on the concern and reach out to you soon. ^AP,refund,acknowledgement,,3,5
+359224,201075,359225,@AmazonHelp Ok thank u,"Customer: @AmazonHelp Pls... I did contact but they say to return. Pls see any other alternative or else i have to be happy with the half product i have
+AmazonHelp: @201075 I'd request you to go with the best available option, suggested by our support team. We'd appreciate your understanding. ^MA
+Customer: @AmazonHelp Ok thank u",@201075 You're welcome. Appreciate your understanding. Do keep us posted for further concerns. ^HD,refund,acknowledgement,,3,5
+1437454,453687,1437456,@AmazonHelp Computer says no,"Customer: @120474 Can we return the alexandra palace ones and buy these instead please? I know it says "" no returns, not refundable"" but you messed up
+AmazonHelp: @453687 I'm sorry, but tickets aren't able to be exchanged. More information can be found here: https://t.co/ZyeAv0skMY ^GR
+Customer: @AmazonHelp Computer says no",@453687 Thanks for the update. Please call us by selecting Contact Us via the link ^GR provided. Keep us posted on the outcome. ^CO,refund,acknowledgement,,3,5
+1356290,436242,1356292,@AmazonHelp No not yet,"Customer: @115821 Dear amazon can you explain to me the difference please !!? https://t.co/UC9XZdMZlE
+AmazonHelp: @436242 Hi, Karim! Did you receive the wrong item? Please let us know. ^LM
+Customer: @AmazonHelp No not yet","@436242 Could you tell us more about the issue you're having? We're happy to assist, but need more information. ^NN",refund,information,,3,5
+1398457,445209,1398458,@AmazonHelp Okay thanks!,"Customer: @AmazonHelp I bought it through Amazon
+AmazonHelp: @445209 If you would like to return or replace the game, please use the link provided by ^VS. ^BA
+Customer: @AmazonHelp Okay thanks!",@445209 Sure thing! We're always here and happy to help when you need us! ^JE,refund,acknowledgement,,3,5
+1973508,584461,1973511,@AmazonHelp Yes https://t.co/nKCQkHYn6z,"Customer: @115821 first time using pantry. Strike that...Last time using pantry if items show up like this. https://t.co/wpn6kKOzlh
+AmazonHelp: @584461 I'm sorry your order arrived in that condition! Are there any damaged items in the order? ^DD
+Customer: @AmazonHelp Yes https://t.co/nKCQkHYn6z",@584461 I'm so sorry for this! You can view you options for the damaged shipment in our Return Center: https://t.co/hxU0pTIeDu ^MJ,refund,refund_replacement,,3,5
+2049845,193221,2049846,@AmazonHelp Same on both,"Customer: @AmazonHelp Well it's a defective echo return and they were both sent to me in one box so I only have the one
+AmazonHelp: @193221 Do both labels show the same return address? If not, they will need to be returned separately in any box that will fit. ^MV
+Customer: @AmazonHelp Same on both",@193221 Just to make sure we give the correct information let's look into this in real-time by phone or chat: https://t.co/hApLpM3Ejd ^TG,refund,investigation,,3,5
+2104936,526979,2104934,@AmazonHelp They’re investigating it,"Customer: Got a replacement case from @115830 and it’s still the wrong one🙃🙃🙃
+AmazonHelp: @526979 I am very sorry to hear this, can I ask for you to contact our Customer Service on https://t.co/JzP7hlA23B. Thanks ^GA
+Customer: @AmazonHelp They’re investigating it",@526979 Thanks for keeping us posted on Holly. Have you been provided a time frame for this investigation? ^NV,refund,acknowledgement,,3,5
+31401,122922,31403,@AmazonHelp No,"Customer: @115830 I've been waiting for a parcel that was meant to arrive on Monday, to log in to my orders today to find that it is being returned
+AmazonHelp: @122922 Did you get any email confirmation about this return? ^KM
+Customer: @AmazonHelp No",@122922 Oh no! Sometimes parcels are returned to us as undeliverable. You can read more about it here: https://t.co/pIA6sR0X1L ^TG,refund,refund_replacement,,3,5
+197965,162537,197964,@AmazonHelp Yes I did.,"Customer: @AmazonHelp @115851 Didn't receive call from mobile team as promised in the correspondence mail. Such poor service. Initiate refund.
+AmazonHelp: @162537 Sorry for the hassle. Could you please confirm if you've shared your details in the link shared earlier? ^HN
+Customer: @AmazonHelp Yes I did.","@162537 Thanks for confirming, you must've received an email, you can check that here: https://t.co/deS2TU9Xfp kindly take a look. ^MS",refund,acknowledgement,,3,5
+737993,169199,737995,@AmazonHelp What does this mean???,"Customer: @AmazonHelp REFUND.. it's on mail ...
+AmazonHelp: @169199 We'd like to look into this. Please reach us by reverting the email from Social Media Specialist. ^HA
+Customer: @AmazonHelp What does this mean???","@169199 If you wrote to us, must have received our response here : https://t.co/DTSNmGldJf . Do check for the same. ^CB",refund,other,,3,4
+728502,294490,728501,@AmazonHelp Okay great thank you,"Customer: @AmazonHelp I just want 1 and would like a refund on the 2nd but does that mean I can't open the box if they come in one package and start from scratch
+AmazonHelp: @294490 Hey, you can just return one and you should get a refund for it and keep the second one. ^AS
+Customer: @AmazonHelp Okay great thank you",@294490 You're welcome. ^NV,refund,acknowledgement,,3,4
+737993,169199,737994,@AmazonHelp What does this mean???,"Customer: @AmazonHelp REFUND.. it's on mail ...
+AmazonHelp: @169199 We'd like to look into this. Please reach us by reverting the email from Social Media Specialist. ^HA
+Customer: @AmazonHelp What does this mean???",@169199 Allow our support team to investigate this. You can report this here: https://t.co/R3EfhzgU8B. -Bikram,refund,investigation,,3,4
+679905,216161,679906,@AmazonHelp I have already did this,"Customer: @115821 How many days, months or year I have to wait for my refund
+AmazonHelp: @216161 Kindly confirm if the details were filled through the secured link provided earlier? I would request you to do, if not done yet. We would investigate as soon as we receive the details and connect with you shortly. ^KK
+Customer: @AmazonHelp I have already did this","@216161 Thanks for confirming. In that case, you should've received a correspondence from us. Kindly check here: https://t.co/8DAc10S7ww and reply. We'll check and reach out to you accordingly. ^VN",refund,acknowledgement,,3,4
+788992,308151,788994,@AmazonHelp what is my mistake on it,"Customer: @115850 @AmazonHelp bad bad service now a days my 4 product return in transit even u paid it in advance i want that product....
+AmazonHelp: @308151 I'll ensure to share your comments internally to work on (2/2) ^CB
+Customer: @AmazonHelp what is my mistake on it","@308151 Sorry for the inconvenience, I'll be sure to forward your feedback internally for further improvements. ^PS",refund,information,,3,4
+682488,282889,682489,@AmazonHelp Checked my email. No resolution yet.,"Customer: @AmazonHelp your site mentions returns till 10 days on prod pg. Details of defects shared over email and earlier tweets. Refer screenshot and help.... https://t.co/UV8V64wLSM
+AmazonHelp: @282889 We've sent an email correspondence to your registered account. Please refer the same. ^HK
+Customer: @AmazonHelp Checked my email. No resolution yet.",@282889 Could you please check here: https://t.co/8DAc10S7ww and let us know about our email? ^HA,refund,information,,3,4
+774216,304954,774217,@AmazonHelp @115850 @115821 @AmazonHelp still no resolution ...,"Customer: @AmazonHelp @115821 @AmazonHelp @115850 customer care executives are behaving like Dons .. insisting me for refund ...pls reply
+AmazonHelp: @304954 We're working on this, Chetan. We'll reach out to you soon with an update. ^KC
+Customer: @AmazonHelp @115850 @115821 @AmazonHelp still no resolution ...",@304954 We've sent a correspondence to your registered email Id here: https://t.co/NTkrxpsbHJ. Kindly check. ^PS,refund,other,,3,4
+862522,324801,862524,@AmazonHelp That already tired one,"Customer: @115850 @AmazonHelp #cheating careless orderd 5738 received 3738 replacement is also the same #AmazonEffect #bechoaurbhago https://t.co/TalRcEL43r
+AmazonHelp: @324801 I'm sorry about the trouble with your order. We'd like to help, kindly connect with us here: https://t.co/vlvfJr4nN9 1/2
+Customer: @AmazonHelp That already tired one",@324801 Apologies. I’d like to assist you. Please fill this form: https://t.co/beaaDm0muc and I’ll contact you at the earliest. ^NK,refund,other,,3,4
+862526,324801,862528,@AmazonHelp Again you did the same replacement https://t.co/Sx3gh98q4O,"Customer: @AmazonHelp But your replacement team don't bother to read the message which I had written at the time of first replacement
+Customer: @AmazonHelp And also seehow good is the packing of the product
+Customer: @AmazonHelp Again you did the same replacement https://t.co/Sx3gh98q4O",@324801 Request you to please fill the form provided to you earlier and we'll get back to you soon. ^SU,refund,other,,3,4
+650069,274546,650070,@AmazonHelp That is what I have been doing. They are not helpful. That is why I cancelled my prime and told them I would be returning the orders.,"Customer: @AmazonHelp This was the email I received and now I can’t see the tracking info. I also don’t have the items to return for a refund. https://t.co/AiVnhtxRfw
+AmazonHelp: @274546 Please try reaching us directly via chat/phone so we may look into this for you. We would not have access to your account via Twitter. Here is the link: https://t.co/hApLpMlfHN ^CR
+Customer: @AmazonHelp That is what I have been doing. They are not helpful. That is why I cancelled my prime and told them I would be returning the orders.","@274546 I can appreciate your frustration, were you provided with details on how to return? ^BZ",refund,refund_replacement,explicit_human_request|failed_support,3,3
+675241,281039,675240,@AmazonHelp it is 2 day ago report,"Customer: @115850 sir please help me i am purchase amazon price 9997 but problem refund amount 9997 10.11.2017 after refund 16.11.2017 9997 amount debit whith out my permision. how it possibel. what is the privacy?a copy send sbi
+AmazonHelp: @281039 I'm sorry, did you report about this to our customer service team? ^SI
+Customer: @AmazonHelp it is 2 day ago report",@281039 Let us take a closer look at this. Please provide your details here: https://t.co/beaaDm0muc and we'll assist you in it. ^SF,refund,investigation,,3,4
+605185,155883,605186,@AmazonHelp This was eligible actually,"Customer: @AmazonHelp Absolutely no help whatsoever! Won’t send new items to replace the damaged ones! Disgraceful behaviour from amazon!
+AmazonHelp: @155883 Not all items are eligible for a replacement: https://t.co/jAu1ccOxJD Were we able to assist you with a return for a refund? ^CO
+Customer: @AmazonHelp This was eligible actually",@155883 If your item is eligible to be replaced you can view replacement options with us here: https://t.co/VSZsx1hDU7 ^KP,refund,refund_replacement,,3,4
+883014,122721,883012,"@115821 So, now explaining it for a fifth time to get another agent. Who still doesn’t get it.","Customer: VERY frustrated with @115821. Been trying to resolve a gift return for weeks and STILL don’t have all the $$ back. And dd has no bday gift.
+Customer: @115821 Have now spoken to 5 different agents, and no one seems to understand. I was supposed to receive my refund by today and it’s not there.
+Customer: @115821 So, now explaining it for a fifth time to get another agent. Who still doesn’t get it.",@122721 We'd like to have a member of our team look in to this! Leave your info here: https://t.co/gZv6vU0Qyy Keep us posted! ^KN,refund,other,explicit_human_request|high_frustration,3,3
+2956896,816228,2956895,@AmazonHelp Of course! It was https://t.co/ceeMKHWL4f,"Customer: @AmazonHelp Hi there! Can you help me out with an order that I need to return but I'm not 100% sure how to proceed?
+AmazonHelp: @816228 We'd love to help! Can you tell us which marketplace you purchased from? Was it https://t.co/nUUp5MLhYl, .co.uk,? ^AC
+Customer: @AmazonHelp Of course! It was https://t.co/ceeMKHWL4f",@816228 Great! Thank you for the information! You can initiate a return for you order by going here: https://t.co/tDga8ZfFsv. ^AL,refund,information,,3,4
+903645,334513,903646,@AmazonHelp It was shipped by Amazon,"Customer: @AmazonHelp I ordered a makeup organizer &amp; it came chipped. Don't really want to go thru the exchange process, do you do partial refunds?
+AmazonHelp: @334513 Oh no! I'm sorry your makeup organizer came chipped! We'd like to help. Just to confirm, was it said to be shipped by Amazon (1/2)
+Customer: @AmazonHelp It was shipped by Amazon","@334513 Thanks for confirming! Please reach us by phone here: https://t.co/hApLpMlfHN, for avail options. ^JM",refund,phone_chat,,3,4
+590029,259509,590030,@AmazonHelp Apparently Barbara is working on it,"Customer: @AmazonHelp https://t.co/n5pdl6VVSj
+AmazonHelp: @259509 We're unable to access your account details via Twitter, but we'd like to help! If a refund is issued, you would be able to place a new order. Let us know if this helps! ^ZW
+Customer: @AmazonHelp Apparently Barbara is working on it",@259509 Awesome! Let us know what information or options are given to you. We're here to help! ^MH,refund,information,,3,4

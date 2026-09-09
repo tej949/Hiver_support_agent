@@ -1,0 +1,181 @@
+customer_tweet_id,customer_author_id,brand_tweet_id,current_customer_message,conversation_context,historical_brand_response,candidate_intent,candidate_action,escalation_signals,context_turn_count,ambiguity_score
+1071122,358424,1071124,@AmazonHelp This helped! Thanks!,"Customer: My Amazon Firestick won't load the home screen and I have tried everything. Love my life. 🙃🙃🙃
+AmazonHelp: @358424 We'd like to help, if we may! Have you tried all of these steps: https://t.co/FNNUxQO9cm to fix it? Let us know! ^JE
+Customer: @AmazonHelp This helped! Thanks!","@358424 Excellent news! 😁 Really, I'm glad to hear I was able to assist! We'll always here for you if you need us! ^JE",information,acknowledgement,failed_support,3,5
+527155,242012,527156,@AmazonHelp yes 3 times....,"Customer: @AmazonHelp https://t.co/Xgr0HmMPi3
+AmazonHelp: @242012 Have you used the 'Contact Seller' option provided within your order details? For more information, please refer to the following: https://t.co/Uzys6m2vUQ ^WM
+Customer: @AmazonHelp yes 3 times....","@242012 Did they provide any information for the order? You can check for responses in your message center: https://t.co/7b7HXsDsDs. If they haven't responded within 48 hours of your message, you can file an A-to-z Guarantee: https://t.co/S237qXfrkp ^KB",information,information,,3,5
+382738,206717,382739,@AmazonHelp Did that yesterday...,"Customer: @AmazonHelp Hi still nothing from @115850 . Why are you being #paapkidukaan?☹️
+AmazonHelp: @206717 I get your disappointment. Could you please confirm, submitting your details using the link shared earlier? ^MP
+Customer: @AmazonHelp Did that yesterday...","@206717 As you've shared your details in the link, we'll check and get back to you with an update. ^MK",information,other,,3,5
+1073734,371737,1073735,@AmazonHelp Yes,"Customer: @AmazonHelp Today a representative came to pick up consignment and ran away without taking it back. Its disgusting ... it looks we are cheated ...
+AmazonHelp: @371737 Could you please confirm if you've provided the details in the link provided above ? ^SU
+Customer: @AmazonHelp Yes","@371737 Thank you for confirming Rohit, our team will get back to you at the earliest. ^MD",information,acknowledgement,,3,5
+1076366,373978,1076367,@AmazonHelp Yes,"Customer: @AmazonHelp @115851 Dear Sir, need your intervention as I am chasing Amazon.in from last 13 days but they are unable to provide any resolution. ☹️
+AmazonHelp: @373978 Sorry about the stretch, Sanchit. Could you please confirm if you've shared the details in the link (1/2) ^MO
+Customer: @AmazonHelp Yes","@373978 If you have shared your details with us, you can find our correspondence here : https://t.co/DTSNmGldJf . Hope this helps. ^CB",information,information,,3,5
+1085469,376053,1085472,@AmazonHelp it has not*,"Customer: clock’s tickin’ @115821 https://t.co/dkZ1hx6lPT
+AmazonHelp: @376053 Thanks for reaching out. Please let us know if the order does not arrive by the time stated. ^GG
+Customer: @AmazonHelp it has not*",@376053 I'm so sorry for the delay! Can you tell us who the carrier is listed here: https://t.co/Y5jpI9gRhE? ^AG,information,other,,3,5
+381969,206573,381970,@AmazonHelp Yes,"Customer: @AmazonHelp I don't care about what you think about it, I care about the whereabouts of my order
+AmazonHelp: @206573 Did you drop in your details through the secure link above? ^NS
+Customer: @AmazonHelp Yes",@206573 Thanks. We'll check and revert at the earliest. ^HK,information,acknowledgement,,3,5
+1099280,378251,1099281,@AmazonHelp Ok,"Customer: @AmazonHelp Till when my problem will resolve.
+AmazonHelp: @378251 I just checked and we've received your details, please allow us some time and we'll reach out to you. ^KA
+Customer: @AmazonHelp Ok",@378251 Thank you for understanding. ^AP,information,acknowledgement,,3,5
+1100963,379755,1100965,@AmazonHelp Here you go https://t.co/jH1jOWeSx1,"Customer: @115850 Trying to order a mobile in the app. But the item is not deliverable to pincode 586203. Emailed your team and not satisfied.
+AmazonHelp: @379755 Sorry for any disappointment, could you tell me what was the update shared with you ? ^HT
+Customer: @AmazonHelp Here you go https://t.co/jH1jOWeSx1",@379755 address (family and friends). I'll be sure to forward your feedback to the concerned team internally. 3/3^AP,information,information,,3,5
+1100963,379755,1100966,@AmazonHelp Here you go https://t.co/jH1jOWeSx1,"Customer: @115850 Trying to order a mobile in the app. But the item is not deliverable to pincode 586203. Emailed your team and not satisfied.
+AmazonHelp: @379755 Sorry for any disappointment, could you tell me what was the update shared with you ? ^HT
+Customer: @AmazonHelp Here you go https://t.co/jH1jOWeSx1",@379755 some products to certain pin-codes. I'd request you to try placing the order to a different 2/3^AP,information,other,,3,5
+1100963,379755,1100967,@AmazonHelp Here you go https://t.co/jH1jOWeSx1,"Customer: @115850 Trying to order a mobile in the app. But the item is not deliverable to pincode 586203. Emailed your team and not satisfied.
+AmazonHelp: @379755 Sorry for any disappointment, could you tell me what was the update shared with you ? ^HT
+Customer: @AmazonHelp Here you go https://t.co/jH1jOWeSx1","@379755 I understand your disappointment with the situation. While we're expanding our services, we aren't able to ship 1/3^AP",information,other,,3,5
+1101932,380009,1101933,@AmazonHelp No i havent,"Customer: @AmazonHelp I dont think it was, i dont normally tick the box for gifts but i will in future
+AmazonHelp: @380009 Have you spoken to us directly via: https://t.co/JzP7hlA23B to see what options we have available? ^NV
+Customer: @AmazonHelp No i havent",@380009 This would be the best step. You can use the link previously provided to get in touch. ^DC,information,information,,3,5
+377945,205681,377946,@AmazonHelp Once again https://t.co/CovGNVQxlh,"Customer: @AmazonHelp I did and the message that appeared was “this service is unavailable”
+AmazonHelp: @205681 Sorry about that, please try this link instead: https://t.co/hApLpMlfHN ^MG
+Customer: @AmazonHelp Once again https://t.co/CovGNVQxlh",@205681 I'm sorry you're experiencing trouble with this feature! Please try giving us a call directly at 866-216-1072. ^PF,information,other,,3,5
+1042230,366431,1042231,@AmazonHelp No it's partial,"Customer: @AmazonHelp This is partiality! I don't agree with the resolution provided.
+AmazonHelp: @366431 I understand your concern. However, the resolution provided to you is the best at this point of time. ^AP
+Customer: @AmazonHelp No it's partial","@366431 I'm sorry to hear this. In this case, I'd request you to reply to the email sent by our team, we'll get back to you soon. ^AP",information,other,,3,5
+1115370,118356,1115371,@AmazonHelp No new message...,"Customer: @AmazonHelp I have shared my details 100 times only to get reply please wait!! I can't wait now ..Enough of testing my patience
+AmazonHelp: @118356 We've sent the correspondence to your registered email ID. Kindly check it here: https://t.co/8DAc10S7ww ^GK
+Customer: @AmazonHelp No new message...",@118356 We have checked it from our end and see that a reply has been sent. Kindly check for a reply sent from (1/2)^HR,information,other,,3,5
+1119126,119350,1119127,@AmazonHelp Okay thanks,"Customer: @AmazonHelp I didn't any link . It just said if you want to cancel it
+AmazonHelp: @119350 I'm sorry about that. Please fill this form: https://t.co/beaaDm0muc and I’ll contact you at the earliest. ^NK
+Customer: @AmazonHelp Okay thanks",@119350 It is our pleasure assisting you. Do let us know in case you face any further issues. ^KS,information,other,,3,5
+1120442,384341,1120443,@AmazonHelp Yes,"Customer: @AmazonHelp I have done all possible things. Gave feedback, made calls, written complains but no one has a damn idea about my order. And it sucks
+AmazonHelp: @384341 Apologies for the ordeal you went through. May I know if you've shared your details through the link provided earlier? ^EM
+Customer: @AmazonHelp Yes","@384341 Thanks for that, Aditya. We'll review the same and get in touch with you soon. ^JC",information,acknowledgement,,3,5
+369168,203470,369166,@AmazonHelp No updates?,"Customer: @AmazonHelp Told me to wait till 20th but still unsoved?
+AmazonHelp: @203470 I understand you're disappointed. Please respond to the email correspondence that was sent by the social media team for further assistance. Appreciate your understanding. ^NK
+Customer: @AmazonHelp No updates?",@203470 You'd have received a correspondence from our team. Kindly check it here: https://t.co/8DAc10S7ww ^EM,information,other,,3,5
+1127364,385791,1127363,"@AmazonHelp yes, it is.","Customer: @AmazonHelp Then maybe you can help us out. A review was removed, is now back, along with the original comments on the review.
+AmazonHelp: @385791 Hi, sorry to hear that, is it a review from the same reviewer? ^AS
+Customer: @AmazonHelp yes, it is.",@385791 and how long was is not visible for? ^AS,information,other,,3,5
+1137328,387909,1137329,@AmazonHelp No update yet,"Customer: @AmazonHelp I need to place an order urgently
+AmazonHelp: @387909 I understand your concern. We're working on the issue with the details you've provided and will get back to you soon. ^AP
+Customer: @AmazonHelp No update yet","@387909 Thank you for your patience, Tejas. We are working on this and will get back to you at the earliest. ^KS",information,acknowledgement,,3,5
+1137344,387909,1137345,@AmazonHelp No DM received,"Customer: @AmazonHelp Getting same response from you everywhere. 'Please allow us sometime' your standard response for each issue
+AmazonHelp: @387909 Request you to check your DM. We've responded to your query there. ^SK
+Customer: @AmazonHelp No DM received",@387909 You can check for our response here: https://t.co/UNcnRC59WF .^CB,information,information,,3,5
+361325,201565,361326,@AmazonHelp Yes,"Customer: @AmazonHelp So? https://t.co/BoQSPeu2uF
+AmazonHelp: @201565 I'm sorry for the delay! Thank you for confirming Safari works. If you try again, does the issue happen in the app? ^ST
+Customer: @AmazonHelp Yes","@201565 We'd like to look into this more in depth with you. When you have a moment, reach out to us here: https://t.co/CYqkdUakWJ ^GM",information,investigation,,3,5
+1148283,390234,1148284,@AmazonHelp Yes,"AmazonHelp: @390234 We'd love to help if we can. Without providing personal info, what is going on? ^JF
+Customer: @AmazonHelp Helping me and said it's amazon's problem
+Customer: @AmazonHelp Yes",@390234 Please provide your details here: https://t.co/E5ETzPmcz3 and my team will investigate during regular business hours. ^EZ,information,investigation,,3,5
+1152724,283086,1152723,@AmazonHelp That worked. Thanks!,"Customer: @AmazonHelp No, new items I'm trying to order. All 3 are Prime. 2 say guaranteed 10/30, other says expected 10/30
+AmazonHelp: @283086 You may have one item holding the others up. From the shopping cart, click on I want my items faster and see if that helps ^EM
+Customer: @AmazonHelp That worked. Thanks!","@283086 No problem, that's what we do! Thanks for letting us know and have a great rest of your day. ^EM",information,acknowledgement,,3,5
+391590,208723,391592,@AmazonHelp No reply?,"Customer: @AmazonHelp Pickup is being arranged for last 4 days on a priority basis, how ever nothing moves.
+AmazonHelp: @208723 Apologies for the delay in pickup. Please share your details here: https://t.co/GIJyeYqKE0. We'll get back to you. ^HD
+Customer: @AmazonHelp No reply?",@208723 Did you share the details from the account that was used to place the order? ^SK,information,other,,3,5
+1178058,397065,1178060,@AmazonHelp Okay danke trotzdem.,"Customer: @AmazonHelp Ab wann ist es denn in Deutsch verfügbar, aktuell gibt es die 3. Staffel nur in OV.
+AmazonHelp: @397065 Sobald als möglich, aber aktuell liegen keine Infos vor. Sorry :/ ^AS
+Customer: @AmazonHelp Okay danke trotzdem.",@397065 Bitte 😊,information,other,,3,5
+353628,200062,353630,@AmazonHelp Is this correct??,"Customer: @AmazonHelp It was purchased December 2016
+AmazonHelp: @200062 If you click on the item name, it should take you to the product page. When doing so, the link should be at the top. ^MH
+Customer: @AmazonHelp Is this correct??","@200062 Got it! If it was purchased near the holiday season, there may be a warranty. Have you contacted Sumvision customer service? ^MJ",information,phone_chat,,3,5
+392621,208981,392623,@AmazonHelp Okay thankyou,"Customer: Please update on this order ASAP attached in the picture as l am unable to track on Aramex tracker @115850 @AmazonHelp https://t.co/YbjT0rJaqT
+AmazonHelp: @208981 Please don't provide your order details, as we consider it to be personal info. Our page is visible to the public. 2/2 ^OS
+Customer: @AmazonHelp Okay thankyou","@208981 Sure! Do let us know if the issue still persists, we'll be right here to help. ^MA",information,other,,3,5
+352370,199798,352371,@AmazonHelp Still waitinggggggggg,"Customer: @AmazonHelp Yes I bought TV on next year emi but whole AMT deduct And nobody is calling me for that
+AmazonHelp: @199798 we'll get back to you. 2/2 ^SH
+Customer: @AmazonHelp Still waitinggggggggg",@199798 Could you confirm if you've shared the details via the link provided earlier? ^MS,information,other,,3,5
+352389,199801,352390,@AmazonHelp no correspondence,"Customer: @AmazonHelp no contact from ur team till now
+AmazonHelp: @199801 If the details were shared, you must've received a correspondence from us. Please check. ^HD
+Customer: @AmazonHelp no correspondence","@199801 That's odd. If you haven't received any correspondence, please share your details again and we'll get back to you. ^HD",information,other,,3,5
+467509,226277,467510,@AmazonHelp Yes Looong bck,"Customer: @AmazonHelp I guess you people are not interested in resolving issue, I'm deleting my Amazon app now bcz it's too much now. (1/3) @115850
+AmazonHelp: @226277 link provided above? 2/2 ^SH
+Customer: @AmazonHelp Yes Looong bck","@226277 In that case, I believe we must have already got back to you on this via email. Kindly reply to our email 1/2 ^AB",information,other,,3,5
+350598,199414,350600,@AmazonHelp Thanks for this,"Customer: @115850 Hey @AmazonHelp , look into this matter.
+AmazonHelp: @199414 We'll forward your comments as feedback to the relevant team for better contests. ^MJ
+Customer: @AmazonHelp Thanks for this",@199414 You're welcome. :) ^HR,information,acknowledgement,,3,5
+349967,199269,349970,@AmazonHelp Still waiting !!!,"Customer: @AmazonHelp Noted.Will wait for a positive result.
+AmazonHelp: @199269 We will get back to you via Email. Please keep an eye on your mailbox. ^PB
+Customer: @AmazonHelp Still waiting !!!","@199269 If you have shared the details from the link here, you should have received the correspondence. (1/2)^HR",information,other,,3,5
+530039,242743,530041,@AmazonHelp Still there https://t.co/l6hphFyYe3,"Customer: #AmazonIndia #Amazon First set of oranges grown on moon now available for sale!!!! https://t.co/4rlXIdTHQl
+AmazonHelp: @242743 We cross-checked but couldn't find any similar pricing for the particular item. We would request you to check back with the same item once again. Do keep us posted. ^CB
+Customer: @AmazonHelp Still there https://t.co/l6hphFyYe3",@242743 Our team is working on it. Appreciate your understanding in this concern. ^HR,information,other,,3,5
+349967,199269,349969,@AmazonHelp Still waiting !!!,"Customer: @AmazonHelp Noted.Will wait for a positive result.
+AmazonHelp: @199269 We will get back to you via Email. Please keep an eye on your mailbox. ^PB
+Customer: @AmazonHelp Still waiting !!!",@199269 An email has already been sent with a reply. Kindly check it from the link shared here: https://t.co/NTkrxpsbHJ (2/2)^HR,information,other,,3,5
+993934,323508,993935,@AmazonHelp @115850 Still no response.,"Customer: @AmazonHelp I have already replied to your mail. Plz check.
+AmazonHelp: @323508 Thanks, we'll check and get back to you at the earliest. ^HA
+Customer: @AmazonHelp @115850 Still no response.","@323508 If you have replied to our team, you must've received an update from us. Please find it here: https://t.co/ubzNHWZvL2. ^MP",information,other,,3,5
+348805,199027,348806,@AmazonHelp No reply.,"Customer: @AmazonHelp The person I was coordinating with has stopped replying. Hence this.
+AmazonHelp: @199027 Our team will get back to you with an update. Please reply to the email sent from our team.^HR
+Customer: @AmazonHelp No reply.",@199027 Could you please let us know when was the reply sent? ^HR,information,acknowledgement,,3,5
+395973,209750,395976,@AmazonHelp Ok muchas gracias,"Customer: @AmazonHelp Donde indica vendido por: no pone amazon, pone otra empresa. Si lo gestiona amazon o no, no lo se ver.
+AmazonHelp: @209750 Te recomendamos contactar con el vendedor, en este enlace puedes encontrar más detalles: https://t.co/pWzVpxe0pA ^HC
+Customer: @AmazonHelp Ok muchas gracias","@209750 De nada, cualquier duda adicional o inconveniente, estamos aquí para ayudarte. ^DA",information,other,,3,5
+1211678,404394,1211679,@AmazonHelp Ok thank you,"Customer: @AmazonHelp Ok. But how will i be sure enough that you had taken proper action against your employee who passed misinformation to me and behaved rudely
+AmazonHelp: @404394 As informed, we've passed along your feedback to our team and they'll make sure that corrective actions are taken. ^MM
+Customer: @AmazonHelp Ok thank you",@404394 You're most welcome. ^PS,information,other,,3,5
+1211682,404394,1211683,@AmazonHelp Yes @AmazonHelp already done,"Customer: @AmazonHelp Kindly let me know what action you have taken later on. I do have the right to know. Isn't it. And thank you again for your quick response.
+AmazonHelp: @404394 Sorry for the confusion. Have you filled in the details with the link provided earlier? ^PB
+Customer: @AmazonHelp Yes @AmazonHelp already done",@404394 Thanks for submitting your details. Our team will contact you at the earliest. ^GD,information,acknowledgement,,3,5
+1213391,404791,1213389,@AmazonHelp No tardaré!! Jejeje,"Customer: Me encanta recibir pedidos de @116928 @AmazonHelp Super puntual! Muchas gracias de nuevo😘😊 https://t.co/8WQMltn4k0
+AmazonHelp: @404791 Hola Luciia. ¡Que emoción!😱 ¿ya los estrenaste?🤔 ^HC https://t.co/o0dMZsSIlZ
+Customer: @AmazonHelp No tardaré!! Jejeje",@404791 ¡Que lo disfrutes mucho!😊 ^HC,information,other,,3,5
+1222995,406982,1222997,@AmazonHelp Rubbish... Again autobots,"Customer: @AmazonHelp No you do not understand the concern.. Why should i repeat myself i have nothing new
+AmazonHelp: @406982 Please respond to the latest email you've received from us and we'll have a check on this. ^HN
+Customer: @AmazonHelp Rubbish... Again autobots","@406982 Apologies for the experience, Fareed. Please reply to the correspondence sent to your registered email. We'll assist you. ^SV",information,other,,3,5
+1223024,406982,1223023,@AmazonHelp Yes,"Customer: @AmazonHelp Check my earlier pleads already shared. For some reason you too have started to repeat
+AmazonHelp: @406982 Please confirm if you replied to the email you received from social media team? ^BV
+Customer: @AmazonHelp Yes","@406982 Thanks for confirming, we'll look into it and get back to you soon. Appreciate your patience. ^MO",information,acknowledgement,,3,5
+399135,210368,399132,@AmazonHelp yes,"Customer: @AmazonHelp Inspite of repeated escalation the cashback credit is not done. I am not able to place further orders as I am still waiting for the cashback
+AmazonHelp: @210368 We apologize for the delay. Could you please confirm if you've shared your details in the link given earlier? ^ZH
+Customer: @AmazonHelp yes",@210368 You might've received a correspondence to your registered email id. Please check the same for more information. ^ZH,information,information,,3,5
+665533,118506,665534,@AmazonHelp No cod option,"Customer: @AmazonHelp Fake Amazon
+AmazonHelp: @118506 That's quite a comment, Surendra. Please elaborate your concern for us to assist you better. ^SV
+Customer: @AmazonHelp No cod option","@118506 I get your concern, Surendra. COD depends on courier services available at your pincode, seller and product. (1/2) ^SV",information,other,,3,5
+980248,352420,980251,@AmazonHelp My track no https://t.co/Ku7gPSl17y,"Customer: @115850 Very bad experience with amazon. They hold my product more than one months, frnds help me to share SMS to all
+AmazonHelp: @352420 Sorry for the bad experience. Please let us know more about query so that we can assist you accordingly. ^SH
+Customer: @AmazonHelp My track no https://t.co/Ku7gPSl17y",@352420 information. Our Twitter page is public. 3/3 ^SH,information,information,,3,5
+980248,352420,980252,@AmazonHelp My track no https://t.co/Ku7gPSl17y,"Customer: @115850 Very bad experience with amazon. They hold my product more than one months, frnds help me to share SMS to all
+AmazonHelp: @352420 Sorry for the bad experience. Please let us know more about query so that we can assist you accordingly. ^SH
+Customer: @AmazonHelp My track no https://t.co/Ku7gPSl17y",@352420 get back to you on this. Please don’t provide your details as we consider them to be personal 2/3 ^SH,information,investigation,,3,5
+980248,352420,980253,@AmazonHelp My track no https://t.co/Ku7gPSl17y,"Customer: @115850 Very bad experience with amazon. They hold my product more than one months, frnds help me to share SMS to all
+AmazonHelp: @352420 Sorry for the bad experience. Please let us know more about query so that we can assist you accordingly. ^SH
+Customer: @AmazonHelp My track no https://t.co/Ku7gPSl17y",@352420 I'd like work on the issue and set things right. Please provide your details here: https://t.co/fpq00WPpfa and I'll 1/3 ^SH,information,investigation,,3,5
+332388,195149,332390,@AmazonHelp I bought it,"Customer: #Amazon Amazon India Thanks to start selling such type of useful gadgets. Thanks... https://t.co/tCnrvFRoxq
+AmazonHelp: @195149 we have. Have you planned to buy this or have you already bought one? (2/2)^SQ
+Customer: @AmazonHelp I bought it",@195149 the cassettes that you own? We're curious to know! (2/2)^SQ,information,other,,3,5
+332388,195149,332391,@AmazonHelp I bought it,"Customer: #Amazon Amazon India Thanks to start selling such type of useful gadgets. Thanks... https://t.co/tCnrvFRoxq
+AmazonHelp: @195149 we have. Have you planned to buy this or have you already bought one? (2/2)^SQ
+Customer: @AmazonHelp I bought it",@195149 Wow! That's an amazing choice. We're starting to think you're a retro lover. What are (1/2)^SQ,information,other,,3,5
+332409,195150,332410,@AmazonHelp Sent it over,"Customer: @AmazonHelp The number we called was off the amazon website!
+AmazonHelp: @195150 Please provide your details here: https://t.co/2EV3kfWFPw so my team can investigate further. ^EZ
+Customer: @AmazonHelp Sent it over",@195150 I can confirm we've received your information. We'll need some time to research this and then we'll be in contact. ^RA,information,information,,3,5
+331567,194957,331568,@AmazonHelp No,"Customer: @AmazonHelp @AmazonHelp
+AmazonHelp: @194957 There may be a specific address they'd like the information sent to. Is an address mentioned towards the bottom of the e-mail? ^ST
+Customer: @AmazonHelp No",@194957 We want to investigate this further with you. Please reach out to us using this secure link: https://t.co/b8LQsqSCWr ^GR,information,investigation,,3,5
+328484,194319,328485,@AmazonHelp No,"Customer: @AmazonHelp Creoque es un vendedor joyguardy vermos si el producto llega mañana,muy mal estáis jugando vuestra reputación con estos tipos de vendedores
+AmazonHelp: @194319 ¿Has entrado en contacto con el vendedor para indicarle lo sucedido? ^JQ
+Customer: @AmazonHelp No",@194319 Puedes hacerlo de la siguiente manera: https://t.co/MnXfOqMO5l. ^JQ,information,other,,3,5
+1269498,417241,1269497,@AmazonHelp Ok merci !!,"Customer: Comment déceler un mail Phishing qui se fait passer pour @115821 . C'est vraiment tout petit, mais il faut le voir. @AmazonHelp https://t.co/747BGG6Gq7
+AmazonHelp: @417241 Je vous conseille de ne pas fournir le moindre renseignement tels que votre identifiant et votre mot de passe. 2/2 ^MD
+Customer: @AmazonHelp Ok merci !!",@417241 Je vous en prie. ^SM,information,other,,3,5
+1293716,422535,1293717,@AmazonHelp Still no sign,"Customer: @AmazonHelp Today im not going to be able to answer the door bc im locked in. And i NEED these supplies today for a commission 😂😭
+AmazonHelp: @422535 Oh no! It may be possible to leave safe place instructions. Please get in touch - https://t.co/JzP7hlA23B Keep us posted ^TP
+Customer: @AmazonHelp Still no sign","@422535 Our carriers deliver until 21:00. If it doesn't arrive by this time, we can review your options at the link ^TP provided. ^RA",information,investigation,,3,5
+1300523,381330,1300524,@AmazonHelp Yes,"Customer: @115850 whats going not still not problem sloved 😥😭😡😡😡
+AmazonHelp: @381330 Have you submitted your details through the link shared previously? ^HK
+Customer: @AmazonHelp Yes","@381330 Thanks for letting us know about that, Jagdish. We'll review the details and get in touch with you soon. ^JC",information,acknowledgement,,3,5
+1310345,294193,1310346,@AmazonHelp Still waiting,"Customer: @AmazonHelp @115851 need your help Mr Bezos . My sickin tired with this customer experience https://t.co/PVpoHO3yTd
+AmazonHelp: @294193 We're currently working on your issue. We'll be contacting you with an update. Request you to wait for the same. ^ZH
+Customer: @AmazonHelp Still waiting","@294193 As you have shared the details, we will connect with you within 6-12 hours. ^SG",information,other,,3,5
+1312510,426692,1312511,@AmazonHelp No,"Customer: @AmazonHelp Said it was supposed to be here by 8pm today
+AmazonHelp: @426692 Sorry for the delay, have you received any emails regarding the order? ^JJ
+Customer: @AmazonHelp No",@426692 Has it been dispatched? Does the tracking advise where it is? ^PK,information,other,,3,5
+1325557,429302,1325556,@AmazonHelp Ok merci !,"Customer: Ou est mon colis @120533 @AmazonHelp num de suivi : 1zay35976826890919
+AmazonHelp: @429302 Bonjour, selon le suivi votre colis a été deposé en boîte aux lettres le 26 octobre 2017, je vous prie de vérifier.^FT
+Customer: @AmazonHelp Ok merci !",@429302 À votre service,information,other,,3,5
+1331859,178946,1331863,@AmazonHelp YES that is...,"Customer: @AmazonHelp amazon... आपकी अपनी चू*या बनाने की दुकान !!
+AmazonHelp: @178946 That's quite a remark, Sudeep. We've sent a correspondence to your registered email. Please check your inbox. ^SV
+Customer: @AmazonHelp YES that is...","@178946 In this case, for any further assistance please reply to the eamil. We'll check and assist you. ^SV",information,other,,3,5
