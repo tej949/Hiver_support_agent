@@ -196,7 +196,7 @@ class FinalAgent:
             class_weight="balanced",
             random_state=42,
         )
-        self.classifier.fit(X, self.train["gold_intent"])
+        self.classifier.fit(X, self.train["silver_intent"])
 
         # Retrieval corpus is restricted to the training customers/rows.
         train_ids = set(self.train["customer_tweet_id"].map(norm_id))
@@ -210,7 +210,7 @@ class FinalAgent:
             + self.retrieval.apply(make_context, axis=1).map(normalize_text)
         )
         self.retrieval["intent"] = self.retrieval["customer_tweet_id"].map(
-            self.train.set_index("customer_tweet_id")["gold_intent"].to_dict()
+            self.train.set_index("customer_tweet_id")["silver_intent"].to_dict()
         )
 
         self.retrieval_vectorizer = TfidfVectorizer(
@@ -270,8 +270,8 @@ def evaluate_golden(agent):
     rows = []
 
     for _, r in gold.iterrows():
-        context = make_context(r) if "prev_1_customer" in gold.columns else ""
-        pred = agent.predict(r["customer_text"], context)
+        context = r["conversation_context"]
+        pred = agent.predict(r["current_customer_message"],r["conversation_context"])
         rows.append({
             "customer_tweet_id": r.get("customer_tweet_id", ""),
             "gold_intent": r["gold_intent"],

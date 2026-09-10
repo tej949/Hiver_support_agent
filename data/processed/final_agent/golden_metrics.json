@@ -1,0 +1,12 @@
+{
+  "n": 200,
+  "intent_accuracy": 0.595,
+  "intent_macro_f1": 0.5760353363138742,
+  "action_accuracy": 0.305,
+  "action_macro_f1": 0.19968325123385514,
+  "handling_accuracy": 0.605,
+  "handling_macro_f1": 0.6014026589974519,
+  "evidence_agreement": 0.59,
+  "escalation_precision": 0.6666666666666666,
+  "escalation_recall": 0.6140350877192983
+}
